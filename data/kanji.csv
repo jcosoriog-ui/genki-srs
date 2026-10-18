@@ -1,0 +1,318 @@
+number,kanji,book,lesson,meaning_en,on_yomi,kun_yomi,strokes,compounds,page,example_ja,example_book,example_lesson,example_section,example_page,example_from_ocr,meaning_es
+1,一,1,3,one,いち いっ,ひと,1,一（いち）uno (cosa) ／ 一時（いちじ）la una en punto ／ 一年生（いちねんせい）estudiante de primer año ／ 一分（いっぷん）un minuto ／ 一つ（ひとつ）uno (cosa),304,ソラさんは一時に郵便局に行きます。,1,3,会,98,True,uno
+2,二,1,3,two,に,ふた,2,二（に）dos (cosas) ／ 二時（にじ）las dos en punto ／ 二年生（にねんせい）estudiante de segundo año ／ 二つ（ふたつ）dos (cosas) ／ 二日間（ふつかかん）dos días,304,十二時ごろねます。,1,3,読,307,True,dos
+3,三,1,3,three,さん,みっ,3,三（さん）tres (cosas) ／ 三時（さんじ）las tres en punto ／ 三年生（さんねんせい）estudiante de tercer año ／ 三月（さんがつ）marzo ／ 三つ（みっつ）tres (cosas),304,三時に図書館で日本語を勉強します。,1,3,会,100,True,tres
+4,四,1,3,four,し,よん よ よっ,5,四（よん）cuatro (cosas) ／ 四時（よじ）las cuatro en punto ／ 四年生（よねんせい）estudiante de cuarto año ／ 四月（しがつ）abril ／ 四つ（よっつ）cuatro (cosas),304,四人は「ときどき残業をする」,1,8,読,332,True,cuatro
+5,五,1,3,five,ご,いつ,4,五（ご）cinco (cosas) ／ 五時（ごじ）las cinco en punto ／ 五月（ごがつ）mayo ／ 五歳（ごさい）cinco años de edad ／ 五つ（いつつ）cinco (cosas),304,五時にマクドナルドでハンバーガーを食べます。,1,3,会,98,True,cinco
+6,六,1,3,six,ろく ろっ,むっ,4,六（ろく）seis (cosas) ／ 六時（ろくじ）las seis en punto ／ 六百（ろっぴゃく）seiscientos ／ 六分（ろっぷん）seis minutos ／ 六つ（むっつ）seis (cosas),304,六時ごろうちへかえります。,1,3,読,307,True,seis
+7,七,1,3,seven,しち,なな,2,七（しち／なな）siete (cosas) ／ 七時（しちじ）las siete en punto ／ 七月（しちがつ）julio ／ 七つ（ななつ）siete (cosas) ／ 七人（ななにん／しちにん）siete personas,304,わたしはまいにち七時におきます。,1,3,読,307,True,siete
+8,八,1,3,eight,はち はっ,やっ,2,八（はち）ocho (cosas) ／ 八時（はちじ）las ocho en punto ／ 八百（はっぴゃく）ochocientos ／ 八歳（はっさい）ocho años de edad ／ 八つ（やっつ）ocho (cosas),304,八時にだいがくへいきます。,1,3,読,307,True,ocho
+9,九,1,3,nine,きゅう く,ここの,2,九（きゅう）nueve (cosas) ／ 九時（くじ）las nueve en punto ／ 九月（くがつ）septiembre ／ 九歳（きゅうさい）nueve años de edad ／ 九つ（ここのつ）nueve (cosas),305,メアリー： 九時ごろです。,1,3,会,82,True,nueve
+10,十,1,3,ten,じゅう じゅっ じっ,とお,2,十（じゅう）diez (cosas) ／ 十時（じゅうじ）las diez en punto ／ 十月（じゅうがつ）octubre ／ 十歳（じゅっさい／じっさい）diez años de edad ／ 十（とお）diez (cosas),305,十時にテレビをみます。,1,3,読,307,True,diez
+11,百,1,3,hundred,ひゃく びゃく ぴゃく,,6,百（ひゃく）cien ／ 三百（さんびゃく）trescientos ／ 六百（ろっぴゃく）seiscientos ／ 八百（はっぴゃく）ochocientos,305,店の人： ニチハ百円です。,1,9,会,211,True,cien
+12,千,1,3,thousand,せん ぜん,,3,千（せん）mil ／ 三千（さんぜん）tres mil ／ 八千（はっせん）ocho mil ／ 千円（せんえん）mil yenes,305,一万円札を千円札十枚に両替できますか。,2,13,会,45,False,mil
+13,万,1,3,ten thousand,まん,,3,一万（いちまん）diez mil ／ 十万（じゅうまん）cien mil ／ 百万（ひゃくまん）un millón,305,この原爆で二十万人の人が死にました。,2,15,読,289,False,diez mil
+14,円,1,3,yen; circle,えん,まる,4,百円（ひゃくえん）cien yenes ／ 円（えん）círculo ／ 円高（えんだか）yen fuerte ／ 円い（まるい）redondo,305,店の人： ニチハ百円です。,1,9,会,211,True,yen; círculo
+15,時,1,3,time,じ,とき,10,一時（いちじ）la una en punto ／ 時間（じかん）tiempo; ... horas ／ 子どもの時（こどものとき）en la infancia ／ 時々（ときどき）a veces ／ 時計（とけい）reloj,305,わたしはまいにち七時におきます。,1,3,読,307,True,tiempo; hora
+16,日,1,4,day; sun,に にち にっ,び ひ か,4,日本（にほん）Japón ／ 日曜日（にちようび）domingo ／ 毎日（まいにち）todos los días ／ 母の日（ははのひ）Día de la Madre ／ 日記（にっき）diario (cuaderno) ／ 三日（みっか）tres días,308,金曜日に日本人のともだちとこうえんにいきました。,1,4,読,311,True,día; sol
+17,本,1,4,book; basis,ほん,もと,5,本（ほん）libro ／ 日本（にほん）Japón ／ 日本語（にほんご）idioma japonés ／ 山本さん（やまもとさん）Sr./Sra. Yamamoto,308,金曜日に日本人のともだちとこうえんにいきました。,1,4,読,311,True,libro; origen
+18,人,1,4,person,じん にん,ひと,2,日本人（にほんじん）japonés (persona) ／ 一人で（ひとりで）solo (sin compañía) ／ この人（このひと）esta persona ／ 三人（さんにん）tres personas,308,金曜日に日本人のともだちとこうえんにいきました。,1,4,読,311,True,persona
+19,月,1,4,moon; month,げつ がつ,つき,4,月曜日（げつようび）lunes ／ 一月（いちがつ）enero ／ 月（つき）luna ／ 今月（こんげつ）este mes ／ 一か月（いっかげつ）un mes,308,月曜日に英語のクラスがありますか。,1,4,会,116,True,luna; mes
+20,火,1,4,fire,か,ひ び,4,火曜日（かようび）martes ／ 火（ひ）incendio ／ 火山（かざん）volcán ／ 花火（はなび）fuegos artificiales ／ 火星（かせい）Marte,308,メアリーさんは火曜日に音楽を聞きましたか。,1,4,会,121,True,fuego
+21,水,1,4,water,すい,みず,4,水曜日（すいようび）miércoles ／ 水（みず）agua ／ 水泳（すいえい）natación ／ 水道（すいどう）suministro de agua ／ 水着（みずぎ）traje de baño,308,水曜日に何がありますか。,1,4,会,116,True,agua
+22,木,1,4,tree,もく,き,4,木曜日（もくようび）jueves ／ 木（き）árbol ／ 木村さん（きむらさん）Sr./Sra. Kimura,308,木曜日に中国語のクラスがありますか。,1,4,会,116,True,árbol
+23,金,1,4,gold; money,きん,かね,8,金曜日（きんようび）viernes ／ お金（おかね）dinero ／ 料金（りょうきん）tarifa; cargo ／ お金持ち（おかねもち）persona rica,308,金曜日に日本人のともだちとこうえんにいきました。,1,4,読,311,True,oro; dinero
+24,土,1,4,soil,ど と,つち,3,土曜日（どようび）sábado ／ 土（つち）tierra; suelo ／ 土地（とち）terreno ／ 粘土（ねんど）arcilla,309,土曜日は一人でおてらへいきました。,1,4,読,311,True,tierra
+25,曜,1,4,weekday,よう,,18,日曜日（にちようび）domingo ／ 曜日（ようび）día de la semana,309,金曜日に日本人のともだちとこうえんにいきました。,1,4,読,311,True,día de la semana
+26,上,1,4,up,じょう,うえ のぼ,3,上（うえ）encima; arriba ／ 上手な（じょうずな）bueno en; hábil ／ 屋上（おくじょう）azotea ／ 上る（のぼる）subir,309,ロバート：じや、上サイズを＝数ください。,1,5,会,128,True,arriba
+27,下,1,4,down,か,した くだ,3,"下（した）debajo ／ 地下鉄（ちかてつ）metro (tren subterráneo) ／ 下手な（へたな）malo en ／ 下さい（ください）Por favor, deme/haga...",309,山下先生はさくら大学の学生でした。,1,4,会,110,True,abajo
+28,中,1,4,middle,ちゅう じゅう,なか,4,中（なか）dentro ／ 中国（ちゅうごく）China ／ 中学（ちゅうがく）escuela secundaria ／ 一年中（いちねんじゅう）todo el año,309,木曜日に中国語のクラスがありますか。,1,4,会,116,True,medio; dentro
+29,半,1,4,half,はん,,5,三時半（さんじはん）las tres y media ／ 半分（はんぶん）media (hora); mitad ／ 半年（はんとし）medio año ／ 半額（はんがく）mitad de precio,309,ジョン：　終電だったから……たぶん、一時半ごろです。,2,21,会,206,False,mitad
+30,山,1,5,mountain,さん,やま,3,山（やま）montaña ／ 山川さん（やまかわさん）Sr./Sra. Yamakawa ／ 富士山（ふじさん）monte Fuji,312,山下先生はこわい先生です。,1,5,会,134,True,montaña
+31,川,1,5,river,,かわ がわ,3,川（かわ）río ／ 山川さん（やまかわさん）Sr./Sra. Yamakawa ／ 小川さん（おがわさん）Sr./Sra. Ogawa,312,きれいな山と川の近くです。,1,6,読,321,True,río
+32,元,1,5,origin,げん がん,もと,4,元気な（げんきな）bien; sano ／ 元日（がんじつ）el primer día del año ／ 地元（じもと）local,312,いいえ、元気じゃなかったと思います。,1,9,会,221,True,origen
+33,気,1,5,spirit,き,,6,元気な（げんきな）bien; sano ／ 天気（てんき）clima; tiempo ／ 電気（でんき）electricidad ／ 気持ち（きもち）sentimiento ／ 人気（にんき）popularidad,312,（ ）今日はいい天気です。,1,5,読,314,True,espíritu; ánimo
+34,天,1,5,heaven,てん,,4,天気（てんき）clima; tiempo ／ 天国（てんごく）paraíso ／ 天皇（てんのう）emperador de Japón ／ 天才（てんさい）genio,312,（ ）今日はいい天気です。,1,5,読,314,True,cielo
+35,私,1,5,I; private,し,わたし,7,私（わたし）yo ／ 私立大学（しりつだいがく）universidad privada,312,私は野菜は好きですが、肉はきらいです。,1,5,会,135,True,yo; privado
+36,今,1,5,now,こん,いま,4,今（いま）ahora ／ 今日（きょう）hoy ／ 今晩（こんばん）esta noche ／ 今月（こんげつ）este mes ／ 今年（ことし）este año,312,ロバートさんは今どこにいますか。,1,5,読,316,True,ahora
+37,田,1,5,rice field,,た だ,5,田中さん（たなかさん）Sr./Sra. Tanaka ／ 山田さん（やまださん）Sr./Sra. Yamada ／ 田んぼ（たんぼ）arrozal,312,（）メアリーさんのホストファミリーの名前は山田だ。,1,9,読,338,True,arrozal
+38,女,1,5,woman,じょ,おんな,3,女の人（おんなのひと）mujer ／ 女性（じょせい）mujer ／ 女の子（おんなのこ）niña; muchacha ／ 長女（ちょうじょ）la hija mayor,313,（） 男の人と女の人がいます。,1,5,読,314,True,mujer
+39,男,1,5,man,だん,おとこ,7,男の人（おとこのひと）hombre ／ 男性（だんせい）hombre ／ 男の子（おとこのこ）niño; muchacho ／ 男子学生（だんしがくせい）estudiante (hombre),313,（） 男の人と女の人がいます。,1,5,読,314,True,hombre
+40,見,1,5,to see,けん,み,7,見る（みる）ver ／ 見物（けんぶつ）turismo; visita turística ／ 花見（はなみ）contemplación de flores (hanami) ／ 意見（いけん）opinión,313,きのうはおしろを見ました。,1,5,読,315,True,ver
+41,行,1,5,to go,こう ぎょう,い,6,行く（いく）ir ／ 銀行（ぎんこう）banco ／ 一行目（いちぎょうめ）primera línea ／ 旅行（りょこう）viaje,313,たけし： ロバートさん、旅行は楽しかったですか。,1,5,会,129,True,ir
+42,食,1,5,to eat,しょく,た,9,食べる（たべる）comer ／ 食べ物（たべもの）comida (alimento) ／ 食堂（しょくどう）comedor; cafetería ／ 食事（しょくじ）comida (en general) ／ 朝食（ちょうしょく）desayuno,313,（） ハンバーガーを食べます。,1,5,読,314,True,comer
+43,飲,1,5,to drink,いん,の,12,飲む（のむ）beber ／ 飲み物（のみもの）bebida ／ 飲酒運転（いんしゅうんてん）conducir en estado de ebriedad,313,まいにちカフェでコーヒーを飲みます。,1,5,読,315,True,beber
+44,東,1,6,east,とう,ひがし,8,東（ひがし）este (punto cardinal) ／ 東口（ひがしぐち）salida este ／ 東京（とうきょう）Tokio ／ 関東（かんとう）región de Kantō ／ 東洋（とうよう）Oriente,318,東北のまちでホームステイをしませんか。,1,6,読,321,True,este
+45,西,1,6,west,せい さい,にし,6,西（にし）oeste ／ 西口（にしぐち）salida oeste ／ 北西（ほくせい）noroeste ／ 関西（かんさい）región de Kansai ／ 西洋（せいよう）Occidente,318,（）こうえん：西口をまっすぐ十五分ぐらい行ってください。,1,6,読,320,True,oeste
+46,南,1,6,south,なん,みなみ,9,南（みなみ）sur ／ 南口（みなみぐち）salida sur ／ 南東（なんとう）sudeste ／ 南極（なんきょく）Antártida ／ 東南アジア（とうなんアジア）Sudeste Asiático,318,南口の近くです。,1,6,読,320,True,sur
+47,北,1,6,north,ほく ほっ,きた,5,北（きた）norte ／ 北口（きたぐち）salida norte ／ 東北（とうほく）región de Tōhoku ／ 北極（ほっきょく）Polo Norte ／ 北海道（ほっかいどう）Hokkaido,318,東北のまちでホームステイをしませんか。,1,6,読,321,True,norte
+48,口,1,6,mouth,こう,ぐち くち,3,北口（きたぐち）salida norte ／ 口（くち）boca ／ 人口（じんこう）población ／ 入り口／入口（いりぐち）entrada,318,（ ）山下先生のうち：北口を出て、右へ十分ぐらいです。,1,6,読,320,True,boca
+49,出,1,6,to exit,しゅっ しゅつ,で だ,5,出る（でる）salir ／ 出口（でぐち）salida ／ 出かける（でかける）salir ／ 出す（だす）sacar algo ／ 出席（しゅっせき）asistencia ／ 輸出（ゆしゅつ）exportación,318,（ ）山下先生のうち：北口を出て、右へ十分ぐらいです。,1,6,読,320,True,salir
+50,右,1,6,right,う ゆう,みぎ,5,右（みぎ）derecha ／ 右折（うせつ）giro a la derecha ／ 左右（さゆう）derecha e izquierda ／ 右手（みぎて）mano derecha ／ 右側（みぎがわ）lado derecho,318,（ ）山下先生のうち：北口を出て、右へ十分ぐらいです。,1,6,読,320,True,derecha
+51,左,1,6,left,さ,ひだり,5,左（ひだり）izquierda ／ 左折（させつ）giro a la izquierda ／ 左手（ひだりて）mano izquierda ／ 左利き（ひだりきき）zurdo,318,（ ）大学：北口を出て、左へ十分ぐらい行ってください。,1,6,読,320,True,izquierda
+52,分,1,6,minute; to divide,ふん ぷん ぶん,わ,4,五分（ごふん）cinco minutos ／ 十分（じゅっぷん／じっぷん）diez minutos ／ 自分（じぶん）uno mismo ／ 分ける（わける）dividir,319,（ ）山下先生のうち：北口を出て、右へ十分ぐらいです。,1,6,読,320,True,minuto; dividir
+53,先,1,6,ahead,せん,さき,6,先生（せんせい）profesor ／ 先週（せんしゅう）la semana pasada ／ 先に（さきに）adelante; antes ／ 先月（せんげつ）el mes pasado ／ 先輩（せんぱい）compañero de mayor antigüedad,319,（ ）山下先生のうち：北口を出て、右へ十分ぐらいです。,1,6,読,320,True,adelante; previo
+54,生,1,6,birth,せい しょう,う,5,学生（がくせい）estudiante ／ 先生（せんせい）profesor ／ 生まれる（うまれる）nacer ／ 一生に一度（いっしょうにいちど）una vez en la vida,319,（ ）山下先生のうち：北口を出て、右へ十分ぐらいです。,1,6,読,320,True,nacimiento; vida
+55,大,1,6,big,だい たい,おお,3,大学生（だいがくせい）estudiante universitario ／ 大きい（おおきい）grande ／ 大変な（たいへんな）duro; difícil ／ 大人（おとな）adulto ／ 大使館（たいしかん）embajada,319,（ ）大学：北口を出て、左へ十分ぐらい行ってください。,1,6,読,320,True,grande
+56,学,1,6,learning,がく がっ,まな,8,大学（だいがく）universidad ／ 学生（がくせい）estudiante ／ 学校（がっこう）escuela ／ 学ぶ（まなぶ）estudiar ／ 学部（がくぶ）departamento; facultad,319,（ ）大学：北口を出て、左へ十分ぐらい行ってください。,1,6,読,320,True,aprendizaje
+57,外,1,6,outside,がい,そと,5,外国（がいこく）país extranjero ／ 外国人（がいこくじん）extranjero (persona) ／ 外（そと）afuera ／ 海外（かいがい）extranjero (en el exterior),319,来は外国の山に登りたいと思っています。,1,11,読,349,True,fuera
+58,国,1,6,country,こく ごく こっ,くに,8,外国（がいこく）país extranjero ／ 中国（ちゅうごく）China ／ 国（くに）país ／ 韓国（かんこく）Corea del Sur ／ 国会（こっかい）la Dieta (parlamento japonés),319,国に帰って、友だちに「かめを食べたことがある」,2,13,読,278,False,país
+59,京,1,7,capital,きょう,,8,東京（とうきょう）Tokio ／ 京子（きょうこ）Kyoko ／ 京都（きょうと）Kioto ／ 上京する（じょうきょうする）ir a la capital,324,住んでいる家族は東京に住んでいます。,1,7,会,172,True,capital
+60,子,1,7,child,し,こ,3,子ども（こども）niño ／ 京子（きょうこ）Kyoko ／ 女の子（おんなのこ）niña; muchacha ／ 男の子（おとこのこ）niño; muchacho ／ 女子学生（じょしがくせい）estudiante (mujer),324,子供の時、自転車を持っていましたか。,1,7,会,183,True,niño
+61,小,1,7,small,しょう,ちい,3,小さい（ちいさい）pequeño ／ 小学校（しょうがっこう）escuela primaria ／ 小学生（しょうがくせい）alumno de primaria,324,男の人は目が小さいですか。,1,7,会,178,True,pequeño
+62,会,1,7,to meet,かい,あ,6,会う（あう）encontrarse con ／ 会社（かいしゃ）empresa ／ 会社員（かいしゃいん）oficinista; empleado ／ 会議（かいぎ）reunión ／ 教会（きょうかい）iglesia,324,ニューヨークの会社で働いています。,1,7,会,166,True,reunirse
+63,社,1,7,company,しゃ じゃ,,7,会社（かいしゃ）empresa ／ 神社（じんじゃ）santuario sintoísta ／ 社会（しゃかい）sociedad ／ 入社（にゅうしゃ）ingreso en una empresa,324,ニューヨークの会社で働いています。,1,7,会,166,True,empresa
+64,父,1,7,father,ふ,ちち とう,4,父（ちち）padre ／ お父さん（おとうさん）padre ／ 父母（ふぼ）padre y madre ／ 祖父（そふ）abuelo,324,お父さん／お母さんはどこで働いていますか。,1,7,会,183,True,padre
+65,母,1,7,mother,ぼ,はは かあ,5,母（はは）madre (de otro / al dirigirse) ／ お母さん（おかあさん）madre (de otro / al dirigirse) ／ 母語（ぼご）lengua materna ／ 祖母（そぼ）abuela,324,お父さん／お母さんはどこで働いていますか。,1,7,会,183,True,madre
+66,高,1,7,high,こう,たか,10,高い（たかい）caro; alto ／ 高校（こうこう）preparatoria; bachillerato ／ 高校生（こうこうせい）estudiante de preparatoria ／ 最高（さいこう）lo mejor,324,ゆい： 背が高くて、かっこいいですね。,1,7,会,166,True,alto
+67,校,1,7,school,こう,,10,学校（がっこう）escuela ／ 高校（こうこう）preparatoria; bachillerato ／ 高校生（こうこうせい）estudiante de preparatoria ／ 中学校（ちゅうがっこう）escuela secundaria,325,あなたの学校に日本語の先生が何人いますか。,1,7,会,183,True,escuela
+68,毎,1,7,every,まい,,6,毎日（まいにち）todos los días ／ 毎週（まいしゅう）cada semana ／ 毎晩（まいばん）todas las noches ／ 毎年（まいねん／まいとし）todos los años,325,メアリーさんは毎日日本語を勉強しています。,1,7,会,171,True,cada
+69,語,1,7,word,ご,,14,日本語（にほんご）idioma japonés ／ 英語（えいご）idioma inglés ／ 敬語（けいご）expresiones honoríficas,325,メアリーさんは毎日日本語を勉強しています。,1,7,会,171,True,palabra; idioma
+70,文,1,7,sentence,ぶん,,4,文学（ぶんがく）literatura ／ 作文（さくぶん）redacción ／ 文字（もじ）letra; carácter ／ 文化（ぶんか）cultura ／ 文法（ぶんぽう）gramática,325,日本語や日本文化を勉強しています。,1,11,読,350,True,oración; escritura
+71,帰,1,7,to return,き,かえ,10,帰る（かえる）regresar ／ 帰国（きこく）regreso al país ／ 帰宅（きたく）regreso a casa ／ 帰り（かえり）regreso,325,家にに帰ります。,1,7,会,181,True,regresar
+72,入,1,7,to enter,にゅう,はい い いり,2,入る（はいる）entrar ／ 入り口／入口（いりぐち）entrada ／ 入れる（いれる）meter algo ／ 輸入（ゆにゅう）importación,325,サークルに入っていますか。,1,7,会,183,True,entrar
+73,員,1,8,member,いん,,10,会社員（かいしゃいん）oficinista; empleado ／ 店員（てんいん）dependiente de tienda ／ 会員（かいいん）miembro ／ 駅員（えきいん）empleado de la estación,329,この間、新聞で「日本の会社員とストレス」,1,8,読,332,True,miembro
+74,新,1,8,new,しん,あたら,13,新しい（あたらしい）nuevo ／ 新聞（しんぶん）periódico ／ 新幹線（しんかんせん）tren bala ／ 新鮮な（しんせんな）fresco,329,この間、新聞で「日本の会社員とストレス」,1,8,読,332,True,nuevo
+75,聞,1,8,to listen,ぶん,き,14,聞く（きく）escuchar ／ 新聞（しんぶん）periódico ／ 聞こえる（きこえる）poder oírse,329,この間、新聞で「日本の会社員とストレス」,1,8,読,332,True,escuchar
+76,作,1,8,to make,さく,つく,7,作る（つくる）hacer; fabricar ／ 作文（さくぶん）redacción ／ 作品（さくひん）obra artística ／ 作者（さくしゃ）autor,329,留学生のウデイさんはアンケートを作って、日本人の会社員に聞きました。,1,8,読,331,True,hacer; crear
+77,仕,1,8,to serve,し,つか,5,仕事（しごと）trabajo ／ 仕返し（しかえし）venganza ／ 仕える（つかえる）servir; trabajar bajo,329,まず、「仕事のストレスがありますか」,1,8,読,332,True,servir
+78,事,1,8,thing,じ,ごと こと,8,仕事（しごと）trabajo ／ 事（こと）cosa ／ 火事（かじ）incendio ／ 食事（しょくじ）comida (en general) ／ 返事（へんじ）respuesta,329,まず、「仕事のストレスがありますか」,1,8,読,332,True,cosa; asunto
+79,電,1,8,electricity,でん,,13,電車（でんしゃ）tren ／ 電気（でんき）electricidad; luz ／ 電話（でんわ）teléfono ／ 電池（でんち）pila; batería ／ 電子レンジ（でんしレンジ）horno de microondas,329,よく電車に乗る？,1,8,会,198,True,electricidad
+80,車,1,8,car,しゃ,くるま,7,車（くるま）coche; carro ／ 電車（でんしゃ）tren ／ 自転車（じてんしゃ）bicicleta ／ 車いす（くるまいす）silla de ruedas ／ 駐車場（ちゅうしゃじょう）estacionamiento,329,自転車を持っている？,1,8,会,199,True,coche
+81,休,1,8,to rest,きゅう,やす,6,休む（やすむ）faltar; descansar ／ 休み（やすみ）vacaciones; ausencia ／ 休日（きゅうじつ）día festivo,330,から、休みもあまり出かけません。,1,8,読,332,True,descansar
+82,言,1,8,to say,げん,い こと,7,言う（いう）decir ／ 言語学（げんごがく）lingüística ／ 方言（ほうげん）dialecto ／ 言葉（ことば）palabra; idioma,330,と言っていました。,1,8,読,332,True,decir
+83,読,1,8,to read,どく,よ,14,読む（よむ）leer ／ 読書（どくしょ）lectura de libros ／ 読み物（よみもの）material de lectura,330,ウデイさんは新聞で何の話を読みましたか。,1,8,読,333,True,leer
+84,思,1,8,to think,し,おも,9,思う（おもう）pensar ／ 不思議な（ふしぎな）misterioso ／ 思い出す（おもいだす）recordar,330,アンケートの後、 ウデイさんはどう思いましたか。,1,8,読,333,True,pensar
+85,次,1,8,next,じ,つぎ,6,次（つぎ）al lado ／ 次女（じじょ）segunda hija ／ 目次（もくじ）índice ／ 次回（じかい）la próxima vez,330,次に「仕事の後、何をしますか」,1,8,読,332,True,siguiente
+86,何,1,8,what,,なに なん,7,何（なに）qué ／ 何時（なんじ）qué hora ／ 何人（なんにん）cuántas personas ／ 何か（なにか）algo,330,ウデイさんは新聞で何の話を読みましたか。,1,8,読,333,True,qué
+87,午,1,9,noon,ご,,4,午前（ごぜん）a. m. ／ 午後（ごご）p. m.; por la tarde ／ 午前中（ごぜんちゅう）durante la mañana ／ 正午（しょうご）mediodía,334,,,,,,False,mediodía
+88,後,1,9,after,ご,あと うし,9,午後（ごご）p. m.; por la tarde ／ 〜の後（のあと）después de ... ／ 後で（あとで）más tarde ／ 後ろ（うしろ）atrás; detrás ／ 最後に（さいごに）por último,334,晩ご飯の後、いろいろな話をした。,1,9,読,337,True,después
+89,前,1,9,before,ぜん,まえ,9,前（まえ）antes; delante ／ 午前（ごぜん）a. m. ／ 名前（なまえ）nombre ／ 前売り（まえうり）venta anticipada,334,（）メアリーさんのホストファミリーの名前は山田だ。,1,9,読,338,True,antes; delante
+90,名,1,9,name,めい みょう,な,6,名前（なまえ）nombre ／ 有名な（ゆうめいな）famoso ／ 名刺（めいし）tarjeta de visita ／ 氏名（しめい）nombre completo ／ 名字（みょうじ）apellido,334,（）メアリーさんのホストファミリーの名前は山田だ。,1,9,読,338,True,nombre
+91,白,1,9,white,はく,しろ,5,白い（しろい）blanco ／ 白紙（はくし）hoja en blanco ／ 白（しろ）color blanco ／ 白鳥（はくちょう）cisne,334,白くて、大きい家だった。,1,9,読,336,True,blanco
+92,雨,1,9,rain,う,あめ,8,雨（あめ）lluvia ／ 雨期（うき）temporada de lluvias ／ 梅雨（つゆ）temporada de lluvias ／ 大雨（おおあめ）lluvia intensa,334,今日は朝から雨がふっていた。,1,9,読,336,True,lluvia
+93,書,1,9,to write,しょ,か,10,書く（かく）escribir ／ 辞書（じしょ）diccionario ／ 教科書（きょうかしょ）libro de texto ／ 図書館（としょかん）biblioteca,334,ソラさんは日記を書きました。,1,9,読,336,True,escribir
+94,友,1,9,friend,ゆう,とも,4,友だち（ともだち）amigo ／ 親友（しんゆう）mejor amigo ／ 友人（ゆうじん）amigo ／ 友情（ゆうじょう）amistad,334,国に帰って、友だちに「かめを食べたことがある」,2,13,読,278,False,amigo
+95,間,1,9,between,かん げん,あいだ,12,時間（じかん）tiempo ／ 二時間（にじかん）dos horas ／ 間（あいだ）entre ／ 人間（にんげん）ser humano ／ 一週間（いっしゅうかん）una semana,335,て、一時間ぐらい音楽を聞いた。,1,9,読,336,True,entre; intervalo
+96,家,1,9,house,か,いえ,10,家（いえ）casa ／ 家族（かぞく）familia ／ 家（うち）casa; hogar ／ 家内（かない）mi esposa ／ 作家（さっか）autor,335,昼ごろメアリーの家へ行った。,1,9,読,336,True,casa
+97,話,1,9,to speak,わ,はな はなし,13,話す（はなす）hablar ／ 話（はなし）charla; historia ／ 電話（でんわ）teléfono ／ 会話（かいわ）conversación,335,晩ご飯の後、いろいろな話をした。,1,9,読,337,True,hablar
+98,少,1,9,little,しょう,すこ すく,4,少し（すこし）poco ／ 少ない（すくない）pocos ／ 少々（しょうしょう）un poco ／ 少女（しょうじょ）niña; muchacha ／ 少年（しょうねん）niño; muchacho,335,お母さんは少し古いと言っていたが、すごくきれいだ。,1,9,読,337,True,poco
+99,古,1,9,old,こ,ふる,5,古い（ふるい）viejo (para cosas) ／ 中古（ちゅうこ）de segunda mano ／ 古代（こだい）tiempos antiguos,335,このかさは古いから、 _かさをかいます。,1,9,読,336,True,viejo
+100,知,1,9,to know,ち,し,8,知る（しる）saber; conocer ／ 知人（ちじん）conocido (persona) ／ 知り合い（しりあい）conocido (persona),335,あまり知りません。,1,9,会,210,True,saber
+101,来,1,9,to come,らい,く き こ,7,来る（くる）venir ／ 来ます（きます）venir ／ 来ない（こない）no venir ／ 来週（らいしゅう）la próxima semana ／ 来日（らいにち）visita a Japón,335,かんこくにもあそびに来てください。,1,9,読,338,True,venir
+102,住,1,10,to live,じゅう,す,7,住む（すむ）vivir (residir) ／ 住所（じゅうしょ）dirección (domicilio) ／ 移住する（いじゅうする）inmigrar,340,今、日本人のホストファミリーと住んでいます。,2,14,読,284,False,vivir (residir)
+103,正,1,10,right,しょう せい,ただ,5,お正月（おしょうがつ）Año Nuevo ／ 正しい（ただしい）derecha ／ 正午（しょうご）mediodía ／ 正解（せいかい）respuesta correcta,340,日本ではお正月に何をすると思いますか。,1,10,読,343,True,correcto
+104,年,1,10,year,ねん,とし,6,三年生（さんねんせい）estudiante de tercer año ／ 来年（らいねん）el próximo año ／ 今年（ことし）este año ／ 年（とし）año; edad,340,田中さんと山田さんとどっちのほうが年上ですか。,1,10,会,239,True,año
+105,売,1,10,to sell,ばい,う,7,売る（うる）vender ／ 売店（ばいてん）puesto; quiosco ／ 自動販売機（じどうはんばいき）máquina expendedora,340,（） おじいさんはおじぞうさんにかさを売った。,1,10,読,344,True,vender
+106,買,1,10,to buy,ばい,か,12,買う（かう）comprar ／ 買い物（かいもの）compras ／ 売買（ばいばい）compraventa,340,（）だれもおじいさんのかさを買わなかった。,1,10,読,344,True,comprar
+107,町,1,10,town,ちょう,まち,7,町（まち）pueblo ／ 北山町（きたやまちょう）pueblo de Kitayama ／ 町長（ちょうちょう）alcalde de un pueblo,340,広島と宮島広島は私が生まれた町です。,2,15,読,289,False,pueblo
+108,長,1,10,long,ちょう,なが,8,長い（ながい）largo ／ 長男（ちょうなん）el hijo mayor ／ 社長（しゃちょう）presidente de la empresa,340,この出で、だれがいちばん髪が長いですか。,1,10,会,241,True,largo
+109,道,1,10,way,どう,みち,12,道（みち）camino; calle ／ 書道（しょどう）caligrafía ／ 柔道（じゅうどう）judo ／ 北海道（ほっかいどう）Hokkaido,340,北海道と九州とどっちのほうが大きいですか。,1,10,会,239,True,camino
+110,雪,1,10,snow,せつ,ゆき,11,雪（ゆき）nieve ／ 新雪（しんせつ）nieve recién caída ／ 雪だるま（ゆきだるま）muñeco de nieve,341,（）雪の中でおじいさんはおじぞうさんを六つ見た。,1,10,読,344,True,nieve
+111,立,1,10,to stand,りつ,た,5,立つ（たつ）ponerse de pie ／ 国立大学（こくりつだいがく）universidad nacional ／ 私立高校（しりつこうこう）preparatoria privada,341,,,,,,False,estar de pie
+112,自,1,10,self,じ,,6,自分（じぶん）uno mismo ／ 自動車（じどうしゃ）automóvil ／ 自転車（じてんしゃ）bicicleta ／ 自由（じゆう）libertad,341,うちから駅まで自転車で行きます。,1,10,会,247,True,uno mismo
+113,夜,1,10,night,や,よる よ,8,夜（よる）noche ／ 夜中（よなか）medianoche (en plena noche) ／ 今夜（こんや）esta noche ／ 夜明け（よあけ）amanecer,341,特に夜はきれいで、いい写真が撮れます。,2,13,会,43,False,noche
+114,朝,1,10,morning,ちょう,あさ,12,朝（あさ）mañana (parte del día) ／ 今朝（けさ）esta mañana ／ 朝食（ちょうしょく）desayuno ／ 毎朝（まいあさ）todas las mañanas,341,朝ご飯は食べません。,2,13,会,41,False,mañana
+115,持,1,10,to hold,じ,も,9,持つ（もつ）llevar; sostener ／ 持ってくる（もってくる）traer ／ 所持品（しょじひん）pertenencias ／ 気持ち（きもち）sentimiento,341,（）おじいさんとおばあさんはお金持ちだった。,1,10,読,344,True,sostener
+116,手,1,11,hand,しゅ,て,4,手紙（てがみ）carta ／ 歌手（かしゅ）cantante ／ 手（て）mano ／ 手話（しゅわ）lengua de señas ／ 上手な（じょうずな）bueno en; hábil,346,好きで、将来は歌手になりたいと思っています。,1,11,読,349,True,mano
+117,紙,1,11,paper,し,がみ かみ,10,手紙（てがみ）carta ／ 紙（かみ）papel ／ 和紙（わし）papel japonés (washi) ／ 表紙（ひょうし）portada ／ 折り紙（おりがみ）origami,346,×（あなたは）私から手紙をもらいましたか。,2,14,会,53,False,papel
+118,好,1,11,favorite; to like,こう,す この,6,好きな（すきな）gustar ／ 大好きな（だいすきな）amar ／ 好意（こうい）buena voluntad ／ 好み（このみ）gusto; preferencia ／ 好物（こうぶつ）comida favorita,346,好きで、将来は歌手になりたいと思っています。,1,11,読,349,True,favorito; gustar
+119,近,1,11,near,きん,ちか,7,近く（ちかく）cerca; cercanías ／ 近所（きんじょ）vecindario ／ 最近（さいきん）recientemente ／ 中近東（ちゅうきんとう）Oriente Medio y Próximo,346,きで、休みの日には車で近くの山や川に行きます。,1,11,読,349,True,cerca
+120,明,1,11,bright,めい,あか,8,明るい（あかるい）alegre; luminoso ／ 明日（あした）mañana (día siguiente) ／ 説明（せつめい）explicación ／ 発明（はつめい）invento ／ 文明（ぶんめい）civilización,346,ロックが好きな明るい女の子です。,1,11,読,349,True,brillante
+121,病,1,11,ill; sick,びょう,,10,病院（びょういん）hospital ／ 病気（びょうき）enfermedad ／ 重病（じゅうびょう）enfermedad grave ／ 急病（きゅうびょう）enfermedad repentina,346,ひろクンは、病院で何をしていますか。,1,11,読,350,True,enfermo
+122,院,1,11,institution,いん,,10,病院（びょういん）hospital ／ 大学院（だいがくいん）posgrado ／ 美容院（びよういん）salón de belleza,346,ひろクンは、病院で何をしていますか。,1,11,読,350,True,institución
+123,映,1,11,to reflect,えい,うつ,9,映画（えいが）película ／ 映画館（えいがかん）cine ／ 映る（うつる）reflejarse,346,いっしょに映画を見て、話しませんか？,1,11,読,349,True,reflejar
+124,画,1,11,picture,が かく,,8,映画（えいが）película ／ 画家（がか）pintor ／ 計画（けいかく）plan ／ 漫画（まんが）cómic,347,いっしょに映画を見て、話しませんか？,1,11,読,349,True,imagen; cuadro
+125,歌,1,11,to sing,か,うた,14,歌う（うたう）cantar ／ 歌（うた）canción ／ 歌手（かしゅ）cantante ／ 国歌（こっか）himno nacional ／ 歌舞伎（かぶき）kabuki ／ 歌詞（かし）letra (de canción),347,好きで、将来は歌手になりたいと思っています。,1,11,読,349,True,cantar
+126,市,1,11,city,し,いち,5,川口市（かわぐちし）ciudad de Kawaguchi ／ 市役所（しやくしょ）ayuntamiento ／ 市長（しちょう）alcalde ／ 市場（いちば）mercado,347,つくば市のボランティアサークルです。,1,11,読,349,True,ciudad
+127,所,1,11,place,じょ しょ,ところ どころ,8,いろいろな所（いろいろなところ）varios lugares ／ 近所（きんじょ）vecindario ／ 台所（だいどころ）cocina ／ 住所（じゅうしょ）dirección (domicilio),347,行していませんが、これからいろいろな所に行くつもりです。,1,11,読,350,True,lugar
+128,勉,1,11,to make efforts,べん,つと,10,勉強する（べんきょうする）estudiar ／ 勉める（つとめる）esforzarse ／ 勤勉な（きんべんな）diligente,347,日本語や日本文化を勉強しています。,1,11,読,350,True,esforzarse
+129,強,1,11,strong,きょう ごう,つよ,11,勉強する（べんきょうする）estudiar ／ 強い（つよい）fuerte ／ 強情な（ごうじょうな）terco; obstinado ／ 強盗（ごうとう）robo ／ 強力な（きょうりょくな）poderoso,347,日本語や日本文化を勉強しています。,1,11,読,350,True,fuerte
+130,有,1,11,to exist,ゆう,あ,6,有名な（ゆうめいな）famoso ／ 有料（ゆうりょう）peaje; tarifa ／ 有る（ある）existir ／ 有能な（ゆうのうな）talentoso,347,グレートバリアリーフで有名です。,1,11,会,255,True,existir; tener
+131,旅,1,11,travel,りょ,たび,10,旅行（りょこう）viaje ／ 旅館（りょかん）posada japonesa (ryokan) ／ 一人旅（ひとりたび）viajar solo ／ 旅券（りょけん）pasaporte,347,旅行も好きです。,1,11,読,350,True,viaje
+132,昔,1,12,ancient times,,むかし,8,昔（むかし）tiempos pasados ／ 昔話（むかしばなし）cuento antiguo ／ 大昔（おおむかし）tiempos antiguos,352,昔はかばんがなかったので、この中にいろいろな物を入れて、持っていきました。,2,16,会,113,False,antigüedad
+133,々,1,12,symbol of repetition of a kanji,,,3,昔々（むかしむかし）érase una vez ／ 人々（ひとびと）la gente ／ 時々（ときどき）a veces ／ 色々な（いろいろな）varios,352,時々、昼にコンビニでお弁当とデザートを買います。,2,13,読,280,False,símbolo de repetición de kanji
+134,神,1,12,God,じん しん こう,かみ,9,神さま（かみさま）Dios ／ 神社（じんじゃ）santuario sintoísta ／ 神道（しんとう）sintoísmo ／ 神戸市（こうべし）ciudad de Kobe,352,神さまはやさしい人だと思いますか。,1,12,読,356,True,dios
+135,早,1,12,early,そう,はや,6,早い（はやい）temprano ／ 早起きする（はやおきする）madrugar ／ 早朝（そうちょう）madrugada,352,早く起きすぎました。,1,12,会,278,True,temprano
+136,起,1,12,to get up,き,お,10,起きる（おきる）levantarse ／ 起こす（おこす）despertar a alguien ／ 再起動（さいきどう）reinicio,352,けさは、六時に起きなきゃいけませんでした。,1,12,会,280,True,levantarse
+137,牛,1,12,cow,ぎゅう,うし,4,牛（うし）vaca ／ 牛乳（ぎゅうにゅう）leche ／ 牛肉（ぎゅうにく）carne de res ／ 子牛（こうし）ternero; ternera,352,,,,,,False,vaca
+138,使,1,12,to use,し,つか,8,"使う（つかう）usar ／ 大使（たいし）embajador ／ 使用中（しようちゅう）""Ocupado"" ／ お使い（おつかい）recado",352,だから、たいてい英語を使います。,2,14,読,284,False,usar
+139,働,1,12,to work,どう,はたら ばたら,13,働く（はたらく）trabajar ／ 共働き（ともばたらき）ambos esposos trabajan ／ 労働（ろうどう）trabajo; mano de obra,352,日本で働いたことがありますか。,2,13,会,22,False,trabajar
+140,連,1,12,to link,れん,つ,10,連れて帰る（つれてかえる）traer de vuelta (a alguien) ／ 国連（こくれん）Naciones Unidas ／ 連休（れんきゅう）días festivos consecutivos,353,ななみさんが私を駅に連れていってくれました。,2,16,会,97,False,unir; acompañar
+141,別,1,12,to separate,べつ,わか,7,別れる（わかれる）separar ／ 別に（べつに）nada en particular ／ 特別な（とくべつな）especial ／ 差別（さべつ）discriminación ／ 別々に（べつべつに）por separado,353,どうして彼と別れたんですか。,1,12,会,277,True,separar
+142,度,1,12,time; degrees,ど,,9,一度（いちど）una vez ／ 今度（こんど）próximamente; la próxima vez ／ 温度（おんど）temperatura ／ 三十度（さんじゅうど）30 grados ／ 態度（たいど）actitud,353,これは一生に一度のとてもおもしろい経験でした。,2,13,読,278,False,vez; grado
+143,赤,1,12,red,せき,あか,7,赤（あか）color rojo ／ 赤い（あかい）rojo ／ 赤ちゃん（あかちゃん）bebé ／ 赤道（せきどう）el ecuador ／ 赤十字（せきじゅうじ）la Cruz Roja,353,この神社は海の近くにあるので、天気がいい日は、海の青い色と神社の赤い色、そして山の緑がとてもきれいです。,2,15,読,290,False,rojo
+144,青,1,12,blue,せい,あお,8,青（あお）color azul ／ 青い（あおい）azul ／ 青年（せいねん）juventud ／ 青空（あおぞら）cielo azul ／ 青信号（あおしんごう）semáforo en verde,353,この神社は海の近くにあるので、天気がいい日は、海の青い色と神社の赤い色、そして山の緑がとてもきれいです。,2,15,読,290,False,azul
+145,色,1,12,color,しき しょく,いろ,6,色（いろ）color ／ 色々な（いろいろな）varios ／ 景色（けしき）paisaje ／ 特色（とくしょく）característica,353,列車から見える山と川の景色はとてもきれいです。,2,15,読,291,False,color
+146,物,2,13,thing,ぶつ,もの,8,食べ物（たべもの）comida (alimento) ／ 飲み物（のみもの）bebida ／ 物（もの）cosas ／ 買い物（かいもの）compras ／ 動物（どうぶつ）animal ／ 物価（ぶっか）precios de los productos,274,日本にはめずらしい食べ物がたくさんあります。,2,13,読,277,False,cosa
+147,鳥,2,13,bird,ちょう,とり,11,鳥（とり）pájaro; ave de corral ／ 焼き鳥（やきとり）pollo a la parrilla (yakitori) ／ 白鳥（はくちょう）cisne,274,特に天ぷらや焼き鳥が好きです。,2,13,読,277,False,pájaro
+148,料,2,13,ingredients; fare,りょう,,10,料理（りょうり）cocina ／ 料金（りょうきん）tarifa; cargo ／ 授業料（じゅぎょうりょう）matrícula; colegiatura ／ 給料（きゅうりょう）salario,274,エイミーさんは、ホストファミリーとなべ料理を食べた。,2,13,読,278,False,ingredientes; tarifa
+149,理,2,13,reason,り,,11,料理（りょうり）cocina ／ 理由（りゆう）razón ／ 地理（ちり）geografía ／ 無理な（むりな）imposible,274,エイミーさんは、ホストファミリーとなべ料理を食べた。,2,13,読,278,False,razón; lógica
+150,特,2,13,special,とく とっ,,10,特に（とくに）especialmente ／ 特別な（とくべつな）especial ／ 特徴（とくちょう）característica ／ 特急（とっきゅう）tren súper expreso,274,特に天ぷらや焼き鳥が好きです。,2,13,読,277,False,especial
+151,安,2,13,cheap; ease,あん,やす,6,安い（やすい）barato ／ 安全な（あんぜんな）seguro (sin peligro) ／ 安心（あんしん）alivio ／ 不安な（ふあんな）ansioso; preocupado,274,国では日本料理は安くないから、あまり食べられませんでした。,2,13,読,277,False,barato; tranquilidad
+152,飯,2,13,food; cooked rice,はん,,12,ご飯（ごはん）arroz; comida ／ 朝ご飯（あさごはん）desayuno ／ 昼ご飯（ひるごはん）almuerzo ／ 晩ご飯（ばんごはん）cena,274,ある日、ホストファミリーと晩ご飯を食べに行きました。,2,13,読,277,False,comida; arroz cocido
+153,肉,2,13,meat,にく,,6,肉（にく）carne ／ 牛肉（ぎゅうにく）carne de res ／ 豚肉（ぶたにく）carne de cerdo ／ 肉屋（にくや）carnicería ／ 筋肉（きんにく）músculo,274,なべの中に野菜や肉がたくさんありました。,2,13,読,277,False,carne
+154,悪,2,13,bad; wrong,あく,わる,11,悪い（わるい）malo ／ 気分が悪い（きぶんがわるい）sentirse mal ／ 最悪（さいあく）lo peor ／ 悪魔（あくま）demonio,275,私は気分が悪くなりました。,2,13,読,278,False,malo; incorrecto
+155,体,2,13,body,たい,からだ,7,体（からだ）cuerpo ／ 体重（たいじゅう）peso corporal ／ 体操（たいそう）gimnasia; ejercicio físico,275,お父さんはすっぽんは体によくて、高い食べ物だと言っていました。,2,13,読,278,False,cuerpo
+156,同,2,13,same,どう,おな,6,同じ（おなじ）igual; mismo ／ 同僚（どうりょう）compañero de trabajo ／ 同級生（どうきゅうせい）compañero de clase ／ 同時（どうじ）al mismo tiempo,275,三人は同じ大学で勉強しています。,2,13,読,280,False,mismo
+157,着,2,13,to reach; to wear,ちゃく,つ き ぎ,12,着く（つく）llegar ／ 着る（きる）vestir; llevar puesto ／ 着物（きもの）kimono ／ 水着（みずぎ）traje de baño ／ 大阪着（おおさかちゃく）llegada a Osaka,275,でも近くのコンビニで水着が買えました。,2,13,読,280,False,llegar; vestir
+158,空,2,13,sky; empty,くう,そら あ から,8,空港（くうこう）aeropuerto ／ 空気（くうき）aire ／ 空（そら）cielo ／ 空く（あく）estar vacío (libre) ／ 空手（からて）kárate,275,初めて日本に来て、空港からホテルまでタクシーに乗りました。,2,13,読,280,False,cielo; vacío
+159,港,2,13,port; harbor,こう,みなと,12,空港（くうこう）aeropuerto ／ 神戸港（こうべこう）puerto de Kobe ／ 港（みなと）puerto ／ 香港（ホンコン）Hong Kong,275,初めて日本に来て、空港からホテルまでタクシーに乗りました。,2,13,読,280,False,puerto
+160,昼,2,13,noon; daytime,ちゅう,ひる,9,昼（ひる）mediodía; de día ／ 昼ご飯（ひるごはん）almuerzo ／ 昼寝（ひるね）siesta ／ 昼休み（ひるやすみ）descanso para almorzar ／ 昼食（ちゅうしょく）almuerzo,275,時々、昼にコンビニでお弁当とデザートを買います。,2,13,読,280,False,mediodía; de día
+161,海,2,13,sea,かい,うみ,9,海（うみ）mar ／ 日本海（にほんかい）el mar de Japón ／ 海外（かいがい）extranjero (en el exterior) ／ 海岸（かいがん）costa ／ 北海道（ほっかいどう）Hokkaido,275,友だちと海に遊びに行ったんですが、友だちが水着を忘れたんです。,2,13,読,280,False,mar
+162,彼,2,14,he,,かれ かの,8,彼（かれ）él; novio ／ 彼女（かのじょ）ella; novia ／ 彼ら（かれら）ellos ／ 彼氏（かれし）novio,281,どうしてこの人はすぐ彼と結婚しないのですか。,2,14,読,285,False,él
+163,代,2,14,age; replace,だい,か,5,時代（じだい）época; era ／ 電気代（でんきだい）factura de la luz ／ 九十年代（きゅうじゅうねんだい）los años noventa ／ 十代（じゅうだい）en la adolescencia ／ 代わりに（かわりに）en lugar de,281,彼は大学時代の先輩で、六年間付き合っています。,2,14,読,284,False,era; reemplazar; tarifa
+164,留,2,14,to stay; to keep,りゅう る,,10,留学生（りゅうがくせい）estudiantes internacionales ／ 留学する（りゅうがくする）estudiar en el extranjero ／ 留守（るす）ausencia; no estar en casa,281,日本語が上手にならないカナダ人の留学生です。,2,14,読,284,False,quedarse; retener
+165,族,2,14,family; tribe,ぞく,,11,家族（かぞく）familia ／ 民族（みんぞく）grupo étnico ／ 水族館（すいぞくかん）acuario ／ 王族（おうぞく）miembro de la realeza,281,家族は親切ですが、みんなは私と英語を話したがっています。,2,14,読,284,False,familia; tribu
+166,親,2,14,parent; intimacy,しん,おや した,16,父親（ちちおや）padre ／ 親切な（しんせつな）amable ／ 親友（しんゆう）mejor amigo ／ 両親（りょうしん）padres ／ 親しい（したしい）íntimo ／ 母親（ははおや）madre (de otro / al dirigirse),281,家族は親切ですが、みんなは私と英語を話したがっています。,2,14,読,284,False,padres; intimidad
+167,切,2,14,to cut,せつ,き きっ,4,親切な（しんせつな）amable ／ 切る（きる）cortar ／ 切符（きっぷ）boleto; entrada ／ 切手（きって）sello postal ／ 大切な（たいせつな）valioso,281,家族は親切ですが、みんなは私と英語を話したがっています。,2,14,読,284,False,cortar
+168,英,2,14,English; excellent,えい,,8,英語（えいご）idioma inglés ／ 英国（えいこく）Reino Unido ／ 英会話（えいかいわ）conversación en inglés ／ 英雄（えいゆう）héroe,281,家族は親切ですが、みんなは私と英語を話したがっています。,2,14,読,284,False,inglés; excelente
+169,店,2,14,shop,てん,みせ,8,店（みせ）tienda ／ 店員（てんいん）dependiente de tienda ／ 売店（ばいてん）puesto; quiosco ／ 書店（しょてん）librería ／ 店長（てんちょう）gerente de tienda,281,お店の人はどうですか。,2,14,読,285,False,tienda
+170,去,2,14,past; to leave,きょ こ,さ,5,去年（きょねん）el año pasado ／ 過去（かこ）el pasado ／ 去る（さる）irse; dejar ／ 消去する（しょうきょする）borrar,282,去年、父親が急に病気になったので、飛行機で北海道に帰らなければいけませんでした。,2,14,読,284,False,pasado; irse
+171,急,2,14,to hurry; emergency,きゅう,いそ,9,急に（きゅうに）de repente ／ 急ぐ（いそぐ）apresurarse ／ 急行（きゅうこう）tren expreso ／ 特急（とっきゅう）tren súper expreso,282,去年、父親が急に病気になったので、飛行機で北海道に帰らなければいけませんでした。,2,14,読,284,False,apresurarse; urgencia
+172,乗,2,14,to ride,じょう,の,9,乗る（のる）montar; subir ／ 乗り物（のりもの）vehículo ／ 乗車（じょうしゃ）viajar en coche ／ 乗馬（じょうば）equitación,282,この人はいつ飛行機に乗りましたか。,2,14,読,285,False,montar; subir (a un vehículo)
+173,当,2,14,to hit,とう,あ,6,本当に（ほんとうに）realmente ／ お弁当（おべんとう）almuerzo en caja (bentō) ／ 当時（とうじ）en aquel momento ／ 当たる（あたる）golpear; acertar,282,アドバイス私も飛行機に乗るのが好きじゃないので、あなたの悩みが本当によくわかります。,2,14,読,284,False,acertar; golpear
+174,音,2,14,sound,おん,おと ね,9,音楽（おんがく）música ／ 発音（はつおん）pronunciación ／ 音（おと）sonido ／ 本音（ほんね）verdadera intención,282,私はよく飛行機の中で、大好きなモーツァルトの音楽を聞きます。,2,14,読,284,False,sonido
+175,楽,2,14,pleasure,がく がっ らく,たの,13,音楽（おんがく）música ／ 楽しい（たのしい）divertido ／ 楽器（がっき）instrumento musical ／ 楽な（らくな）fácil; cómodo,282,私はよく飛行機の中で、大好きなモーツァルトの音楽を聞きます。,2,14,読,284,False,placer; diversión
+176,医,2,14,doctor; medicine,い,,7,医者（いしゃ）médico ／ 歯医者（はいしゃ）dentista ／ 医学（いがく）ciencias médicas ／ 医院（いいん）clínica,282,でも、あなたの場合はもっと大変そうなので、お医者さんに行って相談してみたらどうですか。,2,14,読,284,False,médico; medicina
+177,者,2,14,person,しゃ じゃ,もの,8,医者（いしゃ）médico ／ 学者（がくしゃ）erudito ／ 読者（どくしゃ）lector ／ 若者（わかもの）los jóvenes ／ 忍者（にんじゃ）ninja,282,でも、あなたの場合はもっと大変そうなので、お医者さんに行って相談してみたらどうですか。,2,14,読,284,False,persona (que hace algo)
+178,死,2,15,death; to die,し,し,6,死ぬ（しぬ）morir ／ 死（し）muerte ／ 必死（ひっし）desesperado ／ 死者（ししゃ）los muertos,286,この原爆で二十万人の人が死にました。,2,15,読,289,False,muerte; morir
+179,意,2,15,mind; meaning,い,,13,意味（いみ）significado ／ 注意する（ちゅういする）tener cuidado ／ 意見（いけん）opinión ／ 用意する（よういする）preparar,286,ここに来た人は、平和の意味について考えます。,2,15,読,290,False,mente; significado
+180,味,2,15,flavor; taste,み,あじ,8,意味（いみ）significado ／ 趣味（しゅみ）afición ／ 興味（きょうみ）interés ／ 味噌（みそ）pasta de soya (miso) ／ 味（あじ）sabor,286,ここに来た人は、平和の意味について考えます。,2,15,読,290,False,sabor
+181,注,2,15,to pour; to shed,ちゅう,そそ,8,注意する（ちゅういする）tener cuidado ／ 注文する（ちゅうもんする）ordenar; pedir ／ 注ぐ（そそぐ）verter,286,鹿はたいていおなかがすいているので、食べ物を持っている人は注意したほうがいいでしょう。,2,15,読,290,False,verter; prestar atención
+182,夏,2,15,summer,か,なつ,10,夏（なつ）verano ／ 夏休み（なつやすみ）vacaciones de verano ／ 初夏（しょか）inicio del verano,286,今年の夏、私は沖縄で初めてダイビングをしてみました。,2,15,読,290,False,verano
+183,魚,2,15,fish,ぎょ,さかな うお,11,魚（さかな）pez; pescado ／ 魚屋（さかなや）pescadería ／ 金魚（きんぎょ）pez dorado ／ 人魚（にんぎょ）sirena ／ 魚市場（うおいちば）mercado de pescado,286,海の中にはいろいろな色の魚がたくさん泳いでいて、本当に感動しました。,2,15,読,290,False,pez
+184,寺,2,15,temple,じ,てら でら,6,お寺（おてら）templo ／ 東寺（とうじ）Tōji (nombre de un templo) ／ 寺院（じいん）edificio sagrado ／ 禅寺（ぜんでら）templo zen,286,嵐山にはお寺も自然もあります。,2,15,読,290,False,templo
+185,広,2,15,spacious; wide,こう,ひろ,5,広い（ひろい）amplio; espacioso ／ 広場（ひろば）plaza; espacio abierto ／ 広島（ひろしま）Hiroshima ／ 広告（こうこく）anuncio publicitario,286,嵯峨野は広いので、足が疲れるかもしれません。,2,15,読,290,False,amplio; espacioso
+186,足,2,15,foot; leg,そく,あし た,7,足（あし）pie; pierna ／ 足りる（たりる）ser suficiente ／ 一足（いっそく）un par de zapatos ／ 水不足（みずぶそく）escasez de agua,287,嵯峨野は広いので、足が疲れるかもしれません。,2,15,読,290,False,pie; pierna
+187,転,2,15,to roll over,てん,ころ,11,自転車（じてんしゃ）bicicleta ／ 運転する（うんてんする）conducir; manejar ／ 回転ずし（かいてんずし）sushi de cinta giratoria ／ 転ぶ（ころぶ）caerse,287,パソコン、カメラ、時計、そして自転車も。,2,21,読,332,False,rodar; dar vueltas
+188,借,2,15,to borrow,しゃく しゃっ,か,10,借りる（かりる）tomar prestado ／ 借地（しゃくち）terreno arrendado ／ 借金（しゃっきん）deuda ／ 借家（しゃくや）casa de alquiler,287,借りたほうがいいでしょう。,2,15,読,291,False,pedir prestado
+189,走,2,15,to run,そう,はし,7,走る（はしる）correr ／ 走り書き（はしりがき）escritura apresurada ／ 脱走（だっそう）fuga de la cárcel,287,嵯峨野からトロッコ列車が走っています。,2,15,読,291,False,correr
+190,場,2,15,place,じょう,ば,12,場所（ばしょ）lugar ／ 工場（こうじょう）fábrica ／ 市場（いちば）mercado ／ 場合（ばあい）caso ／ 駐車場（ちゅうしゃじょう）estacionamiento,287,渋谷は若者のファッションで有名な場所で、おしゃれな店やカフェがたくさんあります。,2,15,読,291,False,lugar
+191,建,2,15,to build,けん,たて た,9,建物（たてもの）edificio ／ 建てる（たてる）construir ／ 建つ（たつ）ser construido ／ 建国（けんこく）fundación de una nación,287,会社はこの建物の中にあります。,2,15,会,86,False,construir
+192,地,2,15,ground,ち じ,,6,地下（ちか）subterráneo; sótano ／ 地下鉄（ちかてつ）metro (tren subterráneo) ／ 地図（ちず）mapa ／ 地球（ちきゅう）la Tierra ／ 地震（じしん）terremoto,287,大きい地震があります。,2,15,会,83,False,suelo; tierra
+193,通,2,15,to pass; to commute,つう,とお かよ,10,通る（とおる）pasar por; atravesar ／ 通う（かよう）ir y venir (al trabajo/escuela) ／ 通学（つうがく）ir a la escuela ／ 通勤（つうきん）ir al trabajo,287,自転車は、学校に通う時使っていました。,2,21,読,332,False,pasar; ir con regularidad
+194,供,2,16,companion; offer,きょう,ども そな,8,子供（こども）niño ／ 供える（そなえる）hacer una ofrenda a un espíritu ／ 提供（ていきょう）oferta,293,また、ドラえもんは弱い子供の味方です。,2,16,読,296,False,acompañante; ofrecer
+195,世,2,16,world; generation,せ せい,よ,5,世界（せかい）el mundo ／ 世話（せわ）cuidado ／ 世代（せだい）generación ／ 三世（さんせい）la tercera generación ／ 世の中（よのなか）sociedad,293,子供の時、﹁空を飛んでみたい﹂﹁違う世界に行ってみたい﹂と思いませんでしたか。,2,16,読,297,False,mundo; generación
+196,界,2,16,world,かい,,9,世界（せかい）el mundo ／ 視界（しかい）visibilidad ／ 政界（せいかい）mundo político ／ 限界（げんかい）límite,293,子供の時、﹁空を飛んでみたい﹂﹁違う世界に行ってみたい﹂と思いませんでしたか。,2,16,読,297,False,mundo; ámbito
+197,全,2,16,all,ぜん,まった すべ,6,全部（ぜんぶ）todos ／ 安全（あんぜん）seguridad ／ 全国（ぜんこく）todo el país ／ 全く（まったく）totalmente ／ 全て（すべて）todos,293,﹂のび太くんはパンに写して、全部食べました。,2,16,読,297,False,todo
+198,部,2,16,part; section,ぶ へ,,11,全部（ぜんぶ）todos ／ 部屋（へや）habitación ／ テニス部（テニスぶ）club de tenis ／ 部長（ぶちょう）jefe de departamento,293,﹂のび太くんはパンに写して、全部食べました。,2,16,読,297,False,parte; sección
+199,始,2,16,to begin,し,はじ,8,始まる（はじまる）(algo) comienza ／ 始める（はじめる）comenzar (algo) ／ 始発（しはつ）primer tren (del día) ／ 開始（かいし）comienzo,293,……教室ではテストが始まりました。,2,16,読,296,False,comenzar
+200,週,2,16,week,しゅう,,11,毎週（まいしゅう）cada semana ／ 先週（せんしゅう）la semana pasada ／ 一週間（いっしゅうかん）una semana ／ 二週目（にしゅうめ）segunda semana ／ 週末（しゅうまつ）fin de semana,293,七三年にはテレビ番組になり、今も毎週続いています。,2,16,読,297,False,semana
+201,考,2,16,to think; idea,こう,かんが,6,考える（かんがえる）pensar ／ 考え（かんがえ）idea ／ 考古学（こうこがく）arqueología ／ 参考（さんこう）referencia,293,行きたい所を考えて、このドアを開けます。,2,16,読,296,False,pensar; idea
+202,開,2,16,to open,かい,あ ひら,12,開ける（あける）abrir (algo) ／ 開く（あく）(algo) se abre ／ 開く（ひらく）abrir ／ 開店（かいてん）apertura de una tienda,294,行きたい所を考えて、このドアを開けます。,2,16,読,296,False,abrir
+203,屋,2,16,shop; house,おく,や,9,部屋（へや）habitación ／ 本屋（ほんや）librería ／ 魚屋（さかなや）pescadería ／ 屋上（おくじょう）azotea ／ 屋内（おくない）interior (bajo techo),294,このドアであなたの部屋からどこでも行きたい所に行けます。,2,16,読,296,False,tienda; casa
+204,方,2,16,direction; person,ほう,かた がた,4,味方（みかた）aliado; persona de tu lado ／ 読み方（よみかた）forma de leer ／ 夕方（ゆうがた）atardecer; tarde ／ 両方（りょうほう）ambos ／ 方法（ほうほう）método,294,また、ドラえもんは弱い子供の味方です。,2,16,読,296,False,dirección; persona
+205,運,2,16,transport; luck,うん,はこ,12,運動（うんどう）ejercicio; práctica ／ 運転（うんてん）conducción ／ 運がいい（うんがいい）afortunado ／ 運命（うんめい）destino ／ 運ぶ（はこぶ）transportar; llevar,294,のび太くんは勉強もあまりできないし、けんかも弱いし、運動もできません。,2,16,読,296,False,transportar; suerte
+206,動,2,16,to move,どう,うご,11,運動（うんどう）ejercicio; práctica ／ 動く（うごく）mover ／ 自動車（じどうしゃ）automóvil ／ 動物（どうぶつ）animal ／ 動詞（どうし）verbo,294,のび太くんは勉強もあまりできないし、けんかも弱いし、運動もできません。,2,16,読,296,False,mover
+207,教,2,16,to teach,きょう,おし,11,教える（おしえる）enseñar ／ 教室（きょうしつ）aula ／ 教会（きょうかい）iglesia ／ キリスト教（キリストきょう）cristianismo ／ 教科書（きょうかしょ）libro de texto,294,……教室ではテストが始まりました。,2,16,読,296,False,enseñar
+208,室,2,16,room,しつ,,9,教室（きょうしつ）aula ／ 研究室（けんきゅうしつ）despacho del profesor ／ 地下室（ちかしつ）sótano ／ 待合室（まちあいしつ）sala de espera,294,……教室ではテストが始まりました。,2,16,読,296,False,habitación; sala
+209,以,2,16,by means of; compared with,い,,5,～以外（〜いがい）aparte de ... ／ ～以上（〜いじょう）... o más ／ ～以下（〜いか）... o menos ／ ～以内（〜いない）dentro de ... ／ 以前（いぜん）antes; anteriormente,294,ドラえもんのテレビ番組は、シンガポールやベトナムなど、日本以外の国でも見られます。,2,16,読,296,False,por medio de; en comparación con
+210,野,2,17,field,や,の,11,分野（ぶんや）ámbito; campo ／ 小野さん（おのさん）Sr./Sra. Ono ／ 長野（ながの）Nagano ／ 野球（やきゅう）béisbol ／ 野菜（やさい）verdura,299,ジョンが死んでからも、オノ・ヨーコは芸術の分野でいろいろな作品を発表し、平和のための活動をしています。,2,17,読,304,False,campo
+211,習,2,17,to learn,しゅう,なら,11,習う（ならう）aprender (de alguien) ／ 習字（しゅうじ）caligrafía ／ 練習（れんしゅう）práctica ／ 習慣（しゅうかん）hábito; costumbre,299,ヨーコの両親は芸術が好きで、ヨーコも子供の時、ピアノを習っていました。,2,17,読,303,False,aprender
+212,主,2,17,main; lord,しゅ,おも ぬし,5,主に（おもに）principalmente ／ ご主人（ごしゅじん）esposo ／ 主婦（しゅふ）ama de casa ／ 主語（しゅご）sujeto de una oración ／ 持ち主（もちぬし）dueño,299,大学では主に音楽と詩を勉強しました。,2,17,読,303,False,principal; señor
+213,歳,2,17,year; age,さい せい,,13,二十五歳（にじゅうごさい）veinticinco años de edad ／ お歳暮（おせいぼ）regalo de fin de año ／ 二十歳（はたち）veinte años de edad,299,男の人の厄年は二十五歳と四十二歳と六十一歳、女の人の厄年は十九歳と三十三歳と三十七歳です。,2,21,読,331,False,año; edad
+214,集,2,17,to gather,しゅう,あつ,12,集める（あつめる）reunir; coleccionar ／ 特集（とくしゅう）reportaje (de revista) ／ 集中する（しゅうちゅうする）concentrarse,299,,,,,,False,reunir
+215,発,2,17,to start; to reveal,はっ はつ ぱつ,,9,発表する（はっぴょうする）hacer público; dar una presentación ／ 発音（はつおん）pronunciación ／ 出発（しゅっぱつ）salida; partida ／ 発明（はつめい）invento,299,年、ジョンはまた音楽活動を始め、ヨーコと一枚のアルバムを発表しました。,2,17,読,304,False,partir; revelar
+216,表,2,17,to express; surface,ぴょう ひょう,あらわ おもて,8,発表する（はっぴょうする）hacer público; dar una presentación ／ 表紙（ひょうし）portada ／ 表現（ひょうげん）expresión (facial) ／ 表す（あらわす）expresar ／ 表（おもて）el frente,299,年、ジョンはまた音楽活動を始め、ヨーコと一枚のアルバムを発表しました。,2,17,読,304,False,expresar; superficie
+217,品,2,17,goods; refinement,ひん,じな しな,9,"作品（さくひん）obra (de arte, etc.) ／ 上品な（じょうひんな）elegante ／ 手品（てじな）magia ／ 品物（しなもの）artículo; mercancía",299,ジョンが死んでからも、オノ・ヨーコは芸術の分野でいろいろな作品を発表し、平和のための活動をしています。,2,17,読,304,False,mercancía; refinamiento
+218,写,2,17,to copy,しゃ,うつ,5,写真（しゃしん）fotografía ／ 写す（うつす）copiar ／ 写生（しゃせい）boceto ／ 描写する（びょうしゃする）describir,300,（写真）でした。,2,17,読,303,False,copiar
+219,真,2,17,true; reality,しん,ま,10,写真（しゃしん）fotografía ／ 真ん中（まんなか）centro ／ ～の真上（〜のまうえ）justo encima de ... ／ 真夜中（まよなか）medianoche,300,（写真）でした。,2,17,読,303,False,verdadero; realidad
+220,字,2,17,character; letter,じ,,6,文字（もじ）personaje; carácter ／ 赤字（あかじ）déficit ／ 名字（みょうじ）apellido ／ 大文字（おおもじ）letras mayúsculas ／ 漢字（かんじ）carácter chino,300,次の漢字の読み方を覚えましょう。,2,17,読,301,False,carácter; letra
+221,活,2,17,lively,かつ かっ,,9,活動（かつどう）actividad ／ 生活（せいかつ）vida (diaria) ／ 活発な（かっぱつな）activo ／ 活用（かつよう）conjugación ／ 活気（かっき）animación; vitalidad,300,ヨーコとジョンはいろいろな平和活動をしました。,2,17,読,304,False,vivo; activo
+222,結,2,17,to tie; to join,けっ けつ,むす,12,結婚する（けっこんする）casarse ／ 結果（けっか）resultado ／ 結論（けつろん）conclusión ／ 結ぶ（むすぶ）atar un nudo,300,そして、三年後、二人は結婚しました。,2,17,読,303,False,atar; unir
+223,婚,2,17,marriage,こん,,11,結婚する（けっこんする）casarse ／ 離婚（りこん）divorcio ／ 婚約者（こんやくしゃ）prometido(a) ／ 新婚（しんこん）recién casados ／ 未婚（みこん）soltero,300,そして、三年後、二人は結婚しました。,2,17,読,303,False,matrimonio
+224,歩,2,17,to walk,ほ ぽ,ある,8,歩く（あるく）caminar ／ 歩道（ほどう）acera ／ 散歩する（さんぽする）pasear ／ 一歩（いっぽ）un paso ／ 進歩（しんぽ）progreso,300,しかし、この年の12 月8 日、ヨーコとジョンがニューヨークの家の前で車を降りて歩いていた時、ジョンは銃で撃たれました。,2,17,読,304,False,caminar
+225,目,2,18,eye,もく,め,5,目的（もくてき）propósito ／ 目（め）ojos ／ 目薬（めぐすり）gotas para los ojos ／ 二番目（にばんめ）el segundo ／ 目上の人（めうえのひと）los superiores,306,女子学生のアルバイトの目的で一番多いのは何ですか。,2,18,読,309,False,ojo
+226,的,2,18,target; -ish,てき,まと,8,目的（もくてき）propósito ／ 現代的（げんだいてき）moderno ／ 社会的（しゃかいてき）social ／ 的（まと）blanco; diana,306,女子学生のアルバイトの目的で一番多いのは何ですか。,2,18,読,309,False,objetivo; -ico (sufijo)
+227,洋,2,18,ocean; overseas,よう,,9,洋服（ようふく）ropa (occidental) ／ 東洋（とうよう）Oriente ／ 洋食（ようしょく）comida occidental ／ 大西洋（たいせいよう）el Atlántico,306,旅行したい生活のゆとりがほしい生活費サークルで使う洋服が買いたい貯金したい参考：「第55 回学生の消費生活に関する実態調査」,2,18,読,309,False,océano; occidental
+228,服,2,18,clothes,ふく,,8,服（ふく）ropa (occidental) ／ 洋服（ようふく）ropa (occidental) ／ 制服（せいふく）uniforme ／ 和服（わふく）ropa japonesa,306,好きな服を汚したことがありますか。,2,18,会,147,False,ropa
+229,堂,2,18,hall,どう,,11,食堂（しょくどう）comedor; cafetería ／ 公会堂（こうかいどう）salón público ／ 堂々とした（どうどうとした）digno; imponente,306,今、家庭教師をしたり、大学の食堂でアルバイトをしたりしている。,2,18,読,310,False,sala; salón
+230,力,2,18,power,りょく りき,ちから,2,"力仕事（ちからしごと）trabajo físico (p. ej., construcción) ／ 協力（きょうりょく）cooperación ／ 努力（どりょく）esfuerzo ／ 力士（りきし）luchador de sumo",306,時々、引っ越しなどの力仕事もする。,2,18,読,310,False,fuerza; poder
+231,授,2,18,to instruct,じゅ,さず,11,授業（じゅぎょう）clase ／ 教授（きょうじゅ）profesor universitario ／ 授かる（さずかる）recibir (algo dado),306,時々遅刻したり、授業をサボったりしてしまう。,2,18,読,310,False,instruir
+232,業,2,18,business; vocation,ぎょう,,13,授業（じゅぎょう）clase ／ 職業（しょくぎょう）ocupación ／ 産業（さんぎょう）industria ／ サービス業（サービスぎょう）sector servicios,306,時々遅刻したり、授業をサボったりしてしまう。,2,18,読,310,False,negocio; oficio
+233,試,2,18,test; to try,し,こころ,13,試験（しけん）examen ／ 試合（しあい）partido; encuentro ／ 入試（にゅうし）examen de admisión ／ 試みる（こころみる）intentar,307,試験の後、「もっと勉強すればよかった」,2,18,読,312,False,prueba; intentar
+234,験,2,18,to examine,けん,,18,試験（しけん）examen ／ 実験（じっけん）experimento ／ 経験（けいけん）experiencia ／ 受験（じゅけん）presentar un examen,307,試験の後、「もっと勉強すればよかった」,2,18,読,312,False,examinar
+235,貸,2,18,to lend; loan,たい,か,12,貸す（かす）prestar ／ 貸し出し（かしだし）préstamo ／ 賃貸マンション（ちんたいマンション）condominio en alquiler,307,同じクラスの友だちにノートを貸してもらって、図書館で勉強するつもりだ。,2,18,読,310,False,prestar
+236,図,2,18,drawing; to devise,と ず,はか,7,図書館（としょかん）biblioteca ／ 地図（ちず）mapa ／ 図（ず）figura ／ 合図（あいず）señal ／ 図る（はかる）intentar,307,同じクラスの友だちにノートを貸してもらって、図書館で勉強するつもりだ。,2,18,読,310,False,dibujo; plano
+237,館,2,18,building; hall,かん,,16,図書館（としょかん）biblioteca ／ 旅館（りょかん）posada japonesa (ryokan) ／ 映画館（えいがかん）cine ／ 大使館（たいしかん）embajada,307,同じクラスの友だちにノートを貸してもらって、図書館で勉強するつもりだ。,2,18,読,310,False,edificio; sala
+238,終,2,18,end,しゅう,お,11,終わる（おわる）llegar a su fin ／ 終わり（おわり）fin ／ 終点（しゅうてん）última parada ／ 最終～（さいしゅう〜）el último ...,307,橋本くんは今、試験が終わってから、サークルのみんなと旅行に行くのを楽しみにしている。,2,18,読,310,False,fin; terminar
+239,宿,2,18,inn; to lodge in,しゅく,やど,11,宿題（しゅくだい）tarea; deberes ／ 下宿（げしゅく）casa de huéspedes ／ 宿泊（しゅくはく）alojamiento ／ 宿（やど）posada,307,よく友だちに宿題を見せてもらう。,2,18,読,312,False,alojamiento; hospedarse
+240,題,2,18,title; topic,だい,,18,宿題（しゅくだい）tarea; deberes ／ 問題（もんだい）problema; pregunta ／ 話題（わだい）tema de conversación ／ 題（だい）título,307,よく友だちに宿題を見せてもらう。,2,18,読,312,False,título; tema
+241,春,2,19,spring,しゅん,はる,9,春（はる）primavera ／ 春巻（はるまき）rollito de primavera ／ 春分（しゅんぶん）equinoccio de primavera ／ 青春（せいしゅん）juventud,313,,,,,,False,primavera
+242,秋,2,19,autumn,しゅう,あき,9,秋（あき）otoño ／ 秋学期（あきがっき）semestre de otoño ／ 秋分（しゅうぶん）equinoccio de otoño,313,Ａ： おととい、秋葉原でゲームを買いました。,2,19,会,174,False,otoño
+243,冬,2,19,winter,とう,ふゆ,5,冬（ふゆ）invierno ／ 冬休み（ふゆやすみ）vacaciones de invierno ／ 暖冬（だんとう）invierno templado ／ 春夏秋冬（しゅんかしゅうとう）las cuatro estaciones,313,ジャンさんは冬休みに何をしますか。,2,19,読,316,False,invierno
+244,花,2,19,flower,か,はな ばな,7,花（はな）flor ／ 花見（はなみ）contemplación de flores (hanami) ／ 花火（はなび）fuegos artificiales ／ 花粉症（かふんしょう）alergia al polen ／ 生け花（いけばな）arreglo floral (ikebana),313,私は先生に花をさしあげます。,2,20,会,186,False,flor
+245,様,2,19,Mr.; Ms.; condition,よう,さま,14,～様（〜さま）Sr./Sra. ... ／ お客様（おきゃくさま）cliente (respetuoso) ／ 皆様（みなさま）todos ／ 様子（ようす）manera; aspecto,313,奥様によろしくお伝えください。,2,19,会,161,False,Sr./Sra.; aspecto
+246,不,2,19,negative; non-,ふ ぶ,,4,不安な（ふあんな）inquieto ／ 不景気（ふけいき）recesión ／ 不便（ふべん）molestia; inconveniencia ／ 水不足（みずぶそく）escasez de agua,313,バスはよく遅れるし、一時間に一台しか来ないから、とても不便です。,2,21,読,332,False,negativo; no-
+247,姉,2,19,older sister,し,あね ねえ,8,姉（あね）hermana mayor (de otro / al dirigirse) ／ お姉さん（おねえさん）hermana mayor (de otro / al dirigirse) ／ 姉妹（しまい）hermanas ／ 姉妹都市（しまいとし）ciudad hermana,313,子供の時姉に 日記を 読まれました。,2,21,会,211,False,hermana mayor
+248,兄,2,19,older brother,きょう,あに にい,5,兄（あに）hermano mayor (de otro / al dirigirse) ／ お兄さん（おにいさん）hermano mayor (de otro / al dirigirse) ／ 兄弟（きょうだい）hermanos,313,Ｑ：ご兄弟がいますか。,2,20,会,192,False,hermano mayor
+249,漢,2,19,China,かん,,13,漢字（かんじ）carácter chino ／ 漢方薬（かんぽうやく）medicina herbal china ／ 漢和辞典（かんわじてん）diccionario de kanji,314,次の漢字の読み方を覚えましょう。,2,19,読,315,False,China (han)
+250,卒,2,19,to graduate,そつ,,8,卒業する（そつぎょうする）graduarse ／ 卒業式（そつぎょうしき）ceremonia de graduación ／ 大卒（だいそつ）graduado universitario,314,ご卒業おめでとうございます。,2,19,読,320,False,graduarse
+251,工,2,19,craft; construction,こう く,,3,工学（こうがく）ingeniería ／ 工事（こうじ）construcción ／ 工場（こうじょう）fábrica ／ 大工（だいく）carpintero,314,パクさんは日本の大学院で電気工学を研究していらっしゃると聞きました。,2,19,読,319,False,artesanía; construcción
+252,研,2,19,to polish; study,けん,と,9,研究（けんきゅう）investigación ／ 研究者（けんきゅうしゃ）investigador ／ 研修（けんしゅう）entrenamiento ／ 研ぐ（とぐ）afilar,314,パクさんは日本の大学院で電気工学を研究していらっしゃると聞きました。,2,19,読,319,False,pulir; estudiar
+253,究,2,19,research,きゅう,きわ,7,研究（けんきゅう）investigación ／ 探究（たんきゅう）consulta; pregunta ／ 究める（きわめる）investigar a fondo,314,パクさんは日本の大学院で電気工学を研究していらっしゃると聞きました。,2,19,読,319,False,investigar
+254,質,2,19,quality; matter,しつ しち,,15,質問（しつもん）pregunta ／ 質がいい（しつがいい）buena calidad ／ 素質（そしつ）aptitud ／ 質屋（しちや）casa de empeño,314,質問が多くなってしまって、申し訳ありません。,2,19,読,319,False,calidad; materia
+255,問,2,19,question,もん,と,11,質問（しつもん）pregunta ／ 問題（もんだい）problema ／ 訪問（ほうもん）visita ／ 問う（とう）cuestionar,314,質問が多くなってしまって、申し訳ありません。,2,19,読,319,False,pregunta
+256,多,2,19,many; much,た,おお,6,多い（おおい）muchos ／ 多分（たぶん）probablemente ／ 多くの～（おおくの〜）muchos ／ 多数決（たすうけつ）decisión por mayoría,314,質問が多くなってしまって、申し訳ありません。,2,19,読,319,False,mucho; muchos
+257,皿,2,20,plate,,さら ざら,5,皿（さら）plato ／ 紙皿（かみざら）plato de papel ／ 灰皿（はいざら）cenicero,321,「茶店の主人はあの皿がいくらか知らないんだ。,2,20,読,325,False,plato
+258,声,2,20,voice,せい,こえ,7,声（こえ）voz ／ 音声学（おんせいがく）fonética ／ 擬声語（ぎせいご）onomatopeya ／ 声優（せいゆう）actor de doblaje,321,落語家は一人でいろいろな声や身ぶりを使って、おもしろい話をします。,2,20,読,325,False,voz
+259,茶,2,20,tea,ちゃ さ,,9,お茶（おちゃ）té japonés ／ 茶店（ちゃみせ）casa de té ／ 紅茶（こうちゃ）té negro ／ 茶色（ちゃいろ）marrón; café (color) ／ 喫茶店（きっさてん）cafetería,321,ある日、男は川の近くにある茶店に入りました。,2,20,読,325,False,té
+260,止,2,20,to stop,し,と,4,止まる（とまる）(algo) se detiene ／ 中止する（ちゅうしする）cancelar ／ 禁止する（きんしする）prohibir,321,その時、猫が歩いてきて、えさが入った皿の前で止まりました。,2,20,読,325,False,detener
+261,枚,2,20,sheet of . . .,まい,,8,一枚（いちまい）una hoja ／ 枚数（まいすう）número de objetos planos,321,「これはとてもめずらしい皿で、一枚三百両もいたします。,2,20,読,326,False,hoja de... (contador de objetos planos)
+262,両,2,20,both,りょう,,6,三両（さんりょう）tres ryō (moneda antigua) ／ 両親（りょうしん）padres ／ 両手（りょうて）ambas manos ／ 両替（りょうがえ）intercambio ／ 両方（りょうほう）ambos,321,三両というお金はとても大きいお金です。,2,20,読,325,False,ambos
+263,無,2,20,none,む ぶ,な,12,無理な（むりな）imposible ／ 無駄な（むだな）derrochador ／ 無料（むりょう）gratis ／ 無礼な（ぶれいな）grosero ／ 無い（ない）no hay ...,321,「無理でございます。,2,20,読,325,False,nada; sin
+264,払,2,20,to pay,,はら ばら,5,払う（はらう）pagar ／ 支払い（しはらい）pago ／ 払い戻し（はらいもどし）reembolso ／ 分割払い（ぶんかつばらい）pago a plazos,321,そして主人に三両払って、言いました。,2,20,読,326,False,pagar
+265,心,2,20,heart; mind,しん,こころ,4,心（こころ）corazón; mente ／ 心配する（しんぱいする）preocuparse ／ 熱心な（ねっしんな）entusiasta ／ 安心な（あんしんな）seguro (sin peligro) ／ 好奇心（こうきしん）curiosidad,322,男は心の中で笑いました。,2,20,読,326,False,corazón; mente
+266,笑,2,20,to laugh,しょう,わら え,10,笑う（わらう）reír ／ 笑顔（えがお）cara sonriente ／ 微笑む（ほほえむ）sonreír ／ 爆笑する（ばくしょうする）echarse a reír,322,男は心の中で笑いました。,2,20,読,326,False,reír
+267,絶,2,20,to discontinue,ぜっ ぜつ,た,12,絶対に（ぜったいに）definitivamente ／ 絶える（たえる）extinguirse ／ 絶滅（ぜつめつ）extinción ／ 気絶する（きぜつする）desmayarse ／ 絶望（ぜつぼう）desesperación,322,男は何度も頼みましたが、主人は絶対に皿を渡しませんでした。,2,20,読,326,False,interrumpir; absoluto
+268,対,2,20,opposite,たい つい,,7,絶対に（ぜったいに）definitivamente ／ 反対する（はんたいする）oponerse ／ 日本対中国（にほんたい ちゅうごく）Japón contra China ／ 一対（いっつい）un par,322,男は何度も頼みましたが、主人は絶対に皿を渡しませんでした。,2,20,読,326,False,opuesto
+269,痛,2,20,pain,つう,いた,12,痛い（いたい）doloroso ／ 痛み止め（いたみどめ）analgésico ／ 頭痛（ずつう）dolor de cabeza ／ 腹痛（ふくつう）dolor de estómago ／ 腰痛（ようつう）dolor lumbar,322,メアリー：　あの時は足を踏まれて、痛かった。,2,23,会,250,False,dolor
+270,最,2,20,utmost,さい,もっと,12,最悪（さいあく）lo peor ／ 最近（さいきん）recientemente ／ 最高（さいこう）lo mejor ／ 最新（さいしん）lo más reciente ／ 最後に（さいごに）por último ／ 最も（もっとも）el más,322,皿はもらえないし、猫はひっかくし、最悪です。,2,20,読,326,False,máximo; el más
+271,続,2,20,to continue,ぞく,つづ,13,続ける（つづける）continuar (algo) ／ 手続き（てつづき）trámite; procedimiento ／ 相続する（そうぞくする）heredar ／ 連続ドラマ（れんぞくドラマ）telenovela,322,主人は話を続けました。,2,20,読,326,False,continuar
+272,信,2,21,to trust; to believe,しん,,9,信じる（しんじる）creer ／ 自信（じしん）confianza en uno mismo ／ 信号（しんごう）semáforo ／ 迷信（めいしん）superstición,328,あなたの国にはどんな迷信がありますか。,2,21,読,331,False,confiar; creer
+273,経,2,21,to pass through,けい,,11,経験（けいけん）experiencia ／ 経済（けいざい）economía ／ 神経質（しんけいしつ）hipersensible ／ 経営学（けいえいがく）estudios de administración ／ パリ経由（パリけいゆ）vía París,328,厄年にこの人の友だちはどんなことを経験しましたか。,2,21,読,333,False,pasar por; transcurrir
+274,台,2,21,stand,たい だい,,5,台風（たいふう）tifón ／ 二台（にだい）dos vehículos/máquinas ／ 舞台（ぶたい）escenario ／ 台所（だいどころ）cocina,328,ある友だちは台風で家が壊れてしまいました。,2,21,読,331,False,soporte; base
+275,風,2,21,wind,ふう ふ,かぜ,9,台風（たいふう）tifón ／ お風呂（おふろ）baño (bañera) ／ 和風（わふう）estilo japonés ／ 風（かぜ）viento ／ 風邪をひく（かぜをひく）resfriarse,328,ある友だちは台風で家が壊れてしまいました。,2,21,読,331,False,viento
+276,犬,2,21,dog,けん,いぬ,4,犬（いぬ）perro ／ 子犬（こいぬ）cachorro ／ 番犬（ばんけん）perro guardián ／ 盲導犬（もうどうけん）perro guía,328,ある友だちは飼っていた犬に死なれました。,2,21,読,331,False,perro
+277,重,2,21,heavy; to pile up,じゅう ちょう,おも かさ,9,重い（おもい）pesado; grave (enfermedad) ／ 重ねる（かさねる）apilar ／ 体重（たいじゅう）peso corporal ／ 貴重品（きちょうひん）objetos de valor,328,また、ある友だちは急に重い病気になって入院しなければいけませんでした。,2,21,読,331,False,pesado; apilar
+278,初,2,21,first,しょ,はじ はつ,7,初めは（はじめは）al principio ／ 初めて（はじめて）primera vez ／ 最初（さいしょ）el primero ／ 初雪（はつゆき）primera nevada ／ 初恋（はつこい）primer amor,328,カメラにはオーストラリアで初めて行った旅行の写真が入っていました。,2,21,読,332,False,primero; inicio
+279,若,2,21,young,,わか,8,若い（わかい）joven ／ 若者（わかもの）los jóvenes ／ 若々しい（わかわかしい）juvenil,328,ここには若い日本人の留学生がたくさんいます。,2,21,読,331,False,joven
+280,送,2,21,to send,そう,おく,9,送る（おくる）enviar ／ 送金（そうきん）envío de dinero ／ 送料（そうりょう）gastos de envío ／ 放送（ほうそう）emisión; transmisión ／ 回送電車（かいそうでんしゃ）tren fuera de servicio,329,弟か妹にお守りを送ってもらおうと思います。,2,21,読,332,False,enviar
+281,幸,2,21,happiness,こう,しあわ さいわ,8,幸せな（しあわせな）feliz ／ 幸福な（こうふくな）feliz ／ 幸運（こううん）buena suerte ／ 不幸（ふこう）desgracia ／ 幸い（さいわい）afortunadamente,329,でも、夢がかなったので、毎日がとても幸せでした。,2,21,読,332,False,felicidad
+282,計,2,21,to measure,けい,はか,9,時計（とけい）reloj ／ 計画（けいかく）plan ／ 合計（ごうけい）suma; total ／ 計る（はかる）medir,329,パソコン、カメラ、時計、そして自転車も。,2,21,読,332,False,medir
+283,遅,2,21,late,ち,おく おそ,12,遅れる（おくれる）hacerse tarde; llegar tarde ／ 乗り遅れる（のりおくれる）perder (un transporte) ／ 遅い（おそい）tarde ／ 遅刻する（ちこくする）hacerse tarde; llegar tarde,329,バスはよく遅れるし、一時間に一台しか来ないから、とても不便です。,2,21,読,332,False,tarde; lento
+284,配,2,21,to deliver,ぱい はい,くば,10,心配な（しんぱいな）preocupado ／ 配る（くばる）repartir ／ 配達（はいたつ）entrega; reparto ／ 宅配便（たくはいびん）servicio de entrega a domicilio,329,今、とても心配です。,2,21,読,332,False,repartir
+285,弟,2,21,younger brother,だい で,おとうと,7,弟（おとうと）hermano menor ／ 兄弟（きょうだい）hermanos ／ 弟子（でし）aprendiz,329,弟か妹にお守りを送ってもらおうと思います。,2,21,読,332,False,hermano menor
+286,妹,2,21,younger sister,まい,いもうと,8,妹（いもうと）hermana menor ／ 姉妹（しまい）hermanas ／ 姉妹校（しまいこう）escuela hermana,329,弟か妹にお守りを送ってもらおうと思います。,2,21,読,332,False,hermana menor
+287,記,2,22,to write down,き,,10,日記（にっき）diario (cuaderno) ／ 記入する（きにゅうする）rellenar (un formulario) ／ 記事（きじ）artículo (de noticias) ／ 暗記する（あんきする）memorizar,334,二か月後の桜さんの日記を書きましょう。,2,22,読,339,False,anotar
+288,銀,2,22,silver,ぎん,,14,銀行（ぎんこう）banco ／ 銀メダル（ぎんメダル）medalla de plata ／ 銀世界（ぎんせかい）tierra cubierta de nieve,334,彼が東京の銀行に就職してからもう二年がたつ。,2,22,読,337,False,plata
+289,回,2,22,. . . times; to turn,かい,まわ,6,一回（いっかい）una vez ／ 回送バス（かいそうバス）autobús fuera de servicio ／ 最終回（さいしゅ うかい）última entrada; último episodio ／ 回す（まわす）girar,334,彼が大阪に来たりして、一か月に一回ぐらいしか会えない。,2,22,読,337,False,... veces; girar
+290,夕,2,22,evening,,ゆう,3,夕方（ゆうがた）atardecer; tarde ／ 夕食（ゆうしょく）cena ／ 七夕（たなばた）Tanabata ／ 夕日（ゆうひ）sol poniente ／ 夕刊（ゆうかん）periódico vespertino,334,今日は涼が大阪に来て、夕方お酒を飲みに行った。,2,22,読,337,False,atardecer
+291,黒,2,22,black,こく,くろ,11,黒木さん（くろきさん）Sr./Sra. Kuroki ／ 黒い（くろい）negro ／ 白黒写真（しろくろしゃしん）fotografía en blanco y negro ／ 黒板（こくばん）pizarra,334,涼の同僚の黒木さんが彼女を探していると聞いた。,2,22,読,337,False,negro
+292,用,2,22,task; to use,よう,,5,用事（ようじ）asunto pendiente ／ 用意する（よういする）preparar ／ 子供用（こどもよう）para niños ／ 費用（ひよう）costo,334,夏菜さんが東京に来た時、黒木は急に用事ができて、来られなくなってしまった。,2,22,読,338,False,tarea; usar
+293,末,2,22,the end of,まつ,すえ,5,週末（しゅうまつ）fin de semana ／ 月末（げつまつ）fin de mes ／ 年末（ねんまつ）fin de año ／ 期末試験（きまつしけん）examen final ／ 末（すえ）el fin,334,先週の週末、「出張で大阪に行けない」,2,22,読,338,False,fin de
+294,待,2,22,to wait,たい,ま まち,9,待つ（まつ）esperar ／ 待合室（まちあいしつ）sala de espera ／ 期待する（きたいする）esperar (prever) ／ 招待（しょうたい）invitación,334,今から待ち遠しい。,2,22,読,337,False,esperar
+295,残,2,22,to remain,ざん,のこ,10,残業（ざんぎょう）horas extra ／ 残す（のこす）irse; dejar ／ 残念（ざんねん）lamentable ／ 心残り（こころのこり）arrepentimiento ／ 残高（ざんだか）saldo de la cuenta,335,今日も残業で疲れた。,2,22,読,338,False,quedar; sobrar
+296,駅,2,22,station,えき,,14,駅（えき）estación ／ 東京駅（とうきょうえき）estación de Tokio ／ 駅員（えきいん）empleado de la estación ／ 駅前（えきまえ）frente a la estación,335,帰る時、駅のホームで夏菜を見た。,2,22,読,338,False,estación (de tren)
+297,番,2,22,order; number,ばん,,12,一番（いちばん）el primero ／ 番号（ばんごう）número ／ 番組（ばんぐみ）programa de televisión ／ 交番（こうばん）caseta de policía (kōban) ／ 順番（じゅんばん）turno; orden,335,一番の親友なのに。,2,22,読,338,False,turno; número
+298,説,2,22,theory; to explain,せつ せっ,,14,説明する（せつめいする）explicar ／ 小説（しょうせつ）novela ／ 小説家（しょうせつか）novelista ／ 説教する（せっきょうする）predicar,335,うまく説明できるといいんだけど……。,2,22,読,338,False,teoría; explicar
+299,案,2,22,idea; proposal,あん,,10,案内する（あんないする）guiar ／ 案内所（あんないじょ）mostrador de información ／ 案（あん）idea; propuesta ／ 提案（ていあん）propuesta,335,それで、ぼくが代わりに二日間東京を案内してあげたんだ。,2,22,読,338,False,idea; propuesta
+300,内,2,22,inside; inner,ない,うち,4,案内する（あんないする）guiar ／ 家内（かない）mi esposa ／ 国内（こくない）nacional (doméstico) ／ 内科（ないか）medicina interna ／ 内側（うちがわ）dentro,335,それで、ぼくが代わりに二日間東京を案内してあげたんだ。,2,22,読,338,False,dentro; interior
+301,忘,2,22,to forget,ぼう,わす,7,忘れる（わすれる）olvidar ／ 忘れ物（わすれもの）objeto perdido ／ 忘年会（ぼうねんかい）fiesta de fin de año,335,彼女が大阪に帰った後も、彼女のことが忘れられなかった。,2,22,読,338,False,olvidar
+302,守,2,22,to keep; to protect,す しゅ,まも,6,守る（まもる）cumplir (una promesa) ／ 留守（るす）ausencia; no estar en casa ／ お守り（おまもり）encanto ／ 守衛（しゅえい）guardia de seguridad,335,約束を守れなくてごめん。,2,22,読,338,False,proteger; cumplir
+303,顔,2,23,face,がん,かお がお,18,顔（かお）cara ／ 顔文字（かおもじ）emoticono ／ 顔色（かおいろ）tez; color de la cara ／ 笑顔（えがお）cara sonriente ／ 洗顔（せんがん）lavarse la cara,340,顔文字は、1 万以上あると言われています。,2,23,読,343,False,cara
+304,悲,2,23,sad,ひ,かな,12,悲しい（かなしい）triste ／ 悲劇（ひげき）tragedia ／ 悲惨な（ひさんな）miserable ／ 悲しむ（かなしむ）afligirse,340,そんな悲しそうな顔しないで。,2,23,会,251,False,triste
+305,怒,2,23,to get angry,ど,おこ いか,9,怒る（おこる）enfadarse ／ 怒り（いかり）ira; furia ／ 喜怒哀楽（きどあいらく）sentimientos humanos,340,学生がカンニングする山下先生絶対に怒りません。,2,23,会,262,False,enojarse
+306,違,2,23,to differ,い,ちが,13,違う（ちがう）diferente ／ 違い（ちがい）diferencia ／ 間違える（まちがえる）equivocarse ／ 違法（いほう）ilegal ／ 違反（いはん）infracción,340,日本語と英語の顔文字の違いは何ですか。,2,23,読,345,False,diferir
+307,変,2,23,change; abnormal,へん,か,9,変な（へんな）extraño ／ 大変な（たいへんな）duro; agitado ／ 変化（へんか）cambio ／ 変人（へんじん）excéntrico (persona) ／ 変える（かえる）cambiar (algo),340,このように同じ絵文字でも文化によって意味が変わる場合があります。,2,23,読,345,False,cambio; anormal
+308,比,2,23,to compare,ひ,くら,4,比べる（くらべる）comparar ／ 比較（ひかく）comparación ／ 比例（ひれい）proporción ／ 対比（たいひ）contraste ／ 比喩（ひゆ）figura retórica,340,まず、日本語と英語の顔文字を比べてみましょう。,2,23,読,344,False,comparar
+309,情,2,23,emotion; condition,じょう,なさ,11,表情（ひょうじょう）expresión (facial) ／ 同情する（どうじょうする）compadecerse ／ 友情（ゆうじょう）amistad ／ 情報（じょうほう）información ／ 情け（なさけ）misericordia,340,感情以外にいろいろなことが表せて便利です。,2,23,読,344,False,emoción; situación
+310,感,2,23,to sense; to feel,かん,,13,感情（かんじょう）emoción ／ 感動する（かんどうする）conmoverse ／ 感じる（かんじる）sentir ／ 感謝（かんしゃ）gratitud ／ 感想（かんそう）impresión,340,感情以外にいろいろなことが表せて便利です。,2,23,読,344,False,sentir; percibir
+311,調,2,23,to investigate,ちょう,しら,15,調査（ちょうさ）encuesta; investigación ／ 調べる（しらべる）investigar; examinar ／ 調子（ちょうし）condición ／ 強調する（きょうちょうする）enfatizar,341,調査によると、顔文字と絵文字とどちらのほうがよく使われますか。,2,23,読,345,False,investigar; tono
+312,査,2,23,to inspect,さ,,9,調査（ちょうさ）encuesta; investigación ／ 検査（けんさ）inspección ／ 審査（しんさ）proyección (de película) ／ 捜査（そうさ）investigación criminal,341,調査によると、顔文字と絵文字とどちらのほうがよく使われますか。,2,23,読,345,False,inspeccionar
+313,果,2,23,fruit; result,か,は,8,結果（けっか）resultado ／ 果物（くだもの）fruta ／ 果汁（かじゅう）jugo de fruta ／ 効果（こうか）efecto ／ 使い果たす（つかいはたす）agotar; gastar todo ／ 果物（くだもの）fruta,341,最近の調査の結果によると、絵文字のほうが顔文字より多く使われているそうです。,2,23,読,344,False,fruto; resultado
+314,化,2,23,to change into,か け,ば,4,文化（ぶんか）cultura ／ 化学（かがく）química ／ 同化（どうか）asimilación ／ お化け（おばけ）duende; fantasma ／ 化粧（けしょう）maquillaje,341,このように同じ絵文字でも文化によって意味が変わる場合があります。,2,23,読,345,False,transformarse
+315,横,2,23,sideways,おう,よこ,15,横（よこ）lado ／ 横書き（よこがき）escritura horizontal ／ 横綱（よこづな）gran campeón de sumo ／ 横断する（おうだんする）atravesar,341,日本語の顔文字は顔が縦になっていますが、英語の顔文字は横になっています。,2,23,読,344,False,de lado; horizontal
+316,相,2,23,mutual,しょう そう,あい,9,相手（あいて）pareja; socio ／ 首相（しゅしょう）primer ministro ／ 相談（そうだん）consulta ／ 相互の（そうごの）mutuo,341,これは「何も言わなくても、相手の目を見れば、何を考えているかわかる」,2,23,読,344,False,mutuo
+317,答,2,23,answer,とう,こた こたえ,12,答える（こたえる）responder ／ 答え/答（こたえ）respuesta ／ 回答（かいとう）respuesta ／ 正答（せいとう）respuesta correcta,341,質問に答えてください。,2,23,読,343,False,respuesta

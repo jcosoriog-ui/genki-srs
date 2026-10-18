@@ -1,0 +1,1775 @@
+id,kana,kanji,meaning_en,word_type,book,lesson,section,useful_expression,exercise,all_lessons,example_ja,example_book,example_lesson,example_section,example_page,example_from_ocr,meaning_es
+1,あいかわらず,相変わらず,as usual,,2,22,読,False,II,読L22-II,涼は相変わらず仕事が忙しそうだ。,2,22,読,337,False,como siempre
+2,あいさつ,,greetings,,2,23,読,False,II,読L23-II,でも、日本ではあいさつにキスをしません。,2,23,読,345,False,saludos
+3,あいす,愛す,to love,u-verb,2,14,読,False,II,読L14-II,彼を愛しています。,2,14,読,284,False,amar
+4,アイスクリーム,,ice cream,,1,3,会,False,,会L3,歩きながら、アイスクリームを食べています。,2,18,会,153,False,helado
+5,あいだ,間,between,,1,4,会,False,,会L4,レストランはスーパーと病院の間です。,1,4,会,109,True,entre
+6,あいて,相手,partner; the other person,,2,22,会,False,,会L22,結婚したら、相手に何をさせてあげますか。,2,22,会,241,False,pareja; la otra persona
+7,アイロンをかける,,to iron (clothes),ru-verb,2,16,会,False,,会L16,アイロンをかける,2,16,会,105,False,planchar (ropa)
+8,あう,会う,to meet; to see (a person),u-verb,1,4,会,False,,会L4,（b）あした、メアリーさんはソラさんに会います。,1,4,会,122,True,encontrarse con; ver (a alguien)
+9,アウトドア,,outdoor activities,,1,11,読,False,II,読L11-II,私もアウトドアが大好きで、山に登ったり、つりをしたりす,1,11,読,350,True,actividades al aire libre
+10,あおい,青い,blue,,1,9,会,False,,"会L9, 会L9(e)",この神社は海の近くにあるので、天気がいい日は、海の青い色と神社の赤い色、そして山の緑がとてもきれいです。,2,15,読,290,False,azul
+11,あおしんごう,青信号,green light,,1,9,会,True,,会L9(e),,,,,,False,semáforo en verde
+12,あかい,赤い,red,,1,9,会,False,,"会L9, 会L9(e)",メアリーさんは赤い手袋を買いました。,1,10,会,242,True,rojo
+13,あかちゃん,赤ちゃん,baby,,2,17,会,False,,会L17,動物園でパンダの赤ちゃんが生まれました。,2,17,会,125,False,bebé
+14,あかるい,明るい,bright,,2,18,会,False,,会L18,明るくなります。,2,18,会,151,False,luminoso; brillante
+15,あかるい,明るい,cheerful,,1,11,読,False,II,読L11-II,ロックが好きな明るい女の子です。,1,11,読,349,True,alegre
+16,あき,秋,fall,,1,10,会,False,,会L10,秋がいちばん好きです。,1,10,会,235,True,otoño
+17,あきらめる,,to give up,ru-verb,2,14,会,False,,会L14,夢をあきらめない今度がんばる試験が心配なんです。,2,22,会,244,False,rendirse; darse por vencido
+18,あく,開く,(something) opens,u-verb,2,18,会,False,,会L18,大学の食堂は何時から何時まで開いていますか。,2,18,会,158,False,(algo) se abre
+19,あける,開ける,to open (something),ru-verb,1,6,会,False,,会L6,窓を開けてもいいですか。,1,8,会,202,True,abrir (algo)
+20,あげる,,to give (to others),ru-verb,2,14,会,False,,会L14,Ａ：お父さんの誕生日に何をあげるつもりですか。,2,14,会,61,False,dar (a otros)
+21,あさ,朝,morning,,1,3,会,False,,会L3,メアリーさんはときどき朝ご飯を食べません。,1,3,会,88,True,mañana (parte del día)
+22,あさごはん,朝ご飯,breakfast,,1,3,会,False,,会L3,メアリーさんはときどき朝ご飯を食べません。,1,3,会,88,True,desayuno
+23,あさって,,the day after tomorrow,,1,4,会,True,,"会L4(e), 会L8",あさっては曇りです。,1,8,会,201,True,pasado mañana
+24,あさねぼうする,朝寝坊する,to oversleep,irregular verb,2,16,会,False,,会L16,実は、朝寝坊して、電車に乗り遅れたんです。,2,16,会,92,False,quedarse dormido; despertarse tarde
+25,あし,足,leg; foot,,1,7,会,True,,"会L7(e), 会L12",ヤスミンさんは、あした試験があると言っていました。,1,8,会,193,True,pierna; pie
+26,アジアけんきゅう,アジア研究,Asian studies,,1,1,会,False,,会L1,,,,,,False,estudios asiáticos
+27,あした,明日,tomorrow,,1,3,会,False,,"会L3, 会L4(e)",私はあした京都に行きます。,1,3,会,88,True,mañana (día siguiente)
+28,あずけいれ,預け入れ,deposit,,2,13,会,True,,会L13(e),いらっしゃいませお預け入れお引き出し通帳記入お振込クレジットカード残高照会,2,13,会,45,False,depósito
+29,あそこ,,over there,,1,2,会,False,,会L2,（ゆうびんきょくは）あそこです。,1,2,会,62,True,allá
+30,あそぶ,遊ぶ,to play; to spend time pleasantly,u-verb,1,6,会,False,,会L6,子供の時、どこで遊びましたか。,1,6,会,164,True,jugar; divertirse
+31,あたたかい,暖かい,warm,,1,10,会,False,,会L10,暖かそうなセーターを着ています。,2,13,会,30,False,cálido; templado
+32,あたま,頭,head,,1,7,会,True,,会L7(e),ロバートさんは子供の時、頭がよかったと見います。,1,9,会,222,True,cabeza
+33,あたまがいい,頭がいい,bright; smart; clever,,1,7,会,False,,会L7,頭がいいですか。,1,8,会,200,True,inteligente; listo
+34,あたらしい,新しい,new,,1,5,会,False,,会L5,新しいアパートはいいですか。,2,13,会,36,False,nuevo
+35,あちら,,that way (polite),,2,20,会,False,,会L20,,,,,,False,por allá (cortés)
+36,あつい,熱い,hot (thing),,1,5,会,False,,会L5,メアリーさんはカフェで熱いコーヒーを飲みました。,1,10,会,242,True,caliente (objeto)
+37,あつい,暑い,hot (weather),,1,5,会,False,,会L5,この部屋はちょっと暑いです。,1,5,会,133,True,caluroso (clima)
+38,あつめる,集める,to collect,ru-verb,2,16,会,False,,会L16,年、31 歳の時、ヨーコは自分の詩を集めて『グレープフルーツ』,2,17,読,303,False,reunir; coleccionar
+39,あと,後,the rest,,2,18,会,False,,会L18,後はぼくが片付けるから。,2,18,会,137,False,el resto
+40,（〜の）あと,後,after (an event),,1,8,読,False,II,"読L8-II, 会L11",アンケートの後、 ウデイさんはどう思いましたか。,1,8,読,333,True,después (de un evento)
+41,あとで,後で,later on,,1,6,会,False,,会L6,後でソラさんのノートを借りてもいいですか。,1,6,会,146,True,más tarde
+42,アドバイス,,advice,,2,14,読,False,II,読L14-II,Ⅱ-B の1 と2 の人にアドバイスを書きましょう。,2,14,読,285,False,consejo
+43,アナウンス,,announcement,,2,13,読,False,III,読L13-III,どうして電車のアナウンスは「すみません」,2,13,読,279,False,anuncio (por altavoz)
+44,あなた,,you,,1,4,会,False,,会L4,あなたの町に日本のレストランがありますか。,1,4,会,115,True,tú; usted
+45,あに,兄,(my) older brother,,1,7,会,False,,会L7,兄はかっこいいですが、こわいです。,1,7,会,180,True,(mi) hermano mayor
+46,アニメ,,animation,,2,20,会,False,,会L20,Ｂ：いいえ、どんなアニメですか。,2,20,会,199,False,animación; anime
+47,あね,姉,(my) older sister,,1,7,会,False,,会L7,お姉さんはどこに住んでいますか。,1,7,会,177,True,(mi) hermana mayor
+48,あの,,that ... (over there),,1,2,会,False,,会L2,じゃあ、あのとけいはいくらですか。,1,2,会,56,True,aquel/aquella ... (allá)
+49,あのう,,um ...,,1,1,会,False,,会L1,あのう、りゅうがくせいですか。,1,1,会,36,True,eh... (vacilación)
+50,アパート,,apartment; smaller apartment building,,2,13,会,False,,会L13,このアパートでは犬を飼うことができません。,2,13,会,28,False,apartamento; edificio de apartamentos pequeño
+51,あぶない,危ない,dangerous,,2,17,会,False,,会L17,家に置くとあぶないので、こちらに持ってきたんです。,2,20,読,326,False,peligroso
+52,アプリ,,application,,2,13,会,False,,会L13,このアプリは便利ですよ。,2,13,会,39,False,aplicación (app)
+53,アボカド,,avocado,,1,8,会,True,,会L8(e),アボカドはありますか。,1,8,会,209,True,aguacate
+54,あまい,甘い,sweet,,1,12,会,False,,会L12,甘い物が好きですか。,2,13,会,42,False,dulce
+55,あまのがわ,天の川,the Milky Way,,1,12,読,False,II,読L12-II,,,,,,False,la Vía Láctea
+56,あまり ＋ negative,,not much,,1,3,会,False,,会L3,たけしさんはあまり勉強しません。,1,3,会,91,True,no mucho
+57,あむ,編む,to knit,u-verb,2,13,会,False,,会L13,国では日本料理は安くないから、あまり食べられませんでした。,2,13,読,277,False,tejer
+58,あめ,雨,rain,,1,8,会,False,,会L8,夏によく雨が降りますか。,1,8,会,200,True,lluvia
+59,あめがやむ,雨がやむ,the rain stops,u-verb,2,23,会,False,,会L23,雨がやむまで、 。,2,23,会,267,False,deja de llover
+60,アメリカ,,U.S.A.,,1,1,会,False,,会L1,メアリーさんはアメリカじんです。,1,1,会,46,True,EE. UU.
+61,あやまる,謝る,to apologize,u-verb,2,18,会,False,,会L18,今すぐ謝ったほうがいいよ。,2,18,会,151,False,pedir disculpas
+62,あらう,洗う,to wash,u-verb,1,8,会,False,,会L8,Ａ：私は一週間に三回髪を洗います。,2,13,会,31,False,lavar
+63,あらわす,表す,to express; to show,u-verb,2,23,読,False,II,読L23-II,感情以外にいろいろなことが表せて便利です。,2,23,読,344,False,expresar; mostrar
+64,ありがとう,,Thank you.,,1,,G,False,,会G,悩みを聞いてくださってありがとうございました。,2,19,会,173,False,Gracias.
+65,ありがとうございます,,Thank you. (polite),,1,,G,False,,会G,いつも親切に教えてくださってありがとうございます。,2,19,会,167,False,Muchas gracias. (cortés)
+66,ある,,there is ...,u-verb,1,4,会,False,,会L4,メアリー： ありがとうございます。,1,4,会,102,True,hay ... (cosas)
+67,ある～,,one ...,,1,12,読,False,II,読L12-II,ある日、ホストファミリーと晩ご飯を食べに行きました。,2,13,読,277,False,cierto/un ...
+68,あるいて,歩いて,on foot,,1,10,会,False,,会L10,その時、猫が歩いてきて、えさが入った皿の前で止まりました。,2,20,読,325,False,a pie
+69,あるく,歩く,to walk,u-verb,1,12,会,False,,会L12,試験があるから、勉強しなければいけません／なきゃいけません。,1,12,会,279,True,caminar
+70,アルバイト,,part-time job,,1,4,会,False,,会L4,（b）たけしさんは日曜日にアルバイトをします。,1,4,会,122,True,trabajo de medio tiempo
+71,あれ,,that one (over there),,1,2,会,False,,会L2,みせのひと： あれはさんぜんごひゃくえんです。,1,2,会,56,True,aquello (allá)
+72,アレルギー,,allergy,,1,8,会,True,,"会L8(e), 会L12",ピーナッツアレルギーがあります。,1,8,会,209,True,alergia
+73,アンケート,,questionnaire,,1,8,読,False,II,読L8-II,ウデイさんはだれにアンケートをしましたか。,1,8,読,333,True,cuestionario; encuesta
+74,あんしょうばんごう,暗証番号,personal identification number,,2,13,会,True,,会L13(e),それから、暗証番号,2,23,会,268,False,número PIN
+75,あんぜん（な）,安全,safe,,2,21,会,False,,会L21,,,,,,False,seguro (sin peligro)
+76,あんないする,案内する,to show (someone) around,irregular verb,1,9,読,False,II,"読L9-II, 会L16",そして、ほかのお寺も案内してくれました。,2,16,会,113,False,mostrar (un lugar a alguien); guiar
+77,あんなに,,so; such,,2,20,読,False,II,読L20-II,だからあんなに高い物を猫の皿に使っているんだ。,2,20,読,325,False,tanto; tan
+78,いい,,good,,1,3,会,False,,会L3,いいえ、あまり読みません。,1,3,会,99,True,bueno
+79,いいえ,,No.; Not at all.,,1,,G,False,,会G,Ａ：いいえ、高すぎて買えませんでした。,2,13,会,35,False,No.; De nada.
+80,いいこ,いい子,good child,,1,9,会,False,,会L9,でも、そのおかげで、いいこともありました。,2,21,会,207,False,niño bueno
+81,いいこと,,good deed,,1,10,読,False,II,読L10-II,橋本くんはサークルの友だちと飲みに行って、どんないいことがありましたか。,2,18,読,311,False,buena acción
+82,いう,言う,to say,u-verb,1,8,会,False,,会L8,山下先生は結婚していないと言っていました。,1,8,会,193,True,decir
+83,いう（もんくを）,言う（文句を）,to complain,u-verb,2,21,会,False,,会L21,先生は 学生に たくさん勉強してほしいと言っています。,2,21,会,215,False,quejarse
+84,いう（わるぐちを）,言う（悪口を）,to talk behind someone’s back,u-verb,2,23,会,False,,会L23,授業がつまらなかったら、先生に文句を言いますか。,2,23,会,263,False,hablar mal de alguien a sus espaldas
+85,いえ,家,home; house,,1,3,会,False,,会L3,六時ごろ家に帰ります。,1,3,会,100,True,casa; hogar
+86,～いがい,～以外,other than ...,,2,16,会,False,,会L16,日本語のクラス以外で日本語を話したいんです。,2,16,会,104,False,aparte de ...
+87,いかが,,how (polite expression of どう),,2,19,読,False,II,読L19-II,いかがですかだれ,2,19,会,169,False,qué tal (forma cortés de どう)
+88,～いき,～行き,bound for ...,,1,10,会,True,,会L10(e),きのう、メアリーさんはどこかに行きましたか。,1,10,会,246,True,con destino a ...
+89,イギリス,,Britain,,1,1,会,False,,"会L1, 会L2",いいえ、イギリスじんじゃないです。,1,2,会,77,True,Reino Unido
+90,いく,行く,to go,u-verb,1,3,会,False,,会L3,メアリー：ええ、今日は京都に行きます。,1,3,会,82,True,ir
+91,いくら,,how much,,1,2,会,False,,会L2,それは／そのTシャツはいくらですか。,1,2,会,72,True,cuánto (precio)
+92,いじめる,,to bully,ru-verb,2,21,会,False,,会L21,Ｑ：いじめられたら、学校を休みますか。,2,23,会,263,False,acosar; hacer bullying
+93,いしゃ,医者,doctor,,1,1,会,False,,"会L1, 会L10",おとうさんはかいしゃいんですか。,1,1,会,49,True,médico
+94,～いじょう,～以上,... or more,,2,18,読,False,II,読L18-II,メッセージに三つ以上の顔文字か絵文字を使ってください。,2,23,読,346,False,... o más
+95,いじわる（な）,意地悪,mean-spirited,,1,9,会,False,,会L9,その人はいじわるなので、きらいです。,1,12,会,279,True,malintencionado
+96,いす,,chair,,1,2,会,True,,"会L2(e), 会L4",Ａ： 買いすぎて、お金がぜんぜんないんだ。,2,18,会,156,False,silla
+97,いそがしい,忙しい,busy (people/days),,1,5,会,False,,会L5,＝日曜日は（私は）忙しいです。,1,5,会,137,True,ocupado (personas/días)
+98,いそぐ,急ぐ,to hurry,u-verb,1,6,会,False,,会L6,急ぎましょう。,1,9,会,225,True,apresurarse
+99,いたい,痛い,hurt; painful,,1,12,会,False,,会L12,食べすぎたから、おなかが痛いんです。,1,12,会,285,True,doloroso; que duele
+100,いたす,致す,extra-modest expression for する,u-verb,2,20,会,False,,会L20,私は今年の六月に大学を卒業いたしました。,2,20,会,184,False,hacer (forma muy humilde de する)
+101,いただきます,,Thank you for the meal. (before eating),,1,,G,False,,会G,いただきます。,2,20,会,191,False,¡Buen provecho! (antes de comer)
+102,いただく,頂く,extra-modest expression for たべる and のむ,u-verb,2,20,会,False,,会L20,いただく 私は先生にこの本をいただきました。,2,20,会,186,False,comer/beber (forma muy humilde de たべる y のむ)
+103,いただく,頂く,humble expression for もらう,u-verb,2,20,会,False,,会L20,いただく 私は先生にこの本をいただきました。,2,20,会,186,False,recibir (forma humilde de もらう)
+104,いたみどめ,痛み止め,painkiller,,1,12,会,True,,会L12(e),,,,,,False,analgésico
+105,イタリア,,Italy,,1,6,読,False,III,読L6-III,イタリアンレストランギターコンサート,1,6,読,321,True,Italia
+106,いちがつ,一月,January,,1,4,会,True,,会L4(e),一月に日本に来ました。,1,11,読,350,True,enero
+107,いちご,,strawberry,,1,8,会,True,,会L8(e),いちごすいかにんじんたまねぎ,1,8,会,209,True,fresa
+108,いちごうしゃ,一号車,Car No. 1,,1,10,会,True,,会L10(e),きけんいちごうしゃ,1,10,会,252,True,vagón n.º 1
+109,いちじ,一時,one o’clock,,1,1,会,False,,"会L1, 会L1(e)",いちじはんです。,1,1,会,53,True,la una en punto
+110,いちじかん,一時間,one hour,,1,4,会,False,,会L4,一時間にいくらもらいましたか。,2,13,会,42,False,una hora
+111,いちにち,一日,one day,,2,13,会,False,,会L13,一日に三時間ぐらいゲームをします。,2,13,会,32,False,un día
+112,いちにちじゅう,一日中,all day long,,2,15,会,False,,会L15,一日中寝ます。,2,15,会,90,False,todo el día
+113,いちにちめ,一日目,first day,,2,15,会,False,,会L15,一日目二日目三日目四日目,2,15,会,81,False,el primer día
+114,いちねんじゅう,一年中,all year,,2,15,読,False,II,読L15-II,だから、ゴルフなどのスポーツが一年中楽しめます。,2,15,読,290,False,todo el año
+115,いちねんせい,一年生,first-year student,,1,1,会,False,,会L1,だいがくのいちねんせいです。,1,1,読,299,True,estudiante de primer año
+116,いちねんにいちど,一年に一度,once a year,,1,12,読,False,II,読L12-II,,,,,,False,una vez al año
+117,いちばん,一番,best,,1,10,会,False,,会L10,世界の国の中でどこがいちばん小さいですか。,1,10,会,241,True,el mejor; número uno
+118,いつ,,when,,1,3,会,False,,会L3,いつテレビを見ますか。,1,3,会,100,True,cuándo
+119,いつか,五日,five days,,2,13,会,False,,会L13,いつか中国に行きたいです。,1,11,会,258,True,cinco días
+120,いつか,五日,the fifth day of a month,,1,4,会,True,,会L4(e),いつか中国に行きたいです。,1,11,会,258,True,el día cinco del mes
+121,いっかい,一階,first floor,,2,20,会,False,,会L20,,,,,,False,primer piso; planta baja
+122,いっしょうけんめい,一生懸命,very hard,,2,21,読,False,II,読L21-II,日本で大学を卒業してから、一生懸命仕事をしてお金をためました。,2,21,読,331,False,con todo el esfuerzo
+123,いっしょうにいちど,一生に一度,once in a lifetime,,2,13,読,False,II,読L13-II,これは一生に一度のとてもおもしろい経験でした。,2,13,読,278,False,una vez en la vida
+124,いっしょに,一緒に,together,,1,5,会,False,,会L5,一緒に図書館で勉強しましょう。,1,5,会,136,True,juntos
+125,いつつ,五つ,five,,1,9,会,False,,会L9,あなたの願いを五つ書いてください。,1,12,読,356,True,cinco (cosas)
+126,いってきます,,I’ll go and come back.,,1,,G,False,,会G,メアリー：いってきます。,1,3,会,82,True,Me voy y vuelvo. (al salir de casa)
+127,いってらっしゃい,,Please go and come back.,,1,,G,False,,会G,じゃあ、いってらっしゃい。,1,3,会,82,True,Que te vaya bien. (a quien sale)
+128,いっぱくにしょくつき,一泊二食付き,one night with two meals,,2,15,会,True,,会L15(e),,,,,,False,una noche con dos comidas
+129,いっぷん,一分,one minute,,1,1,会,True,,会L1(e),いちじ 1 いっぷん 11 じゅういっぷん,1,1,会,55,True,un minuto
+130,いっぽう,一方,on the other hand,,2,23,読,False,II,読L23-II,一方（いっぽう）,2,23,読,342,False,por otro lado
+131,いつも,,always,,1,6,読,False,III,"読L6-III, 会L8",だれがいつも食堂で食べますか。,1,8,会,204,True,siempre
+132,いなか,,countryside,,2,20,読,False,II,読L20-II,男はいなかに行って古い物を買い、,2,20,読,325,False,campo; zona rural
+133,いなくなる,,(someone) is gone; to disappear,u-verb,2,23,会,False,,会L23,お母さん：　メアリーがいなくなるとさびしくなるね。,2,23,会,250,False,(alguien) desaparece; ya no está
+134,いぬ,犬,dog,,1,4,会,False,,会L4,家に犬がいますか。,1,7,会,180,True,perro
+135,いま,今,now,,1,1,会,False,,会L1,いまなんじですか。,1,1,会,42,True,ahora
+136,いますぐ,今すぐ,right away,,2,18,会,False,,会L18,ジョン：　今すぐ、タオルを持ってきます。,2,18,会,136,False,ahora mismo
+137,いみ,意味,meaning,,1,11,会,True,,"会L11(e), 会L12",ここに来た人は、平和の意味について考えます。,2,15,読,290,False,significado
+138,いもうと,妹,younger sister,,1,1,会,False,,"会L1, 会L7",いもうとはだいがくせいですか。,1,1,会,49,True,hermana menor
+139,いらっしゃいませ,,Welcome (to our store).,,1,2,会,False,,会L2,みせのひと：いらっしゃいませ。,1,2,会,57,True,Bienvenido (a nuestra tienda).
+140,いらっしゃる,,"honorific expression for いく, くる, and いる",u-verb,2,19,会,False,,会L19,社長はお子さんを会社に連れていらっしゃいました。,2,19,会,164,False,ir/venir/estar (forma honorífica)
+141,いりぐち,入口,entrance,,1,10,会,True,,会L10(e),,,,,,False,entrada
+142,いる,,(a person) is in ... ; stays at ...,ru-verb,1,4,会,False,,会L4,（b）あした、メアリーさんはソラさんに会います。,1,4,会,122,True,estar (persona); quedarse en
+143,いる,,to need,u-verb,1,8,会,False,,会L8,フゆい： 何もいらないと思います。,1,8,会,186,True,necesitar
+144,いれる,,"to make tea, coffee, etc.",ru-verb,2,17,会,False,,会L17,お茶をいれてください。,2,17,会,127,False,"preparar (té, café, etc.)"
+145,いれる,入れる,to put (something) in,ru-verb,2,16,会,False,,会L16,宿題を入れたファイルがないんです。,2,16,会,92,False,meter; poner (algo) dentro
+146,いろ,色,color,,1,9,会,False,,会L9,晩ご飯の後、いろいろな話をした。,1,9,読,337,True,color
+147,いろいろ（な）,,various; different kinds of,,1,9,読,False,II,"読L9-II, 会L13",晩ご飯の後、いろいろな話をした。,1,9,読,337,True,varios; diversos
+148,インターネット,,internet,,2,15,会,False,,会L15,インターネットで日本のラジオ番組が聞けます。,2,15,会,79,False,internet
+149,インド,,India,,1,1,会,False,,会L1,Ａ：インドに行ったことがありますか。,2,13,会,39,False,India
+150,インフルエンザ,,influenza,,1,12,会,False,,会L12,医者： インフルエンザじゃないですね。,1,12,会,272,True,gripe; influenza
+151,ううん,,uh-uh; no,,1,8,会,False,,会L8,ううん、行かない。,1,8,会,191,True,no (informal)
+152,うえ,上,on,,1,4,会,False,,会L4,ロバート：じや、上サイズを＝数ください。,1,5,会,128,True,sobre; encima
+153,うかがう,伺う,to humbly visit; to humbly ask,u-verb,2,20,会,False,,会L20,ないで、部長のお宅にうかがってしまいました。,2,20,会,196,False,visitar; preguntar (forma humilde)
+154,うけつけ,受付,reception desk,,2,22,会,False,,会L22,,,,,,False,recepción
+155,うける,受ける,to take (an examination),ru-verb,2,19,読,False,III,"読L19-III, 会L22",大学院に入る前に、日本語の試験を受けなければいけないと聞きましたが、パクさんは試験のためにどんな勉強をなさいましたか。,2,19,読,319,False,presentar (un examen)
+156,うし,牛,cow,,1,12,読,False,II,読L12-II,どうして私たちは七タの日にたんざくに願いを書きますか。,1,12,読,356,True,vaca
+157,うしろ,後ろ,back,,1,4,会,False,,会L4,図書館は大学の後ろです。,1,4,会,117,True,detrás; atrás
+158,うそをつく,,to tell a lie,u-verb,1,11,会,False,,会L11,（うそをつきます。,2,13,会,36,False,mentir
+159,うた,歌,song,,1,7,会,False,,会L7,日本の歌を知っていますか。,1,7,会,183,True,canción
+160,うたう,歌う,to sing,u-verb,1,7,会,False,,会L7,今も、よくカラオケで歌います。,1,11,会,269,True,cantar
+161,うち,,home; house; my place,,1,3,会,False,,会L3,うちで昼ご飯を食べます。,1,3,会,89,True,casa; hogar; mi casa
+162,うちゅうじん,宇宙人,space alien,,2,20,会,False,,会L20,宇宙人がいると思いますか。,2,20,会,198,False,extraterrestre
+163,うちゅうひこうし,宇宙飛行士,astronaut,,1,11,会,False,,会L11,,,,,,False,astronauta
+164,うつす,写す,to copy,u-verb,2,16,読,False,II,読L16-II,覚えたいことをこのパンに写して、食べてみて。,2,16,読,297,False,copiar
+165,うまく,,well; successfully; skillfully,,2,22,読,False,II,読L22-II,うまく説明できるといいんだけど……。,2,22,読,338,False,bien; con éxito; hábilmente
+166,うまくいく,,to go well,u-verb,2,22,読,False,II,読L22-II,うまくいくといいけど。,2,22,読,337,False,salir bien
+167,うまれる,生まれる,to be born,ru-verb,2,15,読,False,II,"読L15-II, 会L17",広島と宮島広島は私が生まれた町です。,2,15,読,289,False,nacer
+168,うみ,海,sea,,1,5,会,False,,会L5,沖縄の海はすごくきれいでしたよ。,1,5,会,129,True,mar
+169,うらない,占い,fortune-telling,,2,21,読,False,II,読L21-II,友だちは気をつけたほうがいいと言いましたが、私は占いや迷信が大きらいなので、初めはぜんぜん気にしていませんでした。,2,21,読,331,False,adivinación
+170,うらやましい,,envious,,2,17,会,False,,会L17,たけし：　うらやましいなあ。,2,17,会,114,False,envidioso
+171,うらやましがる,,(somebody is) envious,,2,22,読,False,II,読L22-II,,,,,,False,(alguien) siente envidia
+172,うる,売る,to sell,u-verb,1,10,読,False,II,"読L10-II, 会L15",（） おじいさんはおじぞうさんにかさを売った。,1,10,読,344,True,vender
+173,うるさい,,noisy; annoying,,2,22,会,False,,会L22,レストランにうるさい子供がいたら、注意したほうがいい。,2,23,会,270,False,ruidoso; molesto
+174,うれしい,,glad,,2,13,会,False,,会L13,今、毎日食べられるので、とてもうれしいです。,2,13,読,277,False,contento
+175,うれる,売れる,to be sold,ru-verb,2,20,読,False,II,読L20-II,「それに、ここに皿を置いておくと、時々猫が三両で売れるんですよ。,2,20,読,326,False,venderse
+176,うん,,uh-huh; yes,,1,8,会,False,,会L8,（メうん、わかる。,1,8,会,192,True,ajá; sí (informal)
+177,うんてんする,運転する,to drive,irregular verb,1,8,会,False,,会L8,ゆうは車を運転しますか。,1,11,読,350,True,conducir; manejar
+178,うんどうする,運動する,to exercise,irregular verb,1,9,会,False,,会L9,医者： 二三日、運動しないほうがいいでしょう。,1,12,会,272,True,hacer ejercicio
+179,え,絵,painting; picture; drawing,,2,15,会,False,,会L15,Ｂ：ええ、うちでパーティーをしようと思っています。,2,15,会,83,False,pintura; dibujo; cuadro
+180,エアコン,,air conditioner,,1,6,会,False,,会L6,エアコンをつけたから、すぐなりますよ。,1,10,会,245,True,aire acondicionado
+181,えいが,映画,movie,,1,3,会,False,,会L3,土曜日に映画を見ませんか。,1,3,会,93,True,película
+182,えいかいわ,英会話,English conversation,,2,22,会,False,,会L22,塾に行かせたり、英会話を習わせたり、お金がかかるだろうなあ。,2,22,会,229,False,conversación en inglés
+183,えいがかん,映画館,movie theater,,2,15,会,False,,会L15,,,,,,False,cine
+184,えいきょうをうける,影響を受ける,to be affected,ru-verb,2,17,読,False,II,読L17-II,ジョンはヨーコの詩に影響を受けて、この歌を作ったそうです。,2,17,読,304,False,ser influenciado
+185,えいご,英語,English language,,1,2,会,False,,会L2,英語を話しますか。,1,3,会,96,True,idioma inglés
+186,ええ,,yes,,1,3,会,False,,会L3,メアリー：ええ、今日は京都に行きます。,1,3,会,82,True,sí
+187,ええと,,well ... ; let me see ...,,2,16,会,False,,会L16,ええと……ちょっと待ってください。,2,16,会,92,False,eh...; a ver...
+188,えき,駅,station,,1,6,読,False,I,"読L6-I, 会L10",（）レストラン・アルデンテ：えきの中にあります。,1,6,読,320,True,estación
+189,えきいん（さん）,駅員（さん）,station attendant,,2,16,会,False,,会L16,ええ、駅員さんに宿題を手伝ってもらいましたから。,2,16,会,93,False,empleado de la estación
+190,えさ,,feed,,2,20,読,False,II,読L20-II,その時、猫が歩いてきて、えさが入った皿の前で止まりました。,2,20,読,325,False,alimento (para animales)
+191,エジプト,,Egypt,,1,1,会,False,,会L1,エジプト・アムステルダム,1,2,読,302,True,Egipto
+192,エスエヌエス,,SNS social media,,2,23,読,False,II,読L23-II,,,,,,False,redes sociales
+193,えど,江戸,former name of Tokyo,,2,20,読,False,II,読L20-II,江戸でそれを高い値段で売っていました。,2,20,読,325,False,Edo (antiguo nombre de Tokio)
+194,えどじだい,江戸時代,Edo period (1603 －1868),,2,20,読,False,II,読L20-II,落語は今から三百年以上前の江戸時代に始まりました。,2,20,読,325,False,período Edo (1603–1868)
+195,えもじ,絵文字,emoji,,2,23,読,False,II,読L23-II,ところで、絵文字は、日本で作られたものです。,2,23,読,344,False,emoji
+196,えらぶ,選ぶ,to choose; to select,u-verb,2,17,会,False,,会L17,ぼくだったら、仕事より彼女を選ぶけど。,2,17,会,115,False,elegir; seleccionar
+197,エルサイズ,Ｌサイズ,size L,,1,5,会,False,,会L5,,,,,,False,talla L
+198,～えん,～円,... yen,,1,2,会,False,,会L2,みせのひと： あれはさんぜんごひゃくえんです。,1,2,会,56,True,... yenes
+199,えんぴつ,鉛筆,pencil,,2,14,会,False,,会L14,,,,,,False,lápiz
+200,えんりょする,遠慮する,to hold back for the time being; to refrain from,irregular verb,2,19,会,False,,会L19,たけし：　でも、今日は遠慮しておきます。,2,19,会,161,False,contenerse; abstenerse
+201,おあずけいれ,お預け入れ,deposit,,2,13,会,True,,会L13(e),いらっしゃいませお預け入れお引き出し通帳記入お振込クレジットカード残高照会,2,13,会,45,False,depósito
+202,おいしい,,delicious,,1,2,会,False,,会L2,おいしいですよ。,1,2,会,57,True,delicioso
+203,おいのりする,お祈りする,to pray,irregular verb,2,17,会,False,,会L17,という意味ですが、英語の文では「お祈りします」,2,23,読,345,False,rezar
+204,おうふく,往復,round trip,,1,10,会,True,,会L10(e),,,,,,False,ida y vuelta
+205,おおい,多い,there are many ...,,1,12,会,False,,会L12,食べにくい 骨が多いので、魚は食べにくいです。,2,20,会,190,False,hay muchos ...
+206,おおきい,大きい,large,,1,5,会,False,,会L5,学校は大きいですか。,1,5,会,139,True,grande
+207,おおきさ,大きさ,size,,2,16,会,False,,会L16,ジョン：　青くてこのぐらいの大きさです。,2,16,会,92,False,tamaño
+208,おおくの～,多くの～,many ...,,2,21,読,False,II,"読L21-II, 会L22",昔から多くの日本人は、厄年に悪いことがよく起こると信じています。,2,21,読,331,False,muchos ...
+209,オーストラリア,,Australia,,1,1,会,False,,"会L1, 会L11",オーストラリアのじてんしゃです。,1,2,読,303,True,Australia
+210,おおやさん,大家さん,landlord; landlady,,2,14,会,False,,会L14,Ｃ：じゃあ、大家さんに相談したらどうですか。,2,14,会,65,False,casero; casera (arrendador)
+211,おかあさん,お母さん,mother,,1,1,会,False,,"会L1, 会L2",たけしさんのおかあさんはこうこうのせんせいです。,1,1,会,43,True,madre (de otro / al dirigirse)
+212,おかえし,お返し,return (as a token of gratitude),,2,14,会,False,,会L14,たけし：　ええ、男の人は三月十四日にお返しをしなきゃいけないんですよ。,2,14,会,47,False,regalo de agradecimiento (devolución)
+213,おかえり（なさい）,,Welcome home.,,1,,G,False,,会G,お父さん：おかえりなさい。,1,4,会,102,True,Bienvenido a casa.
+214,おかげで,,thanks to ...,,2,18,会,False,,会L18,今日はジョンのおかげで、助かったよ。,2,18,会,137,False,gracias a ...
+215,おかし,お菓子,snack; sweets,,1,11,会,False,,会L11,お菓子をたくさん食べる（いいえ）,2,22,会,241,False,dulces; golosinas
+216,おかね,お金,money,,1,6,会,False,,会L6,あのう、お金を借りてもいいですか。,1,6,会,163,True,dinero
+217,おかねもち,お金持ち,rich person,,1,10,会,False,,会L10,（）おじいさんとおばあさんはお金持ちだった。,1,10,読,344,True,persona rica
+218,おきゃくさん,お客さん,guest; visitor; client; customer,,2,17,会,False,,会L17,父はお客さんにお茶をおいれしました。,2,20,会,187,False,invitado; visitante; cliente
+219,おきる,起きる,to get up,ru-verb,1,3,会,False,,会L3,たいてい時ごろ起きます。,1,3,会,97,True,levantarse
+220,おく,置く,to put; to lay; to place,u-verb,2,21,会,False,,会L21,テーブルの上に花が置いてあります。,2,21,会,212,False,poner; colocar
+221,おくさま,奥様,(your/someone’s) wife (polite),,2,19,会,False,,会L19,奥様によろしくお伝えください。,2,19,会,161,False,"esposa (de otro, muy cortés)"
+222,おくさん,奥さん,(your/someone’s) wife,,2,14,会,False,,会L14,奥さん／ご主人,2,14,会,60,False,esposa (de otro)
+223,おくる,送る,to send,u-verb,2,14,会,False,,会L14,親せきがりんごを送ってくれました。,2,16,会,97,False,enviar
+224,おくる,送る,to walk/drive (someone),u-verb,2,19,会,False,,会L19,うちまで送ってくれてありがとう。,2,19,会,161,False,acompañar (a alguien a pie o en coche)
+225,おくれる,遅れる,to become late,ru-verb,2,13,読,False,III,"読L13-III, 会L19",イギリスでは電車はよく遅れますが、日本ではいつも時間通りです。,2,13,読,280,False,llegar tarde; retrasarse
+226,おこさん,お子さん,(your/someone’s) child (polite),,2,19,会,False,,会L19,社長はお子さんを会社に連れていらっしゃいました。,2,19,会,164,False,"hijo/a (de otro, cortés)"
+227,おこす,起こす,to wake (someone) up,u-verb,2,16,会,False,,会L16,,,,,,False,despertar (a alguien)
+228,おこる,起こる,to occur; to happen,u-verb,2,21,読,False,II,読L21-II,びっくりして何が起こったのかわかりませんでした。,2,21,読,332,False,ocurrir; suceder
+229,おこる,怒る,to get angry,u-verb,1,12,読,False,II,読L12-II,どうして神さまは怒りましたか。,1,12,読,356,True,enfadarse
+230,おごる,,to treat (someone) to a meal,u-verb,2,16,会,False,,会L16,みんないろいろな物をくれたり、おごってくれたりしたんです。,2,21,会,207,False,invitar (a alguien a comer)
+231,おさきにしつれいします,お先に失礼します,"See you. (lit., I’m leaving ahead of you.)",,2,18,会,False,,会L18,じゃあ、お先に失礼します。,2,18,会,137,False,"Con permiso, me retiro. (al salir antes que los demás)"
+232,おさけ,お酒,sake; alcoholic drink,,1,3,会,False,,会L3,この中にお酒が入っていますか。,1,8,会,209,True,sake; bebida alcohólica
+233,おさら,お皿,plate; dish,,2,14,会,False,,会L14,,,,,,False,plato
+234,おじいさん,,grandfather; old man,,1,7,会,False,,会L7,（）おじいさんとおばあさんはお金持ちだった。,1,10,読,344,True,abuelo; anciano
+235,おしえる,教える,to teach; to instruct,ru-verb,1,6,会,False,,会L6,ちょっと教えてください。,1,6,会,151,True,enseñar; instruir
+236,おじさん,,uncle; middle-aged man,,2,14,会,False,,会L14,私の父はカーネルおじさんみたいです。,2,17,会,122,False,tío; señor de mediana edad
+237,おじぞうさん,,guardian deity of children,,1,10,読,False,II,読L10-II,（） おじいさんはおじぞうさんにかさを売った。,1,10,読,344,True,jizō (deidad protectora de los niños)
+238,おしゃれ（な）,,fashionable; stylish,,2,14,会,False,,会L14,おしゃれなカフェを調べておきます。,2,15,会,84,False,elegante; a la moda
+239,おしょうがつ,お正月,New Year’s,,1,10,読,False,II,"読L10-II, 会L11",日本ではお正月に何をすると思いますか。,1,10,読,343,True,Año Nuevo
+240,おじょうさん,お嬢さん,(someone’s) daughter (polite),,2,22,会,False,,会L22,お嬢さんと結婚する,2,22,会,242,False,"hija (de otro, cortés)"
+241,おしり,,buttocks,,1,7,会,True,,会L7(e),,,,,,False,trasero; nalgas
+242,おしろ,お城,castle,,1,5,読,False,II,読L5-II,きのうはおしろを見ました。,1,5,読,315,True,castillo
+243,おす,押す,to press; to push,u-verb,2,18,会,False,,会L18,そこのスイッチを押すとつくよ。,2,18,会,136,False,presionar; empujar
+244,おせわになる,お世話になる,to be in someone’s care,u-verb,2,19,読,False,II,"読L19-II, 会L23",お世話になった人にお礼の手紙を書きましょう。,2,19,読,320,False,estar al cuidado de alguien; estar en deuda
+245,おそい,遅い,slow; late,,1,10,会,False,,会L10,新幹線と電車とどちらのほうが遅いですか。,1,10,会,239,True,lento; tarde
+246,おそく,遅く,(do something) late,,1,4,読,False,III,"読L4-III, 会L8",おかあさんもおそくおきました。,1,4,読,311,True,tarde (hacer algo)
+247,おそくなる,遅くなる,to be late,u-verb,1,8,会,False,,会L8,メアリー： 遅くなってすみません。,1,8,会,186,True,hacerse tarde; llegar tarde
+248,おだいじに,お大事に,Get well soon.,,1,12,会,False,,会L12,医者： お大事に。,1,12,会,273,True,Que te mejores.
+249,おたく,お宅,(someone’s) home/house,,2,20,会,False,,会L20,ないで、部長のお宅にうかがってしまいました。,2,20,会,196,False,"casa (de otra persona, cortés)"
+250,おちこむ,落ち込む,to get depressed,u-verb,2,16,会,False,,会L16,友だちが落ち込んでいます。,2,16,会,107,False,deprimirse
+251,おちゃ,お茶,green tea,,1,3,会,False,,会L3,お茶を飲みましょうか。,1,5,会,143,True,té verde
+252,おちる,落ちる,(something) drops,ru-verb,2,18,会,False,,会L18,,,,,,False,(algo) se cae
+253,おつかれさま（でした）,お疲れ様（でした）,You must be tired after working so hard. (greeting between friends and coworkers),,2,18,会,False,,会L18,,,,,,False,"Buen trabajo, debes estar cansado. (saludo entre compañeros)"
+254,おっしゃる,,honorific expression for いう,u-verb,2,19,会,False,,会L19,お名前は何とおっしゃいますか。,2,20,会,192,False,decir (forma honorífica)
+255,おてあらい,お手洗い,restroom,,1,12,会,False,,会L12,お手洗いは二階でございます。,2,20,会,185,False,baño; servicio
+256,おてら,お寺,temple,,1,4,会,False,,会L4,メアリーさんは金曜日にお寺に行きましたか。,1,4,会,121,True,templo
+257,おと,音,sound,,2,20,会,False,,会L20,この間このヘッドホンを買ったんですが、音が聞こえないんです。,2,20,会,180,False,sonido
+258,おとうさん,お父さん,father,,1,1,会,False,,"会L1, 会L2",おとうさんはかいしゃいんですか。,1,1,会,49,True,padre (de otro / al dirigirse)
+259,おとうと,弟,younger brother,,1,1,会,False,,"会L1, 会L7",やせている私の弟はとてもやせています。,1,7,会,172,True,hermano menor
+260,おとこのひと,男の人,man,,1,5,読,False,II,"読L5-II, 会L7",（） 男の人と女の人がいます。,1,5,読,314,True,hombre
+261,おとされる,落とされる,to be dropped,,2,15,読,False,II,読L15-II,,,,,,False,ser dejado caer
+262,おとす,落とす,to drop (something),u-verb,2,18,会,False,,会L18,しょうゆを落としちゃったんです。,2,18,会,136,False,dejar caer (algo)
+263,おととい,,the day before yesterday,,1,4,会,True,,"会L4(e), 会L19",おとといにしゅうかんまえにかげつまえおととし,1,4,会,127,True,anteayer
+264,おととし,,the year before last,,1,4,会,True,,会L4(e),おとといにしゅうかんまえにかげつまえおととし,1,4,会,127,True,el año antepasado
+265,おとな,大人,adult,,1,12,読,False,II,"読L12-II, 会L13",もう大人です。,2,13,会,36,False,adulto
+266,おどる,踊る,to dance,u-verb,1,9,会,False,,会L9,踊るのが好きですか。,1,9,会,227,True,bailar
+267,おなか,,stomach,,1,7,会,True,,"会L7(e), 会L12",Ａ： おなかが痛そうですね。,2,13,会,38,False,estómago; barriga
+268,おなかがすく,,to become hungry,u-verb,1,11,会,False,,会L11,おなかがすいていますから。,1,11,会,264,True,tener hambre
+269,おなかをこわす,,to have a stomachache,u-verb,2,23,会,False,,会L23,メアリー：　たけしくんが作った料理を食べさせられて、おなかをこわしたり。,2,23,会,250,False,tener dolor de estómago
+270,おなじ,同じ,same,,1,12,会,False,,会L12,三人は同じ大学で勉強しています。,2,13,読,280,False,igual; mismo
+271,おにいさん,お兄さん,older brother,,1,1,会,False,,"会L1, 会L7",おにいさんはかいしゃいんですか。,1,1,会,49,True,hermano mayor (de otro / al dirigirse)
+272,おにぎり,,rice ball,,2,20,会,False,,会L20,カレーライスおにぎりラーメンうどんパスタ,1,8,会,208,True,bola de arroz (onigiri)
+273,おねえさん,お姉さん,older sister,,1,1,会,False,,"会L1, 会L7",お姉さんはどこに住んでいますか。,1,7,会,177,True,hermana mayor (de otro / al dirigirse)
+274,おねがいします（～を）,,"... , please.",,1,2,会,False,,会L2,メアリー：じゃあ、これをおねがいします。,1,2,会,57,True,"..., por favor."
+275,おねがいする,お願いする,to request help,irregular verb,2,22,会,False,,会L22,は「お願いします」,2,23,読,345,False,pedir un favor
+276,おばあさん,,grandmother; old woman,,1,7,会,False,,会L7,（）おじいさんとおばあさんはお金持ちだった。,1,10,読,344,True,abuela; anciana
+277,おばさん,,aunt; middle-aged woman,,2,14,会,False,,会L14,おばさんー おばあさん,1,1,読,298,True,tía; señora de mediana edad
+278,おはよう,,Good morning.,,1,,G,False,,会G,メアリー：おはようございます。,1,3,会,82,True,Buenos días.
+279,おはようございます,,Good morning. (polite),,1,,G,False,,会G,メアリー：おはようございます。,1,3,会,82,True,Buenos días. (cortés)
+280,おひきだし,お引き出し,withdrawal,,2,13,会,True,,会L13(e),いらっしゃいませお預け入れお引き出し通帳記入お振込クレジットカード残高照会,2,13,会,45,False,retiro (de dinero)
+281,おふりこみ,お振込,bank transfer,,2,13,会,True,,会L13(e),,,,,,False,transferencia bancaria
+282,おふろ,お風呂,bath,,1,8,会,False,,会L8,毎日、 お風呂に入る？,1,8,会,198,True,baño (bañera)
+283,おふろにはいる,お風呂に入る,to take a bath,u-verb,1,8,会,False,,会L8,毎日、 お風呂に入る？,1,8,会,198,True,bañarse
+284,おへんじ,お返事,reply,,1,11,読,False,II,読L11-II,よかったら、お返事ください。,1,11,読,350,True,respuesta
+285,おべんとう,お弁当,boxed lunch,,1,9,会,False,,会L9,旅行に行ったから・お弁当を買います。,1,9,会,225,True,almuerzo en caja (bentō)
+286,おぼえる,覚える,to memorize,ru-verb,1,9,会,False,,会L9,マイケルの歌をたくさん覚えました。,1,9,会,222,True,memorizar
+287,おまつり,お祭り,festival,,1,11,会,False,,会L11,お祭りに行く（はい）,1,11,会,264,True,festival
+288,おまもり,お守り,charm (against evils); amulet,,2,21,読,False,II,読L21-II,弟か妹にお守りを送ってもらおうと思います。,2,21,読,332,False,amuleto
+289,おまんじゅう,,sweet bun,,1,4,読,False,III,読L4-III,みせでおまんじゅうをかいました。,1,4,読,311,True,bollo dulce (manjū)
+290,おみやげ,お土産,souvenir,,1,5,会,False,,会L5,これ、おみやげです。,1,5,会,129,True,recuerdo (regalo de viaje)
+291,おめでとうございます,,Congratulations!,,2,17,会,False,,会L17,おめでとうございます。,2,17,会,114,False,¡Felicidades!
+292,おもい,重い,heavy; serious (illness),,2,20,会,False,,会L20,大きくて重いので、使いにくいです。,2,20,会,200,False,pesado; grave (enfermedad)
+293,おもいだす,思い出す,to recall,u-verb,2,19,読,False,II,読L19-II,思い出す（おもいだす）,2,19,読,315,False,recordar
+294,おもいで,思い出,memory,,2,23,会,False,,会L23,でもみんないい思い出だね。,2,23,会,250,False,recuerdo (memoria)
+295,おもう,思う,to think,u-verb,1,8,会,False,,会L8,メアリーさんは日本語が上手だと思います。,1,8,会,199,True,pensar
+296,おもしろい,面白い,interesting; funny,,1,5,会,False,,会L5,きのう、おもしろい映画を見ました。,1,5,会,134,True,interesante; divertido
+297,おもち,,rice cake,,1,10,読,False,II,読L10-II,子供の時、おもちゃの電車で遊びたかったです。,1,11,会,264,True,pastel de arroz (mochi)
+298,おもちゃ,,toy,,1,11,会,False,,会L11,子供の時、おもちゃの電車で遊びたかったです。,1,11,会,264,True,juguete
+299,おもに,主に,mainly,,2,17,読,False,II,読L17-II,大学では主に音楽と詩を勉強しました。,2,17,読,303,False,principalmente
+300,おや,親,parent,,2,16,会,False,,会L16,親せきがりんごを送ってくれました。,2,16,会,97,False,padre o madre
+301,おやすみ（なさい）,,Good night.,,1,,G,False,,会G,,,,,,False,Buenas noches.
+302,おやすみになる,お休みになる,honorific expression for ねる,u-verb,2,19,会,False,,会L19,先生は十時ごろお休みになるそうです。,2,19,会,165,False,dormir (forma honorífica)
+303,おゆ,お湯,hot water,,2,17,会,False,,会L17,たけしさんがお湯を沸かしました。,2,18,会,140,False,agua caliente
+304,おゆがわく,お湯が沸く,water boils,u-verb,2,18,会,False,,会L18,お湯が沸きました。,2,18,会,140,False,el agua hierve
+305,おゆをわかす,お湯を沸かす,to boil water,u-verb,2,17,会,False,,会L17,たけしさんがお湯を沸かしました。,2,18,会,140,False,hervir agua
+306,およぐ,泳ぐ,to swim,u-verb,1,5,会,False,,会L5,けん： 泳ぎましょう。,1,5,会,128,True,nadar
+307,おりる,降りる,to get off,ru-verb,1,6,会,False,,会L6,すぐ降りますから。,1,6,会,147,True,bajarse (de un vehículo)
+308,おる,,extra-modest expression for いる,u-verb,2,20,会,False,,会L20,私は一年間日本語を勉強しております。,2,20,会,184,False,estar (forma muy humilde de いる)
+309,おれい,お礼,expression of gratitude,,2,19,会,False,,会L19,私はホストファミリーのお母さんにお礼が言いたいです。,2,19,会,174,False,agradecimiento
+310,オレンジ,,orange,,1,9,会,True,,会L9(e),（）オレンジジュース,1,2,読,301,True,naranja
+311,おろす,下ろす,to withdraw (money),u-verb,2,15,会,False,,会L15,ヤスミン （お金をおろす）,2,15,会,83,False,retirar (dinero)
+312,おわる,終わる,(something) ends,u-verb,1,9,会,False,,会L9,かぶきはお三時に始まって、四時に終わりました。,1,9,会,222,True,(algo) termina
+313,おんがく,音楽,music,,1,3,会,False,,会L3,日本の音楽を聞きますか。,1,3,会,99,True,música
+314,おんせん,温泉,spa; hot spring,,1,11,会,False,,会L11,温泉に入りましたか。,2,13,会,35,False,aguas termales
+315,おんなのひと,女の人,woman,,1,5,読,False,II,"読L5-II, 会L7",（） 男の人と女の人がいます。,1,5,読,314,True,mujer
+316,か,蚊,mosquito,,2,21,会,False,,会L21,たけしさんは どろぼうに かばんをとられました。,2,21,会,217,False,mosquito
+317,～か～,,or,,1,10,会,False,,会L10,きのう、メアリーさんは何か飲みましたか。,1,10,会,246,True,o
+318,～が,,"... , but",,1,5,読,False,II,"読L5-II, 会L7",ウィーンにはカフェがたくさんあります。,1,5,読,315,True,"..., pero"
+319,カーテン,,curtain,,1,2,会,True,,"会L2(e), 会L18",,,,,,False,cortina
+320,～かい,～回,... times,,2,13,会,False,,会L13,沖縄は日本の一番南にあって、冬も暖かいです。,2,15,読,290,False,... veces
+321,～かい,～階,... th floor,,2,20,会,False,,会L20,沖縄は日本の一番南にあって、冬も暖かいです。,2,15,読,290,False,... piso
+322,かいがいりょこう,海外旅行,trip to a foreign country,,2,23,会,False,,会L23,海外旅行に行く,2,23,会,267,False,viaje al extranjero
+323,かいぎ,会議,business meeting; conference,,2,21,会,False,,会L21,,,,,,False,reunión de trabajo; conferencia
+324,がいこく,外国,foreign country,,1,11,会,False,,会L11,外国に行ったことがありますか。,1,11,会,268,True,país extranjero
+325,がいこくご,外国語,foreign language,,2,13,会,False,,会L13,外国語ができますか。,2,13,会,40,False,idioma extranjero
+326,がいこくじん,外国人,foreigner,,2,15,会,False,,会L15,外国人を探しています。,2,15,会,86,False,extranjero (persona)
+327,かいさつ,改札,gate,,1,10,会,True,,会L10(e),,,,,,False,torniquete de entrada (estación)
+328,かいしゃ,会社,company,,1,7,会,False,,会L7,ニューヨークの会社で働いています。,1,7,会,166,True,empresa
+329,かいしゃいん,会社員,office worker,,1,1,会,False,,"会L1, 会L8",おとうさんはかいしゃいんですか。,1,1,会,49,True,oficinista; empleado
+330,かいだん,階段,stairs,,1,10,会,True,,"会L10(e), 会L23",,,,,,False,escaleras
+331,かいもの,買い物,shopping,,1,4,会,False,,会L4,メアリーさんは日曜日に買い物をしましたか。,1,4,会,121,True,compras
+332,かう,買う,to buy,u-verb,1,4,会,False,,会L4,メアリーさんは日曜日に買い物をしましたか。,1,4,会,121,True,comprar
+333,かう,飼う,to own (a pet),u-verb,1,11,会,False,,会L11,このアパートでは犬を飼うことができません。,2,13,会,28,False,tener (una mascota)
+334,かえす,返す,to return (a thing),u-verb,1,6,会,False,,会L6,すぐ返します。,1,6,会,146,True,devolver (algo)
+335,かえる,帰る,to go back; to return,u-verb,1,3,会,False,,会L3,六時ごろ家に帰ります。,1,3,会,100,True,volver; regresar
+336,かお,顔,face,,1,7,会,True,,"会L7(e), 会L10",顔が、 なりましたね。,1,10,会,245,True,cara
+337,かおがあおい,顔が青い,to look pale,,1,9,会,True,,会L9(e),,,,,,False,estar pálido
+338,かおもじ,顔文字,emoticon,,2,23,読,False,II,読L23-II,顔文字は、1 万以上あると言われています。,2,23,読,343,False,emoticono
+339,～かおをする,～顔をする,to look ... (facial expression),irregular verb,2,23,会,False,,会L23,もらったプレゼントが気に入らなくても、うれしそうな顔をしたほうがいい。,2,23,会,270,False,poner cara de ...
+340,かかりのもの,係の者,our person in charge,,2,20,会,False,,会L20,係の者を呼んで参ります。,2,20,会,180,False,nuestro encargado
+341,かかる,,to take (amount of time/money),u-verb,1,10,会,False,,会L10,メアリー： 時間がかかりますね。,1,10,会,230,True,tardar; costar (tiempo/dinero)
+342,かぎ,,lock; key,,2,17,会,False,,会L17,それから、かぎを新しくしましたから、どうぞ。,2,21,会,207,False,cerradura; llave
+343,かぎをかける,,to lock,ru-verb,2,17,会,False,,会L17,かぎをかけておけば、どろぼうに入られません。,2,22,会,235,False,cerrar con llave
+344,かく,書く,to write,u-verb,1,4,会,False,,会L4,メアリーさんは土曜日にレポートを書きましたか。,1,4,会,121,True,escribir
+345,かく,描く,to draw; to paint,u-verb,2,15,会,False,,会L15,沖縄は日本の一番南にあって、冬も暖かいです。,2,15,読,290,False,dibujar; pintar
+346,かぐ,家具,furniture,,2,15,会,False,,会L15,けん （大きい家具を捨てる）,2,15,会,83,False,muebles
+347,がくせい,学生,student,,1,1,会,False,,会L1,たけしさんはアリゾナだいがくのがくせいですか。,1,1,会,51,True,estudiante
+348,がくわり,学割,student discount,,1,10,会,True,,会L10(e),学割が使えますか。,1,10,会,253,True,descuento de estudiante
+349,～かげつ,～か月,for ... months,,1,10,会,False,,会L10,三か月後（さんかげつご）,2,14,読,283,False,durante ... meses
+350,かける,,to sit down,ru-verb,2,19,会,False,,会L19,ジョンさんは出かけました。,2,20,会,196,False,sentarse
+351,かける（アイロンを）,,to iron (clothes),ru-verb,2,16,会,False,,会L16,ドアにかぎをかけました。,2,16,会,100,False,planchar (ropa)
+352,かける（かぎを）,,to lock,ru-verb,2,17,会,False,,会L17,出かけるみたいです。,2,17,会,131,False,cerrar con llave
+353,かける（パーマを）,,to have one’s hair permed,ru-verb,2,17,会,True,,会L17(e),出かけるみたいです。,2,17,会,131,False,hacerse la permanente
+354,かける（めがねを）,,to put on (glasses),ru-verb,1,7,会,False,,会L7,高校の時はめがねをかけていました。,1,7,会,166,True,ponerse (gafas)
+355,かさ,,bamboo hat,,1,10,読,False,II,読L10-II,かさをていますか。,1,10,読,342,True,sombrero de bambú
+356,かさ,傘,umbrella,,1,2,会,False,,会L2,傘はテーブルの下です。,1,4,会,109,True,paraguas
+357,かし,菓子,snack; sweets,,1,11,会,False,,会L11,たけしさんがお湯を沸かしました。,2,18,会,140,False,dulces; golosinas
+358,かじ,火事,fire,,2,17,会,False,,会L17,山下先生の家で火事がありました。,2,17,会,125,False,incendio
+359,かじ,家事,housework,,2,22,会,False,,会L22,家事を手伝わせたほうがいい,2,22,会,248,False,tareas domésticas
+360,かしこまりました,,Certainly.,,2,20,会,False,,会L20,かしこまりました。,2,20,会,180,False,Entendido. (muy cortés)
+361,かしゅ,歌手,singer,,1,11,会,False,,会L11,歌手の中で、だれが好きですか。,1,11,会,268,True,cantante
+362,かす,貸す,to lend,u-verb,2,16,会,False,,会L16,私は妹にお金を貸してあげました。,2,16,会,96,False,prestar
+363,かぜ,風,wind,,2,22,会,False,,会L22,ジョン、今日は森田くん、かぜで来られないそうだ。,2,18,会,136,False,viento
+364,かぜ,風邪,cold,,1,12,会,False,,会L12,かぜをひいたので、授業を休みました。,1,12,会,287,True,resfriado
+365,かぜがふく,風が吹く,the wind blows,u-verb,2,22,会,False,,会L22,,,,,,False,sopla el viento
+366,かぜをひく,風邪をひく,to catch a cold,u-verb,1,12,会,False,,会L12,かぜをひいたので、授業を休みました。,1,12,会,287,True,resfriarse
+367,かぞえる,数える,to count,ru-verb,2,17,読,False,II,読L17-II,雲を数えて名前をつけなさいこの詩は、読んだ人が雲を数えて名前をつけた時に完成します。,2,17,読,303,False,contar
+368,かぞく,家族,family,,1,7,会,False,,会L7,一ゆい：これはソラさんの家族の写真ですか。,1,7,会,166,True,familia
+369,ガソリン,,gasoline,,2,21,会,False,,会L21,,,,,,False,gasolina
+370,かた,肩,shoulder,,1,7,会,True,,会L7(e),仕事だからしかたがないけど。,2,22,読,338,False,hombro
+371,かたいいいかた,かたい言い方,bookish expression,,1,11,会,True,,会L11(e),,,,,,False,expresión formal (escrita)
+372,かたづける,片付ける,to tidy up,ru-verb,2,18,会,False,,会L18,後はぼくが片付けるから。,2,18,会,137,False,ordenar; recoger
+373,かたみち,片道,one way,,1,10,会,True,,会L10(e),,,,,,False,solo ida
+374,かつ,勝つ,to win,u-verb,2,22,会,False,,会L22,試合に勝ちました。,2,22,会,245,False,ganar
+375,がっかりする,,to be disappointed,irregular verb,2,20,読,False,II,"読L20-II, 会L23",男はがっかりしました。,2,20,読,326,False,decepcionarse
+376,がっき,楽器,musical instrument,,2,13,会,False,,会L13,何か楽器ができますか。,2,13,会,32,False,instrumento musical
+377,かっこ,,parenthesis,,1,11,会,True,,会L11(e),かっこよくなりたいんです。,1,12,会,288,True,paréntesis
+378,かっこいい,,good-looking,,1,5,会,False,,会L5,ゆい： 背が高くて、かっこいいですね。,1,7,会,166,True,guapo; genial
+379,がっこう,学校,school,,1,3,会,False,,会L3,（b）メアリーさんは学校で日本語を話します。,1,4,会,122,True,escuela
+380,カット,,cut,,2,17,会,True,,会L17(e),カットをお願いします。,2,17,会,135,False,corte (de pelo)
+381,かつどう,活動,activity,,2,15,会,False,,会L15,ボランティア活動をしています。,2,15,会,90,False,actividad
+382,かていきょうし,家庭教師,tutor,,2,18,読,False,III,読L18-III,今、家庭教師をしたり、大学の食堂でアルバイトをしたりしている。,2,18,読,310,False,profesor particular
+383,かど,角,corner,,1,6,会,True,,"会L6(e), 会L20",次の角を左に曲がったら見えますよ。,2,20,会,180,False,esquina
+384,～かな（あ）,,I wonder ... (casual),,2,17,会,False,,会L17,Ａ：ナンテンドーでは土曜日に働かなきゃいけませんか。,2,17,会,129,False,me pregunto si ... (informal)
+385,かなう,,to be realized,u-verb,1,12,読,False,II,読L12-II,﹁ドラえもん﹂の中でそんな夢がかないます。,2,16,読,297,False,hacerse realidad
+386,かなしい,悲しい,sad,,1,10,読,False,II,"読L10-II, 会L13",友だちはみんなゲームを持っていたから、すごく悲しかったです。,2,22,会,248,False,triste
+387,カナダ,,Canada,,1,1,会,False,,会L1,日本とカナダとどちらのほうが寒いですか。,1,10,会,234,True,Canadá
+388,かね,金,money,,1,6,会,False,,会L6,あのう、お金を借りてもいいですか。,1,6,会,163,True,dinero
+389,かねもち,金持ち,rich person,,1,10,会,False,,会L10,（）おじいさんとおばあさんはお金持ちだった。,1,10,読,344,True,persona rica
+390,かのじょ,彼女,she; girlfriend,,1,12,会,False,,会L12,彼女が来るから、部屋を掃除しなきゃ（いけない）。,1,12,会,280,True,ella; novia
+391,かばん,,bag,,1,2,会,False,,会L2,それは ：シラさんのかばんです。,1,2,会,62,True,bolso; mochila
+392,カフェ,,cafe,,1,3,会,False,,会L3,メアリーさんはカフェで何を飲みますか。,1,3,会,95,True,cafetería
+393,かぶき,歌舞伎,Kabuki; traditional Japanese theatrical art,,1,9,会,False,,会L9,たけし：メアリーさんはかぶきが好きですか。,1,9,会,210,True,kabuki (teatro tradicional japonés)
+394,かぶせる,,to put (a hat) on a person’s head,ru-verb,1,10,読,False,II,読L10-II,,,,,,False,poner (un sombrero) a alguien
+395,かぶる,,to put on (a hat),u-verb,1,7,会,False,,会L7,,,,,,False,ponerse (un sombrero)
+396,かふんしょう,花粉症,hay fever,,1,12,会,True,,会L12(e),,,,,,False,alergia al polen
+397,がまんする,我慢する,to be tolerant/ patient,irregular verb,2,23,会,False,,会L23,仕事が楽しくなくても、一年間ぐらい我慢して続けたほうがいい。,2,23,会,270,False,aguantar; ser paciente
+398,かみ,髪,hair,,1,7,会,False,,"会L7, 会L7(e)",トムさんの髪は長いです。,1,7,会,172,True,cabello
+399,かみ,紙,paper,,2,17,会,False,,会L17,スーパーマン紙スプーン,2,17,会,130,False,papel
+400,かみがた,髪形,hairstyle,,2,17,会,True,,会L17(e),ボブ・マーリーみたいな髪形にしたいんですが。,2,17,会,135,False,peinado
+401,かみさま,神様,God,,1,12,読,False,II,"読L12-II, 会L22",神様にお願いする,2,22,会,245,False,Dios
+402,かみをとかす,髪をとかす,to comb one’s hair,u-verb,2,17,会,False,,会L17,,,,,,False,peinarse
+403,かめ,,turtle,,2,13,読,False,II,読L13-II,国に帰って、友だちに「かめを食べたことがある」,2,13,読,278,False,tortuga
+404,カメラ,,camera,,1,8,会,False,,会L8,Ａ：友だちにカメラを借りたんだけど、壊しちゃった。,2,18,会,151,False,cámara
+405,かよう,通う,to commute to,u-verb,2,21,読,False,II,読L21-II,自転車は、学校に通う時使っていました。,2,21,読,332,False,"ir con regularidad (a la escuela, trabajo)"
+406,かようび,火曜日,Tuesday,,1,4,会,False,,"会L4, 会L4(e)",メアリーさんは火曜日に音楽を聞きましたか。,1,4,会,121,True,martes
+407,～から,,from ...,,1,7,読,False,II,"読L7-II, 会L9",から、休みもあまり出かけません。,1,8,読,332,True,desde ...
+408,カラー,,hair coloring,,2,17,会,True,,会L17(e),,,,,,False,tinte de pelo
+409,からい,辛い,hot and spicy; salty,,2,13,会,False,,会L13,からい料理を食べる,2,13,会,34,False,picante; salado
+410,カラオケ,,karaoke,,1,8,会,False,,会L8,来週、カラオケに行く？,1,8,会,199,True,karaoke
+411,からだ,体,body,,2,13,会,False,,会L13,お父さんはすっぽんは体によくて、高い食べ物だと言っていました。,2,13,読,278,False,cuerpo
+412,からだにきをつける,体に気をつける,to take care of oneself,ru-verb,1,7,読,False,II,読L7-II,体に気をつけてください。,1,9,読,339,True,cuidarse
+413,からて,空手,karate,,2,13,会,False,,会L13,空手ができますか。,2,14,会,59,False,kárate
+414,かりる,借りる,to borrow,ru-verb,1,6,会,False,,会L6,後でソラさんのノートを借りてもいいですか。,1,6,会,146,True,tomar prestado
+415,かる,刈る,to crop,u-verb,2,17,会,True,,会L17(e),天気がよくなかったら、キャンプに行きません。,2,17,会,120,False,"cortar (pelo, césped)"
+416,かるい,軽い,light,,2,20,会,False,,会L20,,,,,,False,ligero
+417,かれ,彼,he; boyfriend,,1,12,会,False,,会L12,どうして彼と別れたんですか。,1,12,会,277,True,él; novio
+418,カレー,,curry,,2,13,会,False,,会L13,このカレーが一番人気がありますよ。,2,13,会,23,False,curry
+419,かれし,彼氏,boyfriend,,1,12,会,False,,会L12,彼氏ができたのかな。,2,22,読,338,False,novio
+420,かわ,川,river,,1,11,会,False,,会L11,きで、休みの日には車で近くの山や川に行きます。,1,11,読,349,True,río
+421,かわいい,,cute,,1,7,会,False,,会L7,小さくて、かわいいです。,1,7,会,180,True,lindo; mono
+422,かわいそう（な）,,pitiful; feel sorry for; poor thing,,1,12,読,False,II,"読L12-II, 会L23",あの人がかわいそうだから、あまり文句を言わないことにします。,2,23,会,257,False,pobrecito; dar lástima
+423,かわりに,代わりに,instead,,2,22,読,False,II,読L22-II,それで、ぼくが代わりに二日間東京を案内してあげたんだ。,2,22,読,338,False,en lugar de
+424,がんか,眼科,ophthalmologist,,1,12,会,True,,会L12(e),,,,,,False,oftalmólogo
+425,かんがえる,考える,to think (about); to consider,ru-verb,2,18,会,False,,会L18,何をしながら、考えますか。,2,18,会,153,False,pensar (en); considerar
+426,かんきょう,環境,environment,,2,21,会,False,,会L21,環境のために,2,23,会,266,False,medio ambiente
+427,かんこうする,観光する,to do sightseeing,irregular verb,2,15,会,False,,会L15,早く着いたから、ちょっと観光しない？,2,15,会,70,False,hacer turismo
+428,かんこく,韓国,Korea,,1,1,会,False,,"会L1, 会L2",メアリーさんはソラさんと韓国に行きます。,1,4,会,113,True,Corea
+429,かんごし,看護師,nurse,,1,1,会,False,,"会L1, 会L11",,,,,,False,enfermero/a
+430,かんじ,漢字,kanji; Chinese character,,1,6,会,False,,会L6,漢字がわからなかったので、日本人の友だちに聞いてみました。,2,13,会,30,False,kanji; carácter chino
+431,かんじょう,感情,feeling; emotion,,2,23,読,False,II,読L23-II,という感情がすぐわかります。,2,23,読,344,False,sentimiento; emoción
+432,かんせいする,完成する,to be completed,irregular verb,2,17,読,False,II,読L17-II,雲を数えて名前をつけなさいこの詩は、読んだ人が雲を数えて名前をつけた時に完成します。,2,17,読,303,False,completarse
+433,かんたん（な）,簡単,easy; simple,,1,10,会,False,,会L10,漢字／カタカナ（かんたん）,1,10,会,240,True,fácil; sencillo
+434,かんどうする,感動する,to be moved/ touched (by ... ),irregular verb,2,13,会,False,,会L13,この本は感動しました。,2,13,会,39,False,conmoverse (por ...)
+435,カンニングする,,to cheat in an exam,irregular verb,2,23,会,False,,会L23,学生がカンニングする山下先生絶対に怒りません。,2,23,会,262,False,copiar en un examen
+436,かんぱい,乾杯,Cheers! (a toast),,1,8,会,False,,会L8,みんな： じゃあ、乾杯！,1,8,会,186,True,¡Salud! (brindis)
+437,がんばる,頑張る,to do one’s best; to try hard,u-verb,2,13,会,False,,会L13,がんばってください。,2,13,会,22,False,esforzarse al máximo
+438,き,木,tree,,2,22,会,False,,会L22,大きい問題なのに、あの人はだれにも相談しません。,2,22,会,236,False,árbol
+439,きいろい,黄色い,yellow,,1,9,会,True,,会L9(e),,,,,,False,amarillo
+440,きえる,消える,(something) goes off,ru-verb,2,18,会,False,,会L18,電気は消えています。,2,18,会,141,False,(algo) se apaga
+441,きおん,気温,temperature (weather),,1,8,会,False,,会L8,気温は何度ぐらいですか。,1,10,会,250,True,temperatura (del clima)
+442,きがえる,着替える,to change clothes,ru-verb,2,21,会,False,,会L21,,,,,,False,cambiarse de ropa
+443,きがつく,気が付く,to notice,u-verb,2,21,会,False,,会L21,,,,,,False,darse cuenta
+444,きく,聞く,to ask,u-verb,1,5,会,False,,会L5,学校は大きいですか。,1,5,会,139,True,preguntar
+445,きく,聞く,to listen; to hear,u-verb,1,3,会,False,,会L3,日本の音楽を聞きますか。,1,3,会,99,True,escuchar; oír
+446,きごう,記号,symbol,,2,23,読,False,II,読L23-II,でも、顔文字は文字や記号で作られているので、,2,23,読,343,False,símbolo
+447,きこえる,聞こえる,to be audible,ru-verb,2,20,会,False,,会L20,この間このヘッドホンを買ったんですが、音が聞こえないんです。,2,20,会,180,False,oírse; ser audible
+448,キスをする,,to kiss,irregular verb,2,23,読,False,II,読L23-II,でも、日本ではあいさつにキスをしません。,2,23,読,345,False,besar
+449,きせつ,季節,season,,1,10,会,False,,会L10,季節の中でいつがいちばん好きですか。,1,10,会,235,True,estación del año
+450,きた,北,north,,1,6,会,True,,会L6(e),メアリーさんはチベットに行きたいと言っていました。,1,11,会,259,True,norte
+451,ギター,,guitar,,1,9,会,False,,会L9,ギターを弾くのが上手ですか。,1,9,会,227,True,guitarra
+452,きたない,汚い,dirty,,2,16,会,False,,会L16,汚い言葉を使ってすみませんでした。,2,16,会,102,False,sucio
+453,きつえん,喫煙,smoking,,2,15,会,True,,会L15(e),,,,,,False,fumar
+454,きっぷ,切符,train ticket,,1,12,会,False,,会L12,（7）かぜをひきました （8）切符をなくしました（9）あした試験があります,1,12,会,282,True,billete de tren
+455,きっぷうりば,切符売り場,ticket vending area,,1,10,会,True,,会L10(e),,,,,,False,zona de venta de billetes
+456,きにいる,気に入る,to find something agreeable,u-verb,2,23,会,False,,会L23,もらったプレゼントが気に入らなくても、うれしそうな顔をしたほうがいい。,2,23,会,270,False,gustarle algo a uno
+457,きにする,気にする,to worry,irregular verb,2,21,読,False,II,読L21-II,友だちは気をつけたほうがいいと言いましたが、私は占いや迷信が大きらいなので、初めはぜんぜん気にしていませんでした。,2,21,読,331,False,preocuparse; darle importancia
+458,きのう,昨日,yesterday,,1,4,会,False,,"会L4, 会L4(e)",私はきのう日本語を勉強しませんでした。,1,4,会,110,True,ayer
+459,きびしい,厳しい,strict,,2,13,会,False,,会L13,（先生は厳しいです。,2,13,会,36,False,estricto
+460,きぶんがわるい,気分が悪い,not to feel well; to feel sick,,1,12,会,True,,"会L12(e), 会L13",（ちょっと気分が悪いです。,2,13,会,36,False,sentirse mal
+461,きまつしけん,期末試験,final examination,,2,16,会,False,,会L16,来週は期末試験があるのにぜんぜん勉強していないでしょ。,2,22,会,228,False,examen final
+462,きまる,決まる,to be decided,u-verb,2,19,会,False,,会L19,お決まりになりましたらお呼びください。,2,19,会,160,False,decidirse; quedar decidido
+463,きめる,決める,to decide,ru-verb,1,10,会,False,,会L10,旅行に行くかどうか 決めましょう。,2,20,会,188,False,decidir
+464,きもの,着物,kimono; Japanese traditional dress,,1,9,読,False,II,"読L9-II, 会L13",（） ソラさんは新しい着物をもらった。,1,9,読,338,True,kimono; traje tradicional japonés
+465,キャッシュカード,,bank card,,2,13,会,True,,会L13(e),キャッシュカード,2,13,会,45,False,tarjeta bancaria
+466,キャベツ,,cabbage,,1,8,会,True,,会L8(e),,,,,,False,repollo
+467,キャンプ,,camp,,1,11,会,False,,会L11,Ｂ：キャンプをしようと思っています。,2,15,会,82,False,campamento
+468,きゅうこう,休講,class cancellation,,2,23,会,False,,会L23,休講になったって。,2,23,会,264,False,cancelación de clase
+469,きゅうこう,急行,express,,1,10,会,True,,会L10(e),,,,,,False,(tren) expreso
+470,きゅうに,急に,suddenly,,2,14,会,False,,会L14,Ａ：急におなかが痛くなったんです。,2,14,会,64,False,de repente
+471,ぎゅうにく,牛肉,beef,,1,8,会,True,,会L8(e),,,,,,False,carne de res
+472,ぎゅうにゅう,牛乳,milk,,1,10,会,False,,会L10,,,,,,False,leche
+473,きゅうふん,九分,nine minutes,,1,1,会,True,,会L1(e),じゅうじ 9 きゅうふん 19 じゅうきゅうふん,1,1,会,55,True,nueve minutos
+474,きゅうり,,cucumber,,1,8,会,True,,会L8(e),,,,,,False,pepino
+475,きゅうりょう,給料,salary,,2,17,会,False,,会L17,この会社はお金があるのに、給料は安いです。,2,22,会,236,False,salario
+476,きょう,今日,today,,1,3,会,False,,"会L3, 会L4(e)",メアリー：ええ、今日は京都に行きます。,1,3,会,82,True,hoy
+477,きょうかしょ,教科書,textbook,,1,6,会,False,,会L6,山下先生： 教科書を持ってきてくださいね。,1,6,会,146,True,libro de texto
+478,きょうし,教師,schoolteacher,,1,11,会,False,,会L11,ごごは日本語をべんきょうしました。,1,4,読,311,True,maestro (de escuela)
+479,きょうしつ,教室,classroom,,2,15,会,False,,会L15,……教室ではテストが始まりました。,2,16,読,296,False,aula
+480,きょうじゅうに,今日中に,by the end of today,,2,16,会,False,,会L16,今日中に宿題をしなきゃいけないんです。,2,16,会,104,False,antes de que termine hoy
+481,きょうだい,兄弟,brothers and sisters,,1,7,会,False,,会L7,兄弟がいますか。,1,7,会,183,True,hermanos
+482,きょうつうご,共通語,common language,,1,11,会,True,,会L11(e),,,,,,False,lengua común
+483,きょうみがある,興味がある,to be interested (in),u-verb,1,12,会,False,,会L12,カルロスさんは日本の経済に興味がありますか。,2,13,会,40,False,estar interesado (en)
+484,～ぎょうめ,～行目,line number ...,,1,11,会,True,,会L11(e),,,,,,False,línea número ...
+485,きょねん,去年,last year,,1,4,会,True,,"会L4(e), 会L9",去年の冬はあまり寒くなかったと思います。,1,9,会,215,True,el año pasado
+486,きらい（な）,嫌い,disgusted with; to dislike,,1,5,会,False,,会L5,私は野菜は好きですが、肉はきらいです。,1,5,会,135,True,que no gusta; detestar
+487,きる,切る,to cut,u-verb,1,8,会,False,,"会L8, 会L17(e)",ロバート： じゃあ、トマトを切ってください。,1,8,会,186,True,cortar
+488,きる,着る,to put on (clothes above your waist),ru-verb,1,7,会,False,,会L7,着ているメアリーさんはTシャツを着ています。,1,7,会,172,True,ponerse (ropa de la cintura para arriba)
+489,きれい（な）,,beautiful; clean,,1,5,会,False,,会L5,でも、私の部屋はきれいじゃないです。,1,5,会,139,True,bonito; limpio
+490,～キロ,,... kilometers; ... kilograms,,2,13,会,False,,会L13,メアリーさんは一キロ泳げます。,2,13,会,33,False,... kilómetros; ... kilogramos
+491,きをつける,気をつける,to be cautious/ careful,ru-verb,2,15,会,False,,会L15,宮島で食べ物を持っている人は、どうして気をつけなければいけないのですか。,2,15,読,291,False,tener cuidado
+492,きんいろ,金色,gold,,1,9,会,True,,会L9(e),,,,,,False,dorado
+493,ぎんいろ,銀色,silver,,1,9,会,True,,会L9(e),,,,,,False,plateado
+494,きんえん,禁煙,non-smoking,,2,15,会,True,,会L15(e),,,,,,False,prohibido fumar
+495,きんがく,金額,amount,,2,13,会,True,,会L13(e),,,,,,False,importe; cantidad (de dinero)
+496,ぎんこう,銀行,bank,,1,2,会,False,,会L2,ぎんこうはどこですか。,1,2,会,72,True,banco
+497,きんじょ,近所,neighborhood,,1,11,読,False,II,読L11-II,,,,,,False,vecindario
+498,きんちょうする,緊張する,to get nervous,irregular verb,1,12,会,False,,会L12,ので、緊張しています。,1,12,会,287,True,ponerse nervioso
+499,きんようび,金曜日,Friday,,1,4,会,False,,"会L4, 会L4(e)",メアリーさんは金曜日にお寺に行きましたか。,1,4,会,121,True,viernes
+500,くうこう,空港,airport,,2,13,会,False,,会L13,（空港に近いです。,2,13,会,36,False,aeropuerto
+501,くがつ,九月,September,,1,4,会,True,,会L4(e),兄は九月に結婚する予定です。,2,15,会,78,False,septiembre
+502,くじ,九時,nine o’clock,,1,1,会,True,,会L1(e),メアリー： 九時ごろです。,1,3,会,82,True,las nueve en punto
+503,くしゃみ,,sneeze,,1,12,会,True,,会L12(e),くしゃみが出ます。,1,12,会,293,True,estornudo
+504,くじら,,whale,,2,15,読,False,II,読L15-II,十二月から四月まではくじらが見られるので、今度は冬に行こうと思っています。,2,15,読,290,False,ballena
+505,くすり,薬,medicine,,1,9,会,False,,会L9,薬を飲んで、寝ていました。,1,9,会,222,True,medicina
+506,くすりをのむ,薬を飲む,to take medicine,u-verb,1,9,会,False,,会L9,薬を飲んで、寝ていました。,1,9,会,222,True,tomar medicina
+507,くだけたいいかた,くだけた言い方,colloquial expression,,1,11,会,True,,会L11(e),,,,,,False,expresión coloquial
+508,ください（～を）,,Please give me ...,,1,2,会,False,,会L2,メアリー： じゃあ、そのとけいをください。,1,2,会,56,True,"Deme ..., por favor."
+509,くださる,下さる,honorific expression for くれる,u-verb,2,19,会,False,,会L19,田中さんのお母さんがこの本をくださいました。,2,19,会,165,False,dar (a mí) (forma honorífica de くれる)
+510,くだもの,果物,fruit,,1,5,会,False,,会L5,どんな果物が好きですか。,1,5,会,143,True,fruta
+511,くち,口,mouth,,1,7,会,False,,"会L7, 会L7(e)",日本には「目は口ほどに物を言う」,2,23,読,344,False,boca
+512,くつ,靴,shoes,,1,2,会,False,,会L2,メアリーさんは靴を買いました。,1,4,会,111,True,zapatos
+513,くつした,靴下,socks,,2,23,会,False,,会L23,誕生日のプレゼントが靴下だったら、がっかりしますか。,2,23,会,263,False,calcetines
+514,くに,国,country; place of origin,,1,6,会,False,,会L6,あなたの国では、どんなスポーツが人気がありますか。,1,9,会,227,True,país; lugar de origen
+515,くび,首,neck,,1,7,会,True,,会L7(e),すごくびっくりしました。,2,13,読,280,False,cuello
+516,くも,雲,cloud,,2,17,読,False,II,読L17-II,雲を数えて名前をつけなさいこの詩は、読んだ人が雲を数えて名前をつけた時に完成します。,2,17,読,303,False,nube
+517,くもり,曇り,cloudy weather,,1,8,会,False,,会L8,あさっては曇りです。,1,8,会,201,True,tiempo nublado
+518,くらい,暗い,dark,,2,18,会,False,,会L18,暗い所で本を読みます,2,18,会,151,False,oscuro
+519,～ぐらい,,about (approximate measurement),,1,4,会,False,,会L4,たいてい何時間ぐらいゲームをしますか。,1,4,会,124,True,aproximadamente
+520,クラス,,class,,1,4,会,False,,会L4,あしたは日本語のクラスがありません。,1,4,会,107,True,clase
+521,くらべる,比べる,to compare,ru-verb,2,21,会,False,,会L21,まず、日本語と英語の顔文字を比べてみましょう。,2,23,読,344,False,comparar
+522,グリーン,,green,,1,9,会,True,,会L9(e),沖縄はエメラルドグリーンの海と白いビーチで有名です。,2,15,読,290,False,verde
+523,クリスマス,,Christmas,,2,14,会,False,,会L14,「ハッピー・クリスマス（戦争は終わった）」,2,17,読,304,False,Navidad
+524,くる,来る,to come,irregular verb,1,3,会,False,,会L3,あした来ます。,1,3,会,90,True,venir
+525,くるま,車,car,,1,7,会,False,,会L7,自転車／車を持っていますか。,1,7,会,183,True,coche; carro
+526,グレー,,gray,,1,9,会,True,,会L9(e),グレートバリアリーフで有名です。,1,11,会,255,True,gris
+527,クレジットカード,,credit card,,2,13,会,True,,会L13(e),いらっしゃいませお預け入れお引き出し通帳記入お振込クレジットカード残高照会,2,13,会,45,False,tarjeta de crédito
+528,くれる,,to give (me),ru-verb,2,14,会,False,,会L14,両親が（私に）新しい車をくれるかもしれません。,2,14,会,53,False,dar (a mí)
+529,くろい,黒い,black,,1,9,会,False,,"会L9, 会L9(e)",黒いテシャツを着ている給です。,1,9,会,223,True,negro
+530,～くん,～君,Mr./Ms... . (casual),,2,14,会,False,,会L14,Ａ： アパートに住んでいるんですが、となりの人が夜遅くギターを弾くんです。,2,14,会,65,False,"(sufijo informal para nombres, sobre todo de chicos)"
+531,けいかくをたてる,計画を立てる,to make a plan,ru-verb,2,22,会,False,,会L22,次のプロジェクトの計画を立てる,2,22,会,242,False,hacer un plan
+532,けいけん,経験,experience,,2,13,読,False,II,"読L13-II, 会L15",これは一生に一度のとてもおもしろい経験でした。,2,13,読,278,False,experiencia
+533,けいご,敬語,honorific language,,2,19,会,False,,会L19,,,,,,False,lenguaje honorífico (keigo)
+534,けいざい,経済,economics,,1,1,会,False,,"会L1, 会L2",せんこうはけいざいです。,1,1,読,299,True,economía
+535,けいさつ,警察,police; police station,,2,21,会,False,,会L21,とにかく、警察に連絡したほうがいいですよ。,2,21,会,206,False,policía; comisaría
+536,けいさつかん,警察官,police officer,,1,11,会,False,,会L11,,,,,,False,agente de policía
+537,げいじゅつ,芸術,art,,2,17,読,False,II,読L17-II,ヨーコの両親は芸術が好きで、ヨーコも子供の時、ピアノを習っていました。,2,17,読,303,False,arte
+538,けいたい（でんわ）,携帯（電話）,cell phone,,2,18,会,False,,会L18,携帯を落としたことがありますか。,2,18,会,147,False,teléfono celular
+539,ケーキ,,cake,,1,10,会,False,,会L10,ケーキがたくさんあります。,1,10,会,235,True,pastel; tarta
+540,ゲーム,,game,,1,4,会,False,,会L4,たいてい何時間ぐらいゲームをしますか。,1,4,会,124,True,juego; videojuego
+541,けが,,injury,,1,12,会,True,,会L12(e),けがをしました。,1,12,会,294,True,herida; lesión
+542,げか,外科,surgeon,,1,12,会,True,,会L12(e),,,,,,False,cirujano
+543,けさ,今朝,this morning,,1,8,会,False,,会L8,けさ、何か食べましたか。,1,8,会,205,True,esta mañana
+544,けしき,景色,scenery,,2,15,読,False,II,読L15-II,列車から見える山と川の景色はとてもきれいです。,2,15,読,291,False,paisaje
+545,けしゴム,消しゴム,eraser,,1,2,会,True,,会L2(e),,,,,,False,borrador; goma de borrar
+546,けしょうする,化粧する,to put makeup on,irregular verb,2,17,会,False,,会L17,,,,,,False,maquillarse
+547,けしょうひん,化粧品,cosmetics,,2,14,会,False,,会L14,,,,,,False,cosméticos
+548,けす,消す,to turn off; to erase,u-verb,1,6,会,False,,会L6,電気を消します。,2,16,会,100,False,apagar; borrar
+549,けち（な）,,stingy; cheap,,2,14,会,False,,会L14,けちですか。,2,14,会,59,False,tacaño
+550,けっか,結果,result,,2,23,会,False,,会L23,試験の結果が悪かったら、落ち込みますか。,2,23,会,263,False,resultado
+551,けっこうです,結構です,That would be fine.; That wouldn’t be necessary.,,1,6,会,False,,会L6,おばあさん：いいえ、けっこうです。,1,6,会,147,True,Está bien así.; No hace falta.
+552,けっこんしき,結婚式,wedding,,2,15,会,False,,会L15,,,,,,False,boda (ceremonia)
+553,けっこんする,結婚する,to get married,irregular verb,1,7,会,False,,会L7,お姉さんは結婚していますか。,1,7,会,177,True,casarse
+554,げつようび,月曜日,Monday,,1,4,会,False,,"会L4, 会L4(e)",月曜日に英語のクラスがありますか。,1,4,会,116,True,lunes
+555,～けど,,"... , but; ... , so",,2,15,会,False,,会L15,メアリー：　ゆいさんの長野のうちに行こうと思ってるんだけど、一緒に行かない？,2,15,会,70,False,"..., pero; ..., así que"
+556,げり,下痢,diarrhea,,1,12,会,True,,会L12(e),下痢です。,1,12,会,293,True,diarrea
+557,ける,,to kick,u-verb,2,21,会,False,,会L21,私もその人をけりましたから。,2,21,会,218,False,patear
+558,けんかする,,to have a fight; to quarrel,irregular verb,1,11,会,False,,会L11,友だちとけんかしたら、自分から謝りますか。,2,23,会,263,False,pelearse; discutir
+559,げんき（な）,元気,healthy; energetic,,1,5,会,False,,会L5,いいえ、元気じゃなかったと思います。,1,9,会,221,True,sano; con energía
+560,げんきがない,元気がない,don’t look well,,1,12,会,False,,会L12,,,,,,False,no se ve bien; desanimado
+561,げんきでね,元気でね,Take care of yourself.,,2,23,会,False,,会L23,じゃあ、元気でね。,2,23,会,251,False,Cuídate.
+562,けんきゅう,研究,research,,2,16,会,False,,会L16,ヤスミン大学院で日本の文化について研究したいんです。,2,16,会,109,False,investigación
+563,けんきゅうしゃ,研究者,researcher,,1,11,会,False,,会L11,,,,,,False,investigador
+564,げんきん,現金,cash,,2,13,会,True,,会L13(e),,,,,,False,dinero en efectivo
+565,けんこう,健康,health,,2,23,会,False,,会L23,,,,,,False,salud
+566,げんばく,原爆,atomic bomb,,2,15,読,False,II,読L15-II,原爆が世界で初めて落とされた所はどこですか。,2,15,読,291,False,bomba atómica
+567,～こ,～個,[generic counter for smaller items],,2,14,会,False,,"会L14, 会L14(e)",この会社にはパソコンが二台しかありません。,2,14,会,55,False,(contador genérico de objetos pequeños)
+568,～ご,～後,in ... time; after ...,,1,10,会,False,,会L10,ご注意ください。,1,10,会,253,True,dentro de ...; después de ...
+569,～ご,～語,... language,,1,1,会,False,,会L1,受リごさんはなんさいですか。,1,1,会,42,True,idioma ...
+570,こうえん,公園,park,,1,4,会,False,,会L4,公園はホテルのとなりです。,1,4,会,118,True,parque
+571,こうかんする,交換する,to exchange,irregular verb,2,20,会,False,,会L20,Ｂ：店に持っていって、交換してもらったらどうですか。,2,22,会,246,False,intercambiar
+572,こうこう,高校,high school,,1,1,会,False,,会L1,たけしさんのおかあさんはこうこうのせんせいです。,1,1,会,43,True,preparatoria; bachillerato
+573,こうこうせい,高校生,high school student,,1,1,会,False,,会L1,かいしゃいんだいがくいんせいこうこうせい,1,1,会,49,True,estudiante de preparatoria
+574,こうこく,広告,advertisement,,2,13,会,False,,会L13,アルバイト募集の広告を見たんですが。,2,13,会,22,False,anuncio publicitario
+575,こうざ,口座,account,,2,13,会,True,,会L13(e),口座にお金を振り込みたいんですが。,2,13,会,45,False,cuenta (bancaria)
+576,こうじょう,工場,factory,,2,21,会,False,,会L21,,,,,,False,fábrica
+577,こうせいぶっしつ,抗生物質,antibiotic,,1,12,会,True,,会L12(e),,,,,,False,antibiótico
+578,こうちゃ,紅茶,black tea,,2,13,会,False,,会L13,紅茶なら飲みましたが、コーヒーは飲みませんでした。,2,13,会,40,False,té negro
+579,こうつうけいアイシーカード,交通系ICカード,"rechargeable card such as Suica, Icoca, Pasmo, etc.",,1,10,会,True,,会L10(e),,,,,,False,"tarjeta IC recargable (Suica, Icoca, Pasmo, etc.)"
+580,こうはい,後輩,junior member of a group,,2,22,会,False,,会L22,あなたが先輩だったら、後輩に何をさせますか。,2,22,会,239,False,compañero menor (de menor antigüedad)
+581,こうよう,紅葉,autumn leaves/colors,,2,15,読,False,II,読L15-II,嵐山は人気があって、紅葉の時は特に混んでいます。,2,15,読,290,False,hojas rojas del otoño
+582,こえ,声,voice,,1,10,読,False,II,読L10-II,けさ、鳥の声が聞こえました。,2,15,会,79,False,voz
+583,コーヒー,,coffee,,1,3,会,False,,会L3,メアリーさんはうちでコーヒーを飲みますか。,1,3,会,95,True,café
+584,ゴールド,,gold,,1,9,会,True,,会L9(e),,,,,,False,dorado
+585,ごがつ,五月,May,,1,4,会,True,,会L4(e),,,,,,False,mayo
+586,こくさい,国際,international,,2,19,読,False,III,読L19-III,,,,,,False,internacional
+587,こくさいかんけい,国際関係,international relations,,1,1,会,False,,会L1,,,,,,False,relaciones internacionales
+588,こくばん,黒板,blackboard,,1,2,会,True,,会L2(e),,,,,,False,pizarra
+589,ここ,,here,,1,2,会,False,,会L2,ここはとてもにぎやかな町です。,1,5,会,134,True,aquí
+590,ごご,午後,p.m.,,1,1,会,False,,会L1,ごごは日本語をべんきょうしました。,1,4,読,311,True,p. m.; por la tarde
+591,ここのか,九日,nine days,,2,13,会,False,,会L13,なのかようかここのかとおかじゅういちにちじゅうににちじゅうさんにち,1,4,会,127,True,nueve días
+592,ここのか,九日,the ninth day of a month,,1,4,会,True,,会L4(e),なのかようかここのかとおかじゅういちにちじゅうににちじゅうさんにち,1,4,会,127,True,el día nueve del mes
+593,ここのつ,九つ,nine,,1,9,会,False,,会L9,,,,,,False,nueve (cosas)
+594,こころ,心,mind; heart,,2,20,読,False,II,読L20-II,男は心の中で笑いました。,2,20,読,326,False,mente; corazón
+595,ござる,,extra-modest expression for ある,u-verb,2,20,会,False,,会L20,～です ～でございます （～でござる）,2,20,会,184,False,haber (forma muy humilde de ある)
+596,ごじ,五時,five o’clock,,1,1,会,True,,会L1(e),五時にマクドナルドでハンバーガーを食べます。,1,3,会,98,True,las cinco en punto
+597,ごしゅじん,ご主人,(your/someone’s) husband,,2,14,会,False,,会L14,私はきのう社長のご主人にお会いしました。,2,20,会,185,False,esposo (de otra persona)
+598,ごぜん,午前,a.m.,,1,1,会,False,,会L1,ごぜんさんじです。,1,1,会,53,True,a. m.
+599,ごぜんちゅう,午前中,in the morning,,1,9,読,False,II,"読L9-II, 会L21",午前中は友だちにメールを書い,1,9,読,336,True,durante la mañana
+600,こたえ,答／答え,answer,,1,11,会,True,,"会L11(e), 読L23-II",メッセージを読んで、質問に答えてください。,1,11,読,350,True,respuesta
+601,こたえる,答える,to answer,ru-verb,1,8,読,False,II,"読L8-II, 会L23",と答えました。,1,8,読,332,True,responder
+602,ごちそう,,excellent food,,1,9,読,False,II,読L9-II,ていたが、たくさんごちそうがあった。,1,9,読,337,True,comida excelente; festín
+603,ごちそうさま（でした）,,Thank you for the meal. (after eating),,1,,G,False,,会G,「ごちそうさま」,2,13,読,277,False,Gracias por la comida. (después de comer)
+604,ごちそうする,,to treat/invite (someone) to a meal,irregular verb,2,19,会,False,,会L19,今日はごちそうしてくださってありがとうございました。,2,19,会,161,False,invitar (a alguien) a comer
+605,こちら,,this person (polite),,1,11,会,False,,会L11,こちらはジョンさんです。,1,11,会,254,True,esta persona (cortés)
+606,こちら,,this way (polite),,2,19,会,False,,会L19,こちらへどうぞ。,2,19,会,160,False,por aquí (cortés)
+607,こっせつする,骨折する,to break (a bone),,1,12,会,True,,会L12(e),,,,,,False,fracturarse (un hueso)
+608,こと,,things; matters,,1,11,読,False,II,"読L11-II, 会L21",（✕はい、ことがあります。,1,11,会,260,True,cosas; asuntos
+609,ことし,今年,this year,,1,4,会,True,,"会L4(e), 会L10",メアリーさんは今年の冬休みにどこかに行くつもりですか。,1,10,会,248,True,este año
+610,ことば,言葉,language,,2,13,会,False,,会L13,言葉がわかりませんでした。,2,13,会,36,False,idioma; palabra
+611,こども,子供,child,,1,4,会,False,,会L4,山下先生は子供でしたか。,1,4,会,118,True,niño
+612,ことわざ,,proverb,,2,23,読,False,II,読L23-II,ということわざがあります。,2,23,読,344,False,refrán; proverbio
+613,この,,this ...,,1,2,会,False,,会L2,このとけいはいくらですか。,1,2,会,61,True,este/esta ...
+614,このあいだ,この間,the other day,,1,8,読,False,II,"読L8-II, 会L16",この間、新聞で「日本の会社員とストレス」,1,8,読,332,True,el otro día
+615,このぐらい,,about this much,,2,16,会,False,,会L16,ジョン：　青くてこのぐらいの大きさです。,2,16,会,92,False,más o menos esto
+616,このごろ,,these days,,1,10,会,False,,会L10,このごろ忙しいですか。,2,13,会,36,False,estos días
+617,このように,,like this; this way,,2,23,読,False,II,読L23-II,このように同じ絵文字でも文化によって意味が変わる場合があります。,2,23,読,345,False,así; de esta manera
+618,ごはん,ご飯,rice; meal,,1,4,会,False,,会L4,うちでばんごはんをたべますか。,1,4,読,310,True,arroz; comida
+619,コピーをとる,コピーを取る,to make a photocopy,u-verb,2,22,会,False,,会L22,私にコピーを取らせてください。,2,22,会,242,False,sacar una fotocopia
+620,ごふん,五分,five minutes,,1,1,会,True,,会L1(e),（）ロイヤルホテル：えきの東口を出て、まっすぐ五分ぐらいです。,1,6,読,320,True,cinco minutos
+621,こまる,困る,to have difficulty,u-verb,2,16,会,False,,会L16,困りましたね。,2,16,会,92,False,estar en apuros; tener problemas
+622,ごみ,,garbage,,2,16,会,False,,会L16,,,,,,False,basura
+623,こむ,混む,to get crowded,u-verb,2,15,読,False,II,"読L15-II, 会L17",嵐山は人気があって、紅葉の時は特に混んでいます。,2,15,読,290,False,llenarse (de gente)
+624,ごめん,,I’m sorry. (casual),,2,16,会,False,,会L16,デートの約束を忘れてごめん。,2,16,会,102,False,Perdón. (informal)
+625,ごめんなさい,,I’m sorry.,,1,4,会,False,,会L4,ごめんなさい！,1,4,会,103,True,Lo siento.
+626,ごらんになる,ご覧になる,honorific expression for みる,u-verb,2,19,会,False,,会L19,社長はニュースをご覧になっています。,2,19,会,165,False,ver (forma honorífica de みる)
+627,ゴルフ,,golf,,2,13,会,False,,会L13,ロバートさんはゴルフをしますか。,2,13,会,40,False,golf
+628,これ,,this one,,1,2,会,False,,会L2,●みせのひと：これはせんはっぴゃくえんですよ。,1,2,会,56,True,esto
+629,これから,,from now on,,1,11,読,False,II,"読L11-II, 会L16",行していませんが、これからいろいろな所に行くつもりです。,1,11,読,350,True,de ahora en adelante
+630,ころ,,time of ... ; when ...,,2,21,会,False,,会L21,急いでいたので、教室でころんでしまいました。,2,21,会,224,False,época de ...; cuando ...
+631,～ごろ,,at about ...,,1,3,会,False,,会L3,十一時ごろ／+一時ごろに寝ます。,1,3,会,89,True,alrededor de (hora)
+632,ごろごろする,,to chill out at home; to stay home do nothing,irregular verb,1,10,会,False,,会L10,Ｂ：家で一日中ごろごろしたい。,2,17,会,128,False,holgazanear en casa
+633,ころぶ,転ぶ,to fall down,u-verb,2,18,会,False,,会L18,急いでいたので、教室でころんでしまいました。,2,21,会,224,False,caerse
+634,こわい,怖い,frightening,,1,5,会,False,,会L5,山下先生はこわい先生です。,1,5,会,134,True,que da miedo
+635,こわす,壊す,to break (something),u-verb,2,18,会,False,,会L18,大切なおもちゃを壊したことがありますか。,2,18,会,147,False,romper (algo)
+636,こわれる,壊れる,(something) breaks,ru-verb,2,18,会,False,,会L18,このパソコンは壊れています。,2,18,会,141,False,(algo) se rompe
+637,こんいろ,紺色,navy,,1,9,会,True,,会L9(e),こんいろはいいろ,1,9,会,229,True,azul marino
+638,こんがっき,今学期,this semester,,1,11,会,False,,会L11,今学期の後、何をするつもりですか。,1,11,会,267,True,este semestre
+639,こんげつ,今月,this month,,1,4,会,True,,"会L4(e), 会L8",今月は忙しいと言っていました。,1,8,会,201,True,este mes
+640,コンサート,,concert,,1,9,会,False,,会L9,コンサートのチケットを二枚もらったから,1,9,会,225,True,concierto
+641,こんしゅう,今週,this week,,1,4,会,True,,"会L4(e), 会L6",今週は大変です。,1,6,会,162,True,esta semana
+642,コンタクト（レンズ）,,contact lenses,,2,17,会,False,,会L17,,,,,,False,lentes de contacto
+643,こんでいる,混んでいる,to be crowded,,2,15,読,False,II,読L15-II,道が混んでいると時間がかかる。,2,18,会,142,False,estar lleno (de gente)
+644,こんど,今度,near future,,1,9,会,False,,会L9,今度の試験は難しいと思いますか。,1,9,会,227,True,próximamente; la próxima vez
+645,こんな～,,... like this; this kind of ...,,2,14,会,False,,会L14,こんなのがほしかったんだ。,2,14,会,46,False,... como esto; este tipo de ...
+646,こんなふう,,like this,,2,22,会,False,,会L22,こんなふうだった？,2,22,会,228,False,de esta manera
+647,こんにちは,,Good afternoon.,,1,,G,False,,会G,たけし： こんにちは。,1,1,会,36,True,Buenas tardes.
+648,こんばん,今晩,tonight,,1,3,会,False,,会L3,今晩、何をしますか。,1,3,会,100,True,esta noche
+649,こんばんは,,Good evening.,,1,,G,False,,会G,,,,,,False,Buenas noches. (saludo al llegar)
+650,コンビニ,,convenience store,,1,2,会,False,,会L2,コンビニに行きますか。,1,3,会,99,True,tienda de conveniencia
+651,コンピューター,,computer,,1,1,会,False,,"会L1, 会L2",コンピューターのことをよく知っていますから。,2,22,会,240,False,computadora
+652,さあ,,I am not sure ...,,2,14,会,False,,会L14,Ａ：さあ、アメリカ人かどうかわかりません。,2,20,会,197,False,"Pues, no estoy seguro..."
+653,サークル,,club activity,,1,7,会,False,,会L7,サークルに入っていますか。,1,7,会,183,True,club; actividad de círculo
+654,サーフィン,,surfing,,1,5,会,False,,会L5,ロバート：サーフィンが好きです。,1,5,会,128,True,surf
+655,～さい,～歳,... years old,,1,1,会,False,,会L1,メアリーさんはじゅうきゅうさいです。,1,1,会,47,True,... años (de edad)
+656,さいあく（な）,最悪,the worst,,2,17,会,False,,会L17,Ａ： テストが最悪だったんです。,2,18,会,156,False,lo peor
+657,さいきん,最近,recently,,2,15,会,False,,会L15,最近の調査の結果によると、絵文字のほうが顔文字より多く使われているそうです。,2,23,読,344,False,recientemente
+658,さいごに,最後に,finally; lastly,,1,8,読,False,II,"読L8-II, 会L23",最後に「休みはたいてい,1,8,読,332,True,por último; finalmente
+659,さいふ,財布,wallet,,1,2,会,False,,会L2,しらないひと：これはだれのさいふですか。,1,2,会,56,True,cartera; billetera
+660,さがす,探す,to look for,u-verb,2,15,会,False,,会L15,ルームメイトを探しています。,2,15,会,89,False,buscar
+661,さかな,魚,fish,,1,2,会,False,,会L2,みせのひと：いいえ、 さかなじゃないです。,1,2,会,57,True,pez; pescado
+662,さく,咲く,to bloom,u-verb,2,18,会,False,,会L18,長野では、４月になると、桜が咲きます。,2,18,会,157,False,florecer
+663,さくひん,作品,"work (of art, etc.)",,2,17,読,False,II,読L17-II,ジョンが死んでからも、オノ・ヨーコは芸術の分野でいろいろな作品を発表し、平和のための活動をしています。,2,17,読,304,False,"obra (de arte, etc.)"
+664,さくぶん,作文,essay; composition,,1,9,会,False,,会L9,作文を直す友だちホストファミリー先生かぜをひいたんです。,2,16,会,108,False,redacción; composición
+665,さくら,桜,cherry blossom,,2,18,会,False,,会L18,長野では、４月になると、桜が咲きます。,2,18,会,157,False,flor de cerezo
+666,さけ,酒,sake; alcohol,,1,3,会,False,,会L3,この中にお酒が入っていますか。,1,8,会,209,True,sake; alcohol
+667,さしあげる,差し上げる,humble expression for あげる,ru-verb,2,20,会,False,,会L20,私は先生に地図を見せてさしあげました。,2,20,会,186,False,dar (forma humilde de あげる)
+668,さす,刺す,to bite,u-verb,2,21,会,False,,会L21,この間の試験は難しすぎたので、次の試験はやさしくしてください。,2,21,会,214,False,picar (insecto)
+669,さそう,誘う,to invite,u-verb,2,15,会,False,,会L15,ゆいさんが、「たけしくんも誘って」,2,15,会,70,False,invitar
+670,ざだんかい,座談会,round-table discussion,,2,13,読,False,III,読L13-III,留学生座談会でオリバーさん（イギリス人）、アメリアさん（アメリカ人）、ワティさん（インドネシア人）が日本の経験について話しました。,2,13,読,279,False,mesa redonda (debate)
+671,～さつ,～冊,[counter for bound volumes],,2,14,会,False,,"会L14, 会L14(e)",いっこいっさついっぴきいっぽんいちだいいちまい,2,14,会,69,False,(contador de libros y revistas)
+672,さっか,作家,writer,,1,11,会,False,,会L11,,,,,,False,escritor
+673,サッカー,,soccer,,1,10,会,False,,会L10,野球／サッカー（人気がある）,1,10,会,240,True,fútbol
+674,ざっし,雑誌,magazine,,1,3,会,False,,会L3,メアリーさんは図書館で雑誌を読みますか。,1,3,会,95,True,revista
+675,さとう,砂糖,sugar,,2,16,会,False,,会L16,砂糖を入れます。,2,16,会,110,False,azúcar
+676,さびしい,寂しい,lonely,,1,9,会,False,,会L9,Ａ：友だちがいなくてさびしいんです。,2,16,会,104,False,solo; triste por soledad
+677,サボる,,to cut (classes),u-verb,1,11,会,False,,会L11,授業を何回サボりましたか。,2,14,会,66,False,faltar a clase (pinta)
+678,～さま,～様,Mr./Ms... .,,1,5,読,False,II,読L5-II,神さまはやさしい人だと思いますか。,1,12,読,356,True,Sr./Sra. ... (muy cortés)
+679,さむい,寒い,cold (weather),,1,5,会,False,,会L5,寒いですね。,1,5,会,143,True,frío (clima)
+680,さようなら,,Good-bye.,,1,,G,False,,会G,また、キスを表す絵文字は、フランスやスペインなどでは、自分の家族や友だちに「さようなら」,2,23,読,345,False,Adiós.
+681,さら,皿,plate; dish,,2,14,会,False,,会L14,「茶店の主人はあの皿がいくらか知らないんだ。,2,20,読,325,False,plato
+682,さらいげつ,再来月,the month after next,,1,4,会,True,,会L4(e),あさってさらいしゅうさらいげつさらいねん,1,4,会,127,True,el mes después del próximo
+683,さらいしゅう,再来週,the week after next,,1,4,会,True,,会L4(e),あさってさらいしゅうさらいげつさらいねん,1,4,会,127,True,la semana después de la próxima
+684,さらいねん,再来年,the year after next,,1,4,会,True,,会L4(e),あさってさらいしゅうさらいげつさらいねん,1,4,会,127,True,el año después del próximo
+685,サラリーマン,,salaryman; office worker,,2,17,会,False,,会L17,けん：　やっぱりサラリーマンは大変だよね。,2,17,会,114,False,asalariado; oficinista
+686,さる,猿,monkey,,2,22,会,False,,会L22,猿ぜんぜんお風呂に合らないんです。,1,12,会,277,True,mono
+687,さわる,触る,to touch,u-verb,2,21,会,False,,会L21,(11) 子供の時ふるさわるいじめる怒る,2,21,会,218,False,tocar
+688,～さん,,Mr./Ms... .,,1,1,会,False,,会L1,メアリーさんの せんこうはビジネスですか。,1,1,会,51,True,Sr./Sra. ...
+689,さんかする,参加する,to participate,irregular verb,2,15,会,False,,会L15,ボランティア活動に参加する,2,19,会,174,False,participar
+690,さんがつ,三月,March,,1,4,会,True,,会L4(e),三月から四月に日本では桜が咲きます。,2,20,会,203,False,marzo
+691,ざんぎょう,残業,overtime work,,1,8,読,False,II,"読L8-II, 会L17",次に、「よく残業をしますか」,1,8,読,332,True,horas extra
+692,さんじ,三時,three o’clock,,1,1,会,True,,会L1(e),ごぜんさんじです。,1,1,会,53,True,las tres en punto
+693,さんじっぷん/さんじゅっぷん,三十分,thirty minutes,,1,1,会,True,,会L1(e),ジョンさんは三十分しか勉強しませんでした。,2,14,会,65,False,treinta minutos
+694,さんせいする,賛成する,to agree,irregular verb,2,22,会,False,,会L22,,,,,,False,estar de acuerdo
+695,ざんだかしょうかい,残高照会,balance inquiry,,2,13,会,True,,会L13(e),いらっしゃいませお預け入れお引き出し通帳記入お振込クレジットカード残高照会,2,13,会,45,False,consulta de saldo
+696,ざんねん（ですね）,残念（ですね）,That’s too bad.,,1,8,会,False,,会L8,たけし： 残念ですね。,1,8,会,186,True,¡Qué lástima!
+697,さんふじんか,産婦人科,obstetrician and gynecologist,,1,12,会,True,,会L12(e),,,,,,False,ginecólogo y obstetra
+698,さんぷん,三分,three minutes,,1,1,会,True,,会L1(e),さんじ 3 さんぷぷん 13 じゅうさんぷん,1,1,会,55,True,tres minutos
+699,さんぽする,散歩する,to take a walk,irregular verb,1,9,会,False,,会L9,よく散歩しますか。,1,9,会,227,True,dar un paseo
+700,し,詩,poem,,2,17,読,False,II,読L17-II,大学では主に音楽と詩を勉強しました。,2,17,読,303,False,poema
+701,じ,字,letter; character,,2,20,会,False,,会L20,字が書けますか。,2,20,会,197,False,letra; carácter
+702,～じ,～時,o’clock,,1,1,会,False,,会L1,父テリーさんはデメリカじんですか。,1,1,会,47,True,... en punto (hora)
+703,しあい,試合,match; game,,1,12,会,False,,会L12,あのう、もうすぐテニスの試合があるので、,1,12,会,272,True,partido; encuentro
+704,しあわせ（な）,幸せ,happy (lasting happiness),,1,10,読,False,II,"読L10-II, 会L13",幸せですか。,2,13,会,36,False,feliz (felicidad duradera)
+705,ジーンズ,,jeans,,1,2,会,False,,会L2,女の人はジーンズをはいていますか。,1,7,会,178,True,vaqueros; jeans
+706,シェフ,,chef,,1,6,読,False,III,"読L6-III, 会L11",,,,,,False,chef
+707,しか,鹿,deer,,2,15,読,False,II,読L15-II,この島には鹿がたくさんいます。,2,15,読,290,False,ciervo
+708,しか,歯科,dentist,,1,12,会,True,,会L12(e),旅行は楽しかったですか。,2,13,会,36,False,dentista
+709,しかし,,however,,2,17,読,False,II,読L17-II,しかし、この年の12 月8 日、ヨーコとジョンがニューヨークの家の前で車を降りて歩いていた時、ジョンは銃で撃たれました。,2,17,読,304,False,sin embargo
+710,しかたがない,,cannot be helped,,2,22,読,False,II,読L22-II,仕事だからしかたがないけど。,2,22,読,338,False,no se puede evitar
+711,しがつ,四月,April,,1,4,会,True,,会L4(e),十二月から四月まではくじらが見られるので、今度は冬に行こうと思っています。,2,15,読,290,False,abril
+712,じかん,時間,time,,1,10,会,False,,会L10,メアリー： 時間がかかりますね。,1,10,会,230,True,tiempo
+713,～じかん,～時間,... hours,,1,4,会,False,,会L4,時間がありますか。,1,4,会,107,True,... horas
+714,じかんどおり,時間通り,on time,,2,13,読,False,III,読L13-III,イギリスでは電車はよく遅れますが、日本ではいつも時間通りです。,2,13,読,280,False,puntual; a tiempo
+715,しけん,試験,exam,,1,9,会,False,,会L9,あした試験があるから、今晩勉強します。,1,9,会,218,True,examen
+716,しごと,仕事,job; work; occupation,,1,8,会,False,,会L8,仕事が好きですか。,1,8,会,200,True,trabajo; ocupación
+717,じしょ,辞書,dictionary,,1,2,会,True,,"会L2(e), 会L15",Ａ：Ｂさんが最近買った物は辞書です。,2,15,会,87,False,diccionario
+718,じしん,地震,earthquake,,2,15,会,False,,会L15,大きい地震があります。,2,15,会,83,False,terremoto
+719,しずか（な）,静か,quiet,,1,5,会,False,,会L5,あなたの町は静かですか。,1,5,会,139,True,tranquilo; silencioso
+720,しぜん,自然,nature,,2,15,読,False,II,読L15-II,嵐山にはお寺も自然もあります。,2,15,読,290,False,naturaleza
+721,じぞう,,guardian deity of children,,1,10,読,False,II,読L10-II,（） おじいさんはおじぞうさんにかさを売った。,1,10,読,344,True,jizō (deidad protectora de los niños)
+722,した,下,under,,1,4,会,False,,会L4,傘はテーブルの下です。,1,4,会,109,True,debajo
+723,じだい,時代,age; era,,2,14,読,False,II,読L14-II,この時代にたくさんの人の前でおもしろい話をして、お金をもらう人がいました。,2,20,読,325,False,época; era
+724,したしい,親しい,close; intimate,,2,18,読,False,III,読L18-III,でも、そのおかげで、先輩たちと親しくなれたし、今の彼女にも会えたんですよ。,2,18,読,310,False,cercano; íntimo
+725,しちがつ,七月,July,,1,4,会,True,,会L4(e),,,,,,False,julio
+726,しちじ,七時,seven o’clock,,1,1,会,True,,会L1(e),私はよく七時ごろうちへ！,1,3,会,91,True,las siete en punto
+727,しっています,知っています,I know,,1,7,会,False,,会L7,知っている山下先生は女を知っています。,1,7,会,172,True,lo sé; conozco
+728,じつは,実は,actually; in fact,,2,16,会,False,,会L16,実は、朝寝坊して、電車に乗り遅れたんです。,2,16,会,92,False,en realidad
+729,しっぱいする,失敗する,to fail; to be unsuccessful,irregular verb,2,22,会,False,,会L22,仕事で失敗したんです。,2,22,会,244,False,fracasar; fallar
+730,じっぷん,十分,ten minutes,,1,1,会,True,,会L1(e),（ ）山下先生のうち：北口を出て、右へ十分ぐらいです。,1,6,読,320,True,diez minutos
+731,しつもん,質問,question,,1,11,会,True,,"会L11(e), 読L19-III",いとつだけ質問があります。,1,11,会,262,True,pregunta
+732,しつれいしました,失礼しました,I’m very sorry.,,2,20,会,False,,会L20,,,,,,False,Lo siento mucho.
+733,しつれいします,失礼します,Excuse me.; Sorry to interrupt you.,,2,16,会,False,,会L16,じゃあ、お先に失礼します。,2,18,会,137,False,Con permiso.; Disculpe la interrupción.
+734,していせき,指定席,reserved seat,,1,10,会,True,,会L10(e),東京までの指定席を一枚お願いします。,1,10,会,253,True,asiento reservado
+735,してん,支店,branch office,,2,20,会,False,,会L20,,,,,,False,sucursal
+736,じてんしゃ,自転車,bicycle,,1,2,会,False,,会L2,（）これはわたしのじてんしゃです。,1,2,読,303,True,bicicleta
+737,じどう,自動,automatic,,2,13,読,False,III,読L13-III,ドアが自動だし、チップもいりません。,2,13,読,280,False,automático
+738,しぬ,死ぬ,to die,u-verb,1,6,会,False,,会L6,うちの猫が死んだんです。,1,12,会,277,True,morir
+739,じはつ,次発,departing second,,1,10,会,True,,会L10(e),,,,,,False,segundo en salir (tren)
+740,じびか,耳鼻科,otorhinolaryngologist; ENT doctor,,1,12,会,True,,会L12(e),,,,,,False,otorrinolaringólogo
+741,じぶん,自分,oneself,,1,10,読,False,II,"読L10-II, 会L17",やっぱり自分で勉強しなければいけないのです。,2,16,読,296,False,uno mismo
+742,じぶんで,自分で,(do something) by oneself,,2,16,会,False,,会L16,いいえ、自分でしてください。,2,16,会,106,False,(hacer algo) por uno mismo
+743,しま,島,island,,2,15,読,False,II,読L15-II,宮島は小さい島で、有名な神社があります。,2,15,読,290,False,isla
+744,しまる,閉まる,(something) closes,u-verb,2,18,会,False,,会L18,図書館は何曜日に閉まっていますか。,2,18,会,158,False,(algo) se cierra
+745,しめきり,締め切り,deadline,,1,11,会,True,,"会L11(e), 会L15",レポートの締め切りはあしたじゃないはずです。,2,19,会,168,False,fecha límite
+746,しめる,閉める,to close (something),ru-verb,1,6,会,False,,会L6,窓を閉めますか。,2,18,会,147,False,cerrar (algo)
+747,じゃあ,,"then ... ; if that is the case, ...",,1,2,会,False,,会L2,メアリー： じゃあ、そのとけいをください。,1,2,会,56,True,entonces...; en ese caso...
+748,ジャーナリスト,,journalist,,1,11,会,False,,会L11,,,,,,False,periodista
+749,しゃかい,社会,society,,2,23,会,False,,会L23,,,,,,False,sociedad
+750,じゃがいも,,potato,,1,8,会,True,,会L8(e),みかんりんごじゃがいもなす,1,8,会,209,True,papa; patata
+751,ジャケット,,jacket,,2,15,会,False,,会L15,,,,,,False,chaqueta
+752,しゃしん,写真,picture; photograph,,1,4,会,False,,会L4,先週、写真をたくさん撮りましたか。,1,4,会,124,True,foto; fotografía
+753,しゃちょう,社長,president of a company,,1,11,会,False,,会L11,社長はお子さんを会社に連れていらっしゃいました。,2,19,会,164,False,presidente de una empresa
+754,シャツ,,shirt,,2,14,会,False,,会L14,黒いテシャツを着ている給です。,1,9,会,223,True,camisa
+755,しゃべる,,to chat,u-verb,2,15,会,False,,会L15,（よくしゃべります）,2,15,会,86,False,charlar
+756,シャワー,,shower,,1,6,会,False,,会L6,ホストファミリーのうちで朝シャワーを浴びてもいいです。,1,6,会,161,True,ducha
+757,シャワーをあびる,シャワーを浴びる,to take a shower,ru-verb,1,6,会,False,,会L6,シャワーを浴びながら、何をしますか。,2,18,会,153,False,ducharse
+758,シャンプー,,shampoo,,2,17,会,True,,"会L17(e), 会L18",,,,,,False,champú
+759,じゆう,自由,freedom,,2,22,会,False,,会L22,自分の子供にも、自由に遊ばせてあげたいなあ。,2,22,会,229,False,libertad
+760,じゅういちがつ,十一月,November,,1,4,会,True,,会L4(e),,,,,,False,noviembre
+761,じゅういちじ,十一時,eleven o’clock,,1,1,会,True,,会L1(e),十一時ごろ／+一時ごろに寝ます。,1,3,会,89,True,las once en punto
+762,じゅういちにち,十一日,the eleventh day of a month,,1,4,会,True,,会L4(e),にじゅうはちにちにじゅうくにちさんじゅうにちさんじゅういちにち,1,4,会,127,True,el día once del mes
+763,じゅういっぷん,十一分,eleven minutes,,1,1,会,True,,会L1(e),いちじ 1 いっぷん 11 じゅういっぷん,1,1,会,55,True,once minutos
+764,じゅうがつ,十月,October,,1,4,会,True,,会L4(e),,,,,,False,octubre
+765,しゅうかん,習慣,custom,,2,15,会,False,,会L15,（日本の習慣についてよく知っています）,2,15,会,86,False,costumbre
+766,～しゅうかん,～週間,for ... weeks,,1,10,会,False,,会L10,おとといにしゅうかんまえにかげつまえおととし,1,4,会,127,True,durante ... semanas
+767,じゅうきゅうふん,十九分,nineteen minutes,,1,1,会,True,,会L1(e),じゅうじ 9 きゅうふん 19 じゅうきゅうふん,1,1,会,55,True,diecinueve minutos
+768,じゅうごふん,十五分,fifteen minutes,,1,1,会,True,,会L1(e),（）こうえん：西口をまっすぐ十五分ぐらい行ってください。,1,6,読,320,True,quince minutos
+769,じゅうさんぷん,十三分,thirteen minutes,,1,1,会,True,,会L1(e),さんじ 3 さんぷぷん 13 じゅうさんぷん,1,1,会,55,True,trece minutos
+770,じゅうじ,十時,ten o’clock,,1,1,会,True,,会L1(e),十時にテレビをみます。,1,3,読,307,True,las diez en punto
+771,しゅうしょくする,就職する,to get a full-time job (at ... ),irregular verb,2,17,会,False,,会L17,卒業したら、旅行会社に就職するつもりです。,2,17,会,127,False,conseguir un empleo fijo (en ...)
+772,ジュース,,juice,,1,12,会,False,,会L12,のどがかわきました／ジュースが飲みたいです,1,12,会,287,True,jugo; zumo
+773,じゆうせき,自由席,general admission seat,,1,10,会,True,,会L10(e),,,,,,False,asiento no reservado
+774,じゅうでうたれる,銃で撃たれる,to be shot,,2,17,読,False,II,読L17-II,,,,,,False,recibir un disparo
+775,しゅうでん,終電,last train (of the day),,1,10,会,True,,"会L10(e), 会L21",終電は何時ですか。,1,10,会,253,True,último tren (del día)
+776,じゅうななふん,十七分,seventeen minutes,,1,1,会,True,,会L1(e),しちじ 7 ななふん 17 じゅうななふん,1,1,会,55,True,diecisiete minutos
+777,じゆうに,自由に,freely,,2,22,会,False,,会L22,自分の子供にも、自由に遊ばせてあげたいなあ。,2,22,会,229,False,libremente
+778,じゅうにがつ,十二月,December,,1,4,会,True,,会L4(e),十二月から四月まではくじらが見られるので、今度は冬に行こうと思っています。,2,15,読,290,False,diciembre
+779,じゅうにじ,十二時,twelve o’clock,,1,1,会,True,,会L1(e),じゅうにじはんです。,1,1,会,41,True,las doce en punto
+780,じゅうにふん,十二分,twelve minutes,,1,1,会,True,,会L1(e),,,,,,False,doce minutos
+781,しゅうにゅう,収入,income,,2,18,読,False,II,読L18-II,アルバイトをしていますか毎月のアルバイトの収入アルバイトの目的,2,18,読,309,False,ingresos
+782,じゅうはちふん/じゅうはっぷん,十八分,eighteen minutes,,1,1,会,True,,会L1(e),くじはちふんじゅうはちふん,1,1,会,55,True,dieciocho minutos
+783,しゅうまつ,週末,weekend,,1,3,会,False,,会L3,メアリーさん、週末はたいてい何をしますか。,1,3,会,92,True,fin de semana
+784,じゅうよっか,十四日,the fourteenth day of a month,,1,4,会,True,,会L4(e),たけし：　ええ、男の人は三月十四日にお返しをしなきゃいけないんですよ。,2,14,会,47,False,el día catorce del mes
+785,じゅうよんぷん,十四分,fourteen minutes,,1,1,会,True,,会L1(e),よじ 4よんぷん 14 じゅうよんぷん,1,1,会,55,True,catorce minutos
+786,じゅうろっぷん,十六分,sixteen minutes,,1,1,会,True,,会L1(e),ろくじ 6 ろっぷん 16 じゅうろっぷん,1,1,会,55,True,dieciséis minutos
+787,じゅぎょう,授業,class,,1,11,会,False,,会L11,たけしさんは授業を休んだことがありません。,1,11,会,260,True,clase
+788,じゅぎょうちゅうに,授業中に,in class; during the class,,2,16,会,False,,会L16,授業中によく携帯を見てしまう。,2,18,読,312,False,en clase; durante la clase
+789,じゅぎょうりょう,授業料,tuition,,2,21,会,False,,会L21,この大学の授業料は高すぎると思います。,2,21,会,224,False,matrícula; colegiatura
+790,じゅく,塾,cram school,,1,7,読,False,II,"読L7-II, 会L22",まなちゃんのように塾に行ってた？,2,22,会,229,False,academia de refuerzo (juku)
+791,しゅくだい,宿題,homework,,1,5,会,False,,会L5,この宿題は難しいですね。,1,5,会,143,True,tarea; deberes
+792,しゅじゅつ,手術,operation,,1,12,会,True,,会L12(e),,,,,,False,operación (cirugía)
+793,しゅしょう,首相,prime minister,,2,17,会,False,,会L17,Ｂ：私が首相だったら、税金を安くします。,2,17,会,128,False,primer ministro
+794,しゅじん,主人,head of a familiy,,2,15,読,False,II,読L15-II,ハチ公は死んだ主人を毎日ここで待っていて、有名になりました。,2,15,読,291,False,jefe de familia
+795,しゅっしん,出身,coming from,,1,11,会,False,,会L11,ゆいさんはどこの出身ですか。,1,11,会,255,True,originario de
+796,しゅっちょう,出張,business trip,,2,14,読,False,II,"読L14-II, 会L19",実は、三か月後に会社の出張でブラジルに行くんですが、日本からサンパウロまで27 時間ぐらい飛行機に乗っていなければいけません。,2,14,読,284,False,viaje de negocios
+797,じゅっぷん,十分,ten minutes,,1,1,会,True,,会L1(e),（ ）山下先生のうち：北口を出て、右へ十分ぐらいです。,1,6,読,320,True,diez minutos
+798,しゅふ,主婦,housewife,,1,1,会,False,,会L1,,,,,,False,ama de casa
+799,しゅふ,主夫,house husband,,2,17,読,False,II,読L17-II,年、ヨーコとジョンの間には男の子ショーンが生まれ、ジョンは音楽活動をやめて、主夫になります。,2,17,読,304,False,amo de casa
+800,しゅみ,趣味,hobby; pastime,,2,20,会,False,,会L20,,,,,,False,pasatiempo; afición
+801,しゅるい,種類,a kind; a sort,,2,19,会,False,,会L19,Ａ：ほかの店より安いし、いろいろな種類のゲームがあるし。,2,19,会,174,False,tipo; clase
+802,じゅんび,準備,preparation,,2,17,会,False,,会L17,発表の準備をしなきゃいけません。,2,17,会,129,False,preparación
+803,しょうかいする,紹介する,to introduce,irregular verb,1,11,会,False,,会L11,私は横浜を紹介します。,2,13,会,43,False,presentar (a alguien)
+804,しょうがくきん,奨学金,scholarship,,2,16,会,False,,会L16,もし奨学金がもらえなかったら、アルバイトを探そうと思っています。,2,19,読,319,False,beca
+805,しょうがくせい,小学生,elementary school students,,2,16,読,False,II,読L16-II,﹂をポケットの中に持っていて、小学生ののび太くんが困った時、その道具を使って助けてくれます。,2,16,読,297,False,alumnos de primaria
+806,しょうがつ,正月,New Year’s,,1,10,読,False,II,"読L10-II, 会L11",日本ではお正月に何をすると思いますか。,1,10,読,343,True,Año Nuevo
+807,しょうがっこう,小学校,elementary school,,2,23,会,False,,会L23,,,,,,False,escuela primaria
+808,しょうぎ,,Japanese chess,,2,19,読,False,II,読L19-II,,,,,,False,ajedrez japonés (shōgi)
+809,じょうしゃけん,乗車券,(boarding) ticket,,1,10,会,True,,会L10(e),,,,,,False,billete (de viaje)
+810,しょうしょう,少々,a few seconds,,2,19,会,False,,会L19,少々お待ちください。,2,19,会,160,False,un momento; un poco
+811,じょうず（な）,上手,skillful; good at ...,,1,8,会,False,,会L8,メアリーさんは日本語が上手だと思います。,1,8,会,199,True,hábil; bueno en ...
+812,しょうせつ,小説,novel,,2,20,会,False,,会L20,,,,,,False,novela
+813,しょうたいする,招待する,to invite someone (to an event/a place),irregular verb,2,19,会,False,,会L19,パーティーに招待する,2,19,会,173,False,invitar (a un evento/lugar)
+814,しょうぼうし,消防士,firefighter,,1,11,会,False,,会L11,,,,,,False,bombero
+815,しょうゆ,しょう油,soy sauce,,2,18,会,False,,会L18,しょうゆを落としちゃったんです。,2,18,会,136,False,salsa de soya
+816,しょうらい,将来,future,,1,11,会,False,,会L11,あなたの将来の夢は何ですか。,1,11,会,263,True,futuro
+817,しょくご,食後,after meals,,1,12,会,True,,会L12(e),食後に飲んでください。,1,12,会,293,True,después de las comidas
+818,しょくじ,食事,meal,,2,21,読,False,II,読L21-II,安いアパートに住んで、めったに外で食事をしたり、旅行に行ったりしません。,2,21,読,332,False,comida (en general)
+819,しょくどう,食堂,cafeteria; dining commons,,1,7,会,False,,会L7,大学の食堂についてどう思いますか。,1,8,会,200,True,comedor; cafetería
+820,しょくひ,食費,cost of food,,2,18,読,False,III,読L18-III,,,,,,False,gastos de comida
+821,じょしがくせい,女子学生,female student,,2,18,読,False,II,読L18-II,女子学生のアルバイトの目的で一番多いのは何ですか。,2,18,読,309,False,estudiante (mujer)
+822,ショッピングモール,,shopping mall,,2,17,会,False,,会L17,ショッピングモールができます。,2,17,会,125,False,centro comercial
+823,しょるい,書類,document,,2,22,会,False,,会L22,部下に書類を翻訳させます。,2,22,会,239,False,documento
+824,しらべる,調べる,to look into (a matter),ru-verb,2,15,会,False,,会L15,おしゃれなカフェを調べておきます。,2,15,会,84,False,investigar; consultar
+825,しり,,buttocks,,1,7,会,True,,会L7(e),,,,,,False,trasero; nalgas
+826,しりあう,知り合う,to get acquainted with,u-verb,2,19,会,False,,会L19,いろいろな人と知り合える,2,19,会,174,False,conocerse
+827,しりません,知りません,I do not know,,1,7,会,False,,会L7,あまり知りません。,1,9,会,210,True,no lo sé
+828,しる,知る,to get to know,u-verb,1,7,会,False,,会L7,知っている山下先生は女を知っています。,1,7,会,172,True,llegar a conocer
+829,シルバー,,silver,,1,9,会,True,,会L9(e),,,,,,False,plateado
+830,しろ,城,castle,,1,5,読,False,II,読L5-II,きのうはおしろを見ました。,1,5,読,315,True,castillo
+831,しろい,白い,white,,1,9,会,False,,"会L9, 会L9(e)",沖縄はエメラルドグリーンの海と白いビーチで有名です。,2,15,読,290,False,blanco
+832,しろくろ,白黒,black and white,,1,9,会,True,,会L9(e),,,,,,False,blanco y negro
+833,～じん,～人,... people,,1,1,会,False,,会L1,父テリーさんはデメリカじんですか。,1,1,会,47,True,... personas (nacionalidad)
+834,しんかんせん,新幹線,Shinkansen; “Bullet Train”,,1,10,会,False,,会L10,新幹線とバスとどちらのほうが速いですか。,1,10,会,239,True,tren bala (Shinkansen)
+835,シングル,,single room,,2,15,会,True,,会L15(e),,,,,,False,habitación individual
+836,しんごう,信号,traffic light,,1,6,会,True,,"会L6(e), 会L20",三つ目の魚を一つ目の信号を,1,6,会,165,True,semáforo
+837,じんじゃ,神社,shrine,,1,11,会,False,,会L11,古いお寺や神社を見たいと思っています。,1,11,読,350,True,santuario sintoísta
+838,しんじる,信じる,to believe,ru-verb,2,21,会,False,,会L21,この人は今、厄年を信じていますか。,2,21,読,333,False,creer
+839,しんせき,親せき,relatives,,2,16,会,False,,会L16,親せきがりんごを送ってくれました。,2,16,会,97,False,parientes
+840,しんせつ（な）,親切,kind,,1,7,会,False,,会L7,お答さんは親切です。,1,8,会,201,True,amable
+841,しんぱい（な）,心配,worried about,,2,21,読,False,II,"読L21-II, 会L22",今、とても心配です。,2,21,読,332,False,preocupado
+842,しんぱいする,心配する,to worry,irregular verb,1,12,会,False,,会L12,心配しないでください。,1,12,会,272,True,preocuparse
+843,しんぶん,新聞,newspaper,,1,2,会,False,,会L2,朝起きて、新聞を読みます。,1,6,会,158,True,periódico
+844,しんゆう,親友,best friend,,2,22,読,False,II,読L22-II,一番の親友なのに。,2,22,読,338,False,mejor amigo
+845,すいか,,watermelon,,1,8,会,True,,会L8(e),いちごすいかにんじんたまねぎ,1,8,会,209,True,sandía
+846,すいせんじょう,推薦状,letter of recommendation,,2,16,会,False,,会L16,推薦状を書いてくださってありがとうございました。,2,19,会,167,False,carta de recomendación
+847,スイッチ,,switch,,2,18,会,False,,会L18,そこのスイッチを押すとつくよ。,2,18,会,136,False,interruptor
+848,ずいぶん,,very,,2,17,会,False,,会L17,ソラ：　ずいぶん疲れているみたい。,2,17,会,114,False,muy; bastante
+849,すいようび,水曜日,Wednesday,,1,4,会,False,,"会L4, 会L4(e)",水曜日に何がありますか。,1,4,会,116,True,miércoles
+850,スーパー,,supermarket,,1,4,会,False,,会L4,レストランはスーパーと病院の間です。,1,4,会,109,True,supermercado
+851,スープ,,soup,,2,18,会,False,,会L18,トースト／スープ／ヨーグルトご飯／焼き魚／たまご／みそ法,1,8,会,208,True,sopa
+852,スカート,,skirt,,2,18,会,False,,会L18,あっ、スカートが汚れてしまいましたね。,2,18,会,136,False,falda
+853,すき（な）,好き,fond of; to like,,1,5,会,False,,会L5,たけしさんはメアリーさんのことが好きです。,1,5,会,135,True,gustar
+854,スキー,,ski,,1,9,会,False,,会L9,彼はスキーができません。,2,14,会,56,False,esquí
+855,すく,,thin out (hair),u-verb,2,17,会,True,,会L17(e),今日授業が終わってから、何をするつもりですか。,2,17,会,133,False,entresacar (el pelo)
+856,すぐ,,right away,,1,6,会,False,,会L6,すぐ降りますから。,1,6,会,147,True,enseguida
+857,すくない,少ない,a little; a few,,2,17,会,False,,会L17,ぼくの会社は休みも少ないし、給料も安いし、,2,17,会,114,False,poco; pocos
+858,スクランブルこうさてん,スクランブル交差点,scramble crossing,,2,15,読,False,II,読L15-II,,,,,,False,cruce peatonal en diagonal
+859,すごい,,incredible; awesome,,2,13,会,False,,会L13,Ａ：すごいですね。,2,13,会,34,False,increíble; impresionante
+860,すごく,,extremely,,1,5,会,False,,会L5,沖縄の海はすごくきれいでしたよ。,1,5,会,129,True,extremadamente
+861,すこし,少し,a little,,1,7,読,False,II,"読L7-II, 会L21",お母さんは少し古いと言っていたが、すごくきれいだ。,1,9,読,337,True,un poco
+862,すし,,sushi,,1,10,会,False,,会L10,はい、すしと茶ぷらを食べました。,1,10,会,246,True,sushi
+863,すずしい,涼しい,cool (weather),,1,10,会,False,,会L10,秋になると涼しくなります。,2,18,会,151,False,fresco (clima)
+864,ずっと,,for a long time; all the time,,2,22,会,False,,会L22,ぼくはずっと遊んでた。,2,22,会,229,False,durante mucho tiempo; todo el tiempo
+865,すっぽん,,snapping turtle; terrapin,,2,13,読,False,II,読L13-II,「エイミーさん、実は、これはすっぽんですよ」,2,13,読,277,False,tortuga de caparazón blando
+866,すてき（な）,素敵,nice,,1,12,会,False,,会L12,すてきな車ですね。,1,12,会,283,True,precioso; encantador
+867,すてる,捨てる,to throw away,ru-verb,1,8,会,False,,会L8,自分が作った料理がまずかったら、捨てますか。,2,23,会,263,False,tirar (a la basura)
+868,ストレス,,stress,,1,8,読,False,II,読L8-II,この間、新聞で「日本の会社員とストレス」,1,8,読,332,True,estrés
+869,スニーカー,,sneakers,,2,20,会,False,,会L20,,,,,,False,tenis (zapatillas)
+870,スピーチ,,speech,,2,21,会,False,,会L21,,,,,,False,discurso
+871,スプーン,,spoon,,2,17,会,False,,会L17,スーパーマン紙スプーン,2,17,会,130,False,cuchara
+872,スペイン,,Spain,,1,8,会,False,,会L8,スペイン語を話しますか。,1,8,会,200,True,España
+873,スポーツ,,sports,,1,3,会,False,,会L3,スポーツをしますか。,1,3,会,99,True,deportes
+874,スポーツせんしゅ,スポーツ選手,athlete,,1,11,会,False,,会L11,,,,,,False,deportista
+875,スマホ,,smartphone; mobile,,1,2,会,False,,会L2,ヤスミンさんは新しいスマホがほしいと言っています。,2,14,会,50,False,teléfono inteligente
+876,すみません,,Excuse me.; I’m sorry.,,1,,G,False,,会G,今日授業に来られなくてすみませんでした。,2,16,会,92,False,Disculpe.; Lo siento.
+877,すむ,住む,to live,u-verb,1,7,会,False,,会L7,住んでいる家族は東京に住んでいます。,1,7,会,172,True,vivir (residir)
+878,する,,to cost,irregular verb,2,20,読,False,II,読L20-II,太字は新しい読み方です。,2,20,読,323,False,costar
+879,する,,to decide on (an item),irregular verb,2,15,会,False,,会L15,毎日三時間日本語を勉強しようと思っています。,2,15,会,75,False,decidirse por (un artículo)
+880,する,,to do,irregular verb,1,3,会,False,,会L3,メアリーさんはときどき朝ご飯を食べません。,1,3,会,88,True,hacer
+881,する,,"to wear small items (necktie, watch, etc.)",irregular verb,2,17,会,False,,会L17,あなたが結婚したかったら、私は結婚しません。,2,17,会,121,False,"ponerse (corbata, reloj, accesorios)"
+882,すると,,... Then ...,,2,16,読,False,II,読L16-II,あなたならどうすると思いますか。,2,14,読,285,False,entonces...; acto seguido
+883,すわる,座る,to sit down,u-verb,1,6,会,False,,会L6,あの、どうぞ座ってください。,1,6,会,147,True,sentarse
+884,せいかく,性格,personality,,2,19,会,False,,会L19,まいさんは性格がいいから、 。,2,19,会,176,False,personalidad
+885,せいかつ,生活,life; living,,1,10,会,False,,会L10,どんな生活をしていると思いますか。,1,10,読,343,True,vida (diaria)
+886,せいかつする,生活する,to lead a life,irregular verb,2,20,会,False,,会L20,ないで、生活しています。,2,20,会,196,False,vivir; llevar una vida
+887,せいかつのゆとり,生活のゆとり,extra money to spare for the cost of living,,2,18,読,False,II,読L18-II,旅行したい生活のゆとりがほしい生活費サークルで使う洋服が買いたい貯金したい参考：「第55 回学生の消費生活に関する実態調査」,2,18,読,309,False,margen de dinero para vivir
+888,せいかつひ,生活費,the cost of living,,2,18,読,False,II,読L18-II,下は一人で生活している大学生の生活費です。,2,18,読,311,False,costo de vida
+889,ぜいきん,税金,tax,,2,15,会,False,,会L15,Ｂ：私が首相だったら、税金を安くします。,2,17,会,128,False,impuesto
+890,せいけいげか,整形外科,orthopedic surgeon,,1,12,会,True,,会L12(e),,,,,,False,traumatólogo; ortopedista
+891,せいじ,政治,politics,,1,1,会,False,,"会L1, 会L12",やまださんはがくせいじゃありません。,1,2,会,63,True,política
+892,せいせき,成績,"grade (on a test, etc.)",,1,12,会,False,,会L12,成績がよくないんです。,1,12,会,276,True,"calificación (de un examen, etc.)"
+893,ぜいたくをする,,to indulge in luxury,irregular verb,2,21,読,False,II,読L21-II,,,,,,False,darse lujos
+894,せいふ,政府,government,,2,21,会,False,,会L21,あなたの国の政府,2,21,会,224,False,gobierno
+895,せいぶつがく,生物学,biology,,1,1,会,False,,会L1,,,,,,False,biología
+896,せいり,生理,period,,1,12,会,True,,会L12(e),生理です。,1,12,会,293,True,menstruación
+897,セーター,,sweater,,2,13,会,False,,会L13,このセーターは家で洗えそうです。,2,13,会,29,False,suéter
+898,せかい,世界,world,,1,10,会,False,,会L10,世界の国の中でどこがいちばん小さいですか。,1,10,会,241,True,mundo
+899,せかいじゅう,世界中,all over the world,,2,23,読,False,II,読L23-II,のように世界中で使われています。,2,23,読,344,False,en todo el mundo
+900,せがたかい,背が高い,tall (stature),,1,7,会,False,,会L7,ゆい： 背が高くて、かっこいいですね。,1,7,会,166,True,alto (de estatura)
+901,せがひくい,背が低い,short (stature),,1,7,会,False,,会L7,男の人は背が低いですか。,1,7,会,178,True,bajo (de estatura)
+902,せき,,cough,,1,12,会,False,,会L12,親せきがりんごを送ってくれました。,2,16,会,97,False,tos
+903,せきがでる,せきが出る,to cough,ru-verb,1,12,会,False,,会L12,（10）せきが出ます （11）彼女と別れました （12）お手洗いに行きたい,1,12,会,283,True,toser
+904,ぜったいに,絶対に,definitely; no matter what,,2,20,読,False,II,"読L20-II, 会L22",男は何度も頼みましたが、主人は絶対に皿を渡しませんでした。,2,20,読,326,False,definitivamente; pase lo que pase
+905,セット,,set,,2,17,会,True,,会L17(e),セット（サラダ・コーヒー）,1,6,読,321,True,juego; conjunto (set)
+906,せつめいする,説明する,to explain,irregular verb,2,16,会,False,,会L16,お金のおろし方を説明します。,2,23,会,268,False,explicar
+907,せなか,背中,back (body),,1,7,会,True,,会L7(e),背中がかゆいです。,1,12,会,293,True,espalda
+908,ぜひ,是非,by all means,,1,9,会,False,,会L9,ジョン：ぜひ、 行きたいです。,1,11,会,255,True,sin falta; por supuesto
+909,せまい,狭い,narrow; not spacious,,1,12,会,False,,会L12,(6) 運転する(7) 読むせまい道広い道ソラさんの字ロバートさんの字,2,20,会,200,False,estrecho; poco espacioso
+910,せわをする,世話をする,to take care of ...,irregular verb,2,23,会,False,,会L23,犬の世話をするお弁当を作る夕食をおごるアイロンをかける,2,23,会,260,False,cuidar de ...
+911,せんきゅうひゃくろくじゅうねんだい,1960年代,1960’s,,2,17,読,False,II,読L17-II,,,,,,False,los años sesenta (década de 1960)
+912,せんげつ,先月,last month,,1,4,会,True,,"会L4(e), 会L9",きのう（昨日） せんしゅう（先週） せんげつ（先月） きょねん（去年）,1,4,会,127,True,el mes pasado
+913,せんこう,専攻,major,,1,1,会,False,,会L1,メアリーさんの せんこうはビジネスですか。,1,1,会,51,True,especialidad (carrera)
+914,せんしゅう,先週,last week,,1,4,会,False,,"会L4, 会L4(e)",先週、写真をたくさん撮りましたか。,1,4,会,124,True,la semana pasada
+915,せんす,扇子,(hand) fan,,2,20,会,False,,会L20,おみやげに扇子を買おうと思っているんです。,2,20,会,181,False,abanico
+916,せんせい,先生,teacher; Professor ...,,1,1,会,False,,会L1,たけしさんのおかあさんはこうこうのせんせいです。,1,1,会,43,True,profesor; maestro
+917,ぜんぜん ＋ negative,全然,not at all,,1,3,会,False,,会L3,私はぜんぜんテレビを見ません。,1,3,会,91,True,en absoluto (con negación)
+918,せんたくする,洗濯する,to do laundry,irregular verb,1,8,会,False,,会L8,Ａ：洗濯してくれますか。,2,16,会,106,False,lavar la ropa
+919,せんぱい,先輩,senior member of a group,,2,14,読,False,II,"読L14-II, 会L22",彼は大学時代の先輩で、六年間付き合っています。,2,14,読,284,False,compañero mayor (de más antigüedad)
+920,せんぱつ,先発,departing first,,1,10,会,True,,会L10(e),,,,,,False,primero en salir (tren)
+921,ぜんぶ,全部,all,,2,13,会,False,,会L13,,,,,,False,todo
+922,そう,,(I think) so,,1,9,会,False,,会L9,そうですか。,1,9,会,225,True,así (creo que sí)
+923,ぞう,象,elephant,,2,13,会,False,,会L13,（） おじいさんはおじぞうさんにかさを売った。,1,10,読,344,True,elefante
+924,そうか,,I see. (casual),,2,17,会,False,,会L17,,,,,,False,Ya veo. (informal)
+925,そうじする,掃除する,to clean,irregular verb,1,8,会,False,,会L8,（私は）部屋を掃除するがきらいです。,1,8,会,194,True,limpiar
+926,そうそう,,You are right.,,2,23,会,False,,会L23,メアリー：　そうそう。,2,23,会,250,False,¡Eso es!; Tienes razón.
+927,そうだ！,,I have an idea!,,2,20,読,False,II,読L20-II,,,,,,False,¡Ya sé! (tengo una idea)
+928,そうだんする,相談する,to consult,irregular verb,2,14,会,False,,会L14,Ｃ：じゃあ、大家さんに相談したらどうですか。,2,14,会,65,False,consultar
+929,そうです,,That’s right.,,1,1,会,False,,会L1,メアリー： そうですか。,1,1,会,36,True,Así es.
+930,そうですか,,I see.; Is that so?,,1,1,会,False,,会L1,メアリー： そうですか。,1,1,会,36,True,"Ya veo.; ¿Ah, sí?"
+931,そうですね,,That’s right.; Let me see.,,1,3,会,False,,会L3,メアリー：そうですね。,1,3,会,82,True,Así es.; Déjame ver...
+932,そこ,,there,,1,2,会,False,,会L2,（ゆうびんきょくは）あそこです。,1,2,会,62,True,ahí
+933,そして,,and then,,1,9,読,False,II,"読L9-II, 会L11",そして、目でレストランを張って、そこで料理したいです。,1,11,会,269,True,y entonces
+934,そだてる,育てる,to raise; to bring up,ru-verb,2,22,会,False,,会L22,メアリー：　でも、日本で子供を育てるのは大変そうだね。,2,22,会,229,False,criar; educar
+935,そつぎょうしき,卒業式,graduation ceremony,,2,15,会,False,,会L15,,,,,,False,ceremonia de graduación
+936,そつぎょうする,卒業する,to graduate (from ... ),irregular verb,2,15,会,False,,会L15,卒業したら、旅行会社に就職するつもりです。,2,17,会,127,False,graduarse (de ...)
+937,そと,外,outside,,2,18,会,False,,会L18,それから、外の電気はついている？,2,18,会,136,False,afuera
+938,その,,that ...,,1,2,会,False,,会L2,メアリー： じゃあ、そのとけいをください。,1,2,会,56,True,ese/esa ...
+939,そのご,その後,after that,,2,17,読,False,II,読L17-II,その後、二人はいっしょに音楽活動や芸術活動を始めます。,2,17,読,303,False,después de eso
+940,そば,,soba; Japanese buckwheat noodles,,2,15,会,False,,会L15,いいえ、私がよく食べる物は、そばです。,2,15,会,89,False,soba (fideos de alforfón)
+941,ソファ,,sofa,,2,18,会,False,,会L18,,,,,,False,sofá
+942,そめる,,to dye,ru-verb,2,17,会,True,,会L17(e),赤にそめてください。,2,17,会,135,False,teñir
+943,そら,空,sky,,2,16,読,False,II,読L16-II,子供の時、﹁空を飛んでみたい﹂﹁違う世界に行ってみたい﹂と思いませんでしたか。,2,16,読,297,False,cielo
+944,そる,,to shave,u-verb,2,17,会,True,,会L17(e),ソラ：　それに、忙しすぎてメアリーとデートする時間もないって。,2,17,会,114,False,afeitarse
+945,それ,,that one,,1,2,会,False,,会L2,みせのひと：それはさんぜんえんです。,1,2,会,56,True,eso
+946,それから,,and then,,1,4,会,False,,会L4,それから、 映画を見ました。,1,4,会,121,True,y luego
+947,それで,,then; therefore,,2,19,会,False,,会L19,Ｂ：それで、何を買ったんですか。,2,19,会,174,False,entonces; por eso
+948,それでは,,well then,,2,19,読,False,II,読L19-II,,,,,,False,"bueno, entonces"
+949,それに,,"moreover, ...",,1,12,会,False,,会L12,それに、試験は難しすぎます。,1,12,会,285,True,"además, ..."
+950,そろえる,,to make hair even; to trim,ru-verb,2,17,会,True,,会L17(e),後ろをそろえてください。,2,17,会,135,False,igualar el pelo; recortar
+951,そろそろ,,it is about time to ...,,2,23,会,False,,会L23,じゃあ、そろそろ行かなきゃ。,2,23,会,251,False,ya es hora de ...
+952,そんな～,,such ... ; that kind of ...,,2,16,読,False,II,"読L16-II, 会L23",﹁ドラえもん﹂の中でそんな夢がかないます。,2,16,読,297,False,tal ...; ese tipo de ...
+953,そんなこと（は）ない,,I don’t think so.,,2,22,会,False,,会L22,メアリー：　そんなことないよ。,2,22,会,228,False,No creo. (no es así)
+954,～だい,～台,[counter for equipment],,2,14,会,False,,"会L14, 会L14(e)",ええ、おかげさまで、だいぶ慣れました。,2,18,会,145,False,(contador de máquinas y vehículos)
+955,ダイエットする,,to go on a diet,irregular verb,1,11,会,False,,会L11,,,,,,False,ponerse a dieta
+956,たいおんけい,体温計,thermometer,,1,12,会,True,,会L12(e),,,,,,False,termómetro
+957,～だい,～代,charge; fee,,1,12,会,False,,会L12,ええ、おかげさまで、だいぶ慣れました。,2,18,会,145,False,tarifa; cargo
+958,だいがく,大学,college; university,,1,1,会,False,,会L1,たけしさんはアリゾナだいがくのがくせいですか。,1,1,会,51,True,universidad
+959,だいがくいん,大学院,graduate school,,2,16,会,False,,会L16,ヤスミン大学院で日本の文化について研究したいんです。,2,16,会,109,False,posgrado
+960,だいがくいんせい,大学院生,graduate student,,1,1,会,False,,会L1,かいしゃいんだいがくいんせいこうこうせい,1,1,会,49,True,estudiante de posgrado
+961,だいがくせい,大学生,college student,,1,1,会,False,,会L1,いもうとはだいがくせいですか。,1,1,会,49,True,estudiante universitario
+962,だいきらい（な）,大嫌い,to hate,,1,5,会,False,,会L5,,,,,,False,odiar
+963,だいじょうぶ,大丈夫,It’s okay.; Not to worry.; Everything is under control.,,1,5,会,False,,会L5,ロバート： 大丈夫ですよ。,1,5,会,128,True,Está bien.; No te preocupes.; Todo está bajo control.
+964,だいすき（な）,大好き,very fond of; to love,,1,5,会,False,,会L5,たけしさんはコーヒーが大好きです。,1,5,会,135,True,encantar; amar
+965,たいせつ（な）,大切,precious; important,,2,18,会,False,,会L18,大切なおもちゃを壊したことがありますか。,2,18,会,147,False,valioso; importante
+966,たいせつにする,大切にする,to take good care of,irregular verb,2,19,読,False,II,読L19-II,,,,,,False,cuidar bien de
+967,たいてい,,usually,,1,3,会,False,,会L3,メアリーさん、週末はたいてい何をしますか。,1,3,会,92,True,normalmente
+968,だいとうりょう,大統領,president of a country,,1,11,会,False,,会L11,妹は大統領に手紙をもらいました。,2,14,会,53,False,presidente de un país
+969,だいヒット,大ヒット,big hit,,2,17,読,False,II,読L17-II,は大ヒットになりました。,2,17,読,304,False,gran éxito
+970,タイプ,,type,,2,22,読,False,II,読L22-II,黒木さんは夏菜のように静かな人がタイプかもしれない。,2,22,読,337,False,tipo
+971,たいふう,台風,typhoon,,2,16,会,False,,会L16,天気予報によると、台風が来るそうです。,2,17,会,119,False,tifón
+972,たいへん,,greatly,,2,19,読,False,II,読L19-II,,,,,,False,enormemente
+973,たいへん（な）,大変,tough (situation),,1,5,読,False,II,"読L5-II, 会L6",社員はとても大変だと思いました。,1,8,読,332,True,difícil; duro (situación)
+974,だいよくじょう,大浴場,large spa,,2,15,会,True,,会L15(e),,,,,,False,baño termal grande
+975,タオル,,towel,,2,18,会,False,,会L18,ジョン：　今すぐ、タオルを持ってきます。,2,18,会,136,False,toalla
+976,たかい,高い,expensive; high,,1,2,会,False,,会L2,メアリー： たかいですね。,1,2,会,56,True,caro; alto
+977,だから,,so; therefore,,1,4,会,False,,会L4,料理するのがきらいだから・今はひまです。,1,9,会,225,True,así que; por lo tanto
+978,たからくじ,宝くじ,lottery,,2,17,会,False,,会L17,ジョンさん、宝くじに当たったって。,2,17,会,126,False,lotería
+979,たからくじにあたる,宝くじに当たる,to win a lottery,u-verb,2,17,会,False,,会L17,ジョンさん、宝くじに当たったって。,2,17,会,126,False,ganar la lotería
+980,だく,抱く,to hold something in one’s arm,u-verb,2,20,読,False,II,読L20-II,男は猫を抱き、にこにこしながら主人に言いました。,2,20,読,325,False,sostener algo en brazos
+981,たくさん,,many; a lot,,1,4,会,False,,会L4,~お答さん： 人がたくさんいましたか。,1,4,会,102,True,muchos; mucho
+982,タクシー,,taxi,,2,13,読,False,III,読L13-III,アメリア　私はタクシーにびっくりしました。,2,13,読,280,False,taxi
+983,たけ,竹,bamboo,,2,15,読,False,II,読L15-II,嵯峨野には竹がたくさんあり、竹で作ったおみやげを売っています。,2,15,読,291,False,bambú
+984,～だけ,,just ... ; only ...,,1,11,会,False,,会L11,そこでは好きなもので、私だけのカップヌードルが作れます。,2,13,会,43,False,solo ...; solamente ...
+985,だす,出す,to take (something) out; to hand in (something),u-verb,2,16,会,False,,会L16,あなたはドラえもんにどんな道具を出してもらいたいですか。,2,16,読,298,False,sacar (algo); entregar (algo)
+986,たすかる,助かる,to be saved; to be helped,u-verb,2,18,会,False,,会L18,今日はジョンのおかげで、助かったよ。,2,18,会,137,False,salvarse; recibir ayuda
+987,たすける,助ける,to help; to rescue,ru-verb,2,16,読,False,II,"読L16-II, 会L22",でも、ドラえもんはいつものび太くんを助けてくれます。,2,16,読,296,False,ayudar; rescatar
+988,ただ,,free of charge,,2,23,会,False,,会L23,この漢字の書き方を教えていただけませんか。,2,23,会,259,False,gratis
+989,ただいま,,I’m home.,,1,,G,False,,会G,メアリー：ただいま。,1,4,会,102,True,¡Ya llegué! (al volver a casa)
+990,ただの～,,nothing more than ...,,2,21,読,False,II,読L21-II,これはただの迷信だと言う人もいますが、厄年に大変なことを経験する人も多いそうです。,2,21,読,331,False,nada más que ...
+991,～たち,,[makes a noun plural],,2,14,会,False,,会L14,私たちの日本語の先生は かもしれません。,2,14,会,60,False,(pluralizador de personas)
+992,たつ,,(time) pass,u-verb,2,19,読,False,II,読L19-II,でも、あまり勉強しなかったので、もっと勉強すればよかったと思います。,2,19,会,178,False,pasar (el tiempo)
+993,たつ,立つ,to stand up,u-verb,1,6,会,False,,会L6,私たちの日本語の先生は かもしれません。,2,14,会,60,False,ponerse de pie
+994,たて,縦,vertical,,2,23,読,False,II,読L23-II,日本語の顔文字は顔が縦になっていますが、英語の顔文字は横になっています。,2,23,読,344,False,vertical
+995,たてもの,建物,building,,2,15,会,False,,会L15,会社はこの建物の中にあります。,2,15,会,86,False,edificio
+996,たとえば,例えば,for example,,1,11,会,True,,"会L11(e), 読L16-II, 会L17",例えば、﹁どこでもドア﹂。,2,16,読,296,False,por ejemplo
+997,たのしい,楽しい,fun,,1,5,会,False,,会L5,たけし： ロバートさん、旅行は楽しかったですか。,1,5,会,129,True,divertido
+998,たのしそうに,楽しそうに,joyfully,,2,22,読,False,II,読L22-II,男の人と一緒に楽しそうに話していた。,2,22,読,338,False,alegremente
+999,たのしみ,楽しみ,pleasure,,2,21,読,False,II,読L21-II,私の楽しみでした。,2,21,読,332,False,ilusión; placer
+1000,たのしみです,楽しみです,cannot wait; to look forward to it,,2,15,会,False,,会L15,,,,,,False,¡Qué ganas!; espero con ilusión
+1001,たのしみにする（〜を）,楽しみにする,to look forward (to),irregular verb,1,7,読,False,II,読L7-II,お会いできるのを楽しみにしています。,1,9,読,339,True,esperar con ilusión
+1002,たのしむ,楽しむ,to enjoy,u-verb,2,15,読,False,II,読L15-II,橋本くんは今、何を楽しみにしていますか。,2,18,読,311,False,disfrutar
+1003,たのむ,頼む,to ask (a favor),u-verb,2,18,会,False,,会L18,夕方になると忙しくなるから、頼むよ。,2,18,会,136,False,pedir (un favor)
+1004,たばこをすう,たばこを吸う,to smoke,u-verb,1,6,会,False,,会L6,たばこを吸いますか。,2,17,会,131,False,fumar (cigarrillo)
+1005,ダブル,,double room,,2,15,会,True,,会L15(e),フライドポテトダブルバーガーアップルパイホットコーヒー,1,9,会,226,True,habitación doble
+1006,たぶん,多分,probably; maybe,,1,12,会,False,,会L12,たぶんあしたは寒くないでしょう。,1,12,会,281,True,probablemente; quizás
+1007,たべもの,食べ物,food,,1,5,会,False,,会L5,日本の食べ物はおいしいですか。,1,5,会,139,True,comida (alimento)
+1008,たべる,食べる,to eat,ru-verb,1,3,会,False,,会L3,五時にマクドナルドでハンバーガーを食べます。,1,3,会,98,True,comer
+1009,たまご,卵,egg,,1,12,会,False,,会L12,卵アレルギーです,1,12,会,287,True,huevo
+1010,だます,,to deceive,u-verb,2,20,読,False,II,読L20-II,主人をだまして、あの皿をいただこう！,2,20,読,325,False,engañar
+1011,たまねぎ,,onion,,1,8,会,True,,会L8(e),いちごすいかにんじんたまねぎ,1,8,会,209,True,cebolla
+1012,だめ（な）,,no good,,2,13,会,False,,会L13,今日はだめですか。,2,13,会,22,False,que no sirve; no está bien
+1013,～ために,,for ... ; for the sake of ...,,2,23,会,False,,会L23,Ａ：ダイエットのために、何をすることにしていますか。,2,23,会,266,False,para ...; por el bien de ...
+1014,ためる,,to save money,ru-verb,2,21,会,False,,会L21,ジョン：　パソコンとスマホと……バイトでためたお金もないです。,2,21,会,206,False,ahorrar dinero
+1015,たりる,足りる,to be sufficient; to be enough,ru-verb,2,17,会,False,,会L17,,,,,,False,ser suficiente; alcanzar
+1016,だれ,,who,,1,2,会,False,,会L2,しらないひと：これはだれのさいふですか。,1,2,会,56,True,quién
+1017,～（ん）だろう,,short form of ～（ん）でしょう,,2,18,会,False,,会L18,あしたは学校があるんだろう。,2,18,会,137,False,forma corta de ～（ん）でしょう
+1018,たんご,単語,word; vocabulary,,1,9,会,False,,会L9,もう新しい単語を覚えてしまいました。,2,18,会,149,False,palabra; vocabulario
+1019,たんざく,,strip of fancy paper,,1,12,読,False,II,読L12-II,どうして私たちは七タの日にたんざくに願いを書きますか。,1,12,読,356,True,tira de papel decorado (tanzaku)
+1020,だんしがくせい,男子学生,male student,,2,18,読,False,II,読L18-II,男子学生のアルバイトの目的で一番少ないのは何ですか。,2,18,読,309,False,estudiante (hombre)
+1021,たんじょうび,誕生日,birthday,,1,5,会,False,,会L5,あしたは先生の誕生日ですよ。,1,5,会,143,True,cumpleaños
+1022,ちいさい,小さい,small,,1,5,会,False,,会L5,男の人は目が小さいですか。,1,7,会,178,True,pequeño
+1023,チェックアウト（する）,,checking out,,2,15,会,True,,会L15(e),チェックアウト（する）,2,15,会,91,False,hacer el check-out
+1024,チェックイン（する）,,checking in,,2,15,会,True,,会L15(e),チェックインお願いします。,2,15,会,91,False,hacer el check-in
+1025,チェックする,,to check,irregular verb,2,23,会,False,,会L23,メアリーさんは起きたら、メッセージをチェックすることにしています。,2,23,会,265,False,revisar; comprobar
+1026,ちか,地下,underground,,2,15,読,False,II,読L15-II,友だちから電話がありました。,2,16,会,101,False,subterráneo; sótano
+1027,ちかい,近い,close; near,,2,13,会,False,,会L13,（空港に近いです。,2,13,会,36,False,cerca; cercano
+1028,ちがい,違い,difference,,2,17,会,False,,会L17,この人と若い日本人の留学生は、どんなところが違いますか。,2,21,読,333,False,diferencia
+1029,ちがう,違う,to be different; to be wrong,u-verb,2,16,読,False,II,"読L16-II, 会L23",子供の時、﹁空を飛んでみたい﹂﹁違う世界に行ってみたい﹂と思いませんでしたか。,2,16,読,297,False,ser diferente; estar equivocado
+1030,ちかく,近く,near; nearby,,1,4,会,False,,会L4,ゆいさんは窓の近くに座っています。,1,7,会,171,True,cerca; cercanías
+1031,ちかてつ,地下鉄,subway,,1,10,会,False,,会L10,,,,,,False,metro (tren subterráneo)
+1032,ちからしごと,力仕事,physical labor (such as construction),,2,18,読,False,III,読L18-III,時々、引っ越しなどの力仕事もする。,2,18,読,310,False,"trabajo físico (p. ej., construcción)"
+1033,ちかん,,groper; pervert,,2,21,会,False,,会L21,友だちおじさんあやかちかん,2,21,会,218,False,acosador (en el tren)
+1034,チケット,,ticket,,1,9,会,False,,会L9,かぶきのチケットがありますから、一緒に見に行きましょう。,1,9,会,218,True,boleto; entrada
+1035,ちこくする,遅刻する,to be late (for an appointment),irregular verb,1,11,会,False,,会L11,遅刻してすみませんでした。,2,16,会,103,False,llegar tarde (a una cita)
+1036,ちず,地図,map,,2,15,会,False,,会L15,友だちが書いてくれた地図のおかげで道に迷わなかった。,2,18,会,145,False,mapa
+1037,ちち,父,(my) father,,1,7,会,False,,会L7,お父さん／お母さんはどこで働いていますか。,1,7,会,183,True,(mi) padre
+1038,ちちおや,父親,father,,2,14,読,False,II,読L14-II,去年、父親が急に病気になったので、飛行機で北海道に帰らなければいけませんでした。,2,14,読,284,False,padre
+1039,チップ,,tip,,2,13,読,False,III,読L13-III,ドアが自動だし、チップもいりません。,2,13,読,280,False,propina
+1040,ちゃ,茶,green tea,,1,3,会,False,,会L3,お茶を飲みましょうか。,1,5,会,143,True,té verde
+1041,ちゃいろい,茶色い,brown,,1,9,会,True,,会L9(e),,,,,,False,marrón; café (color)
+1042,ちゃみせ,茶店,teahouse,,2,20,読,False,II,読L20-II,ある日、男は川の近くにある茶店に入りました。,2,20,読,325,False,casa de té
+1043,～ちゃん,,suffix for names of children,,2,22,会,False,,会L22,まなちゃんのように塾に行ってた？,2,22,会,229,False,(sufijo cariñoso para nombres de niños)
+1044,～ちゅう,～中,while ...,,2,19,読,False,II,読L19-II,男は心の中で笑いました。,2,20,読,326,False,durante ...; mientras ...
+1045,ちゅういする,注意する,to give warning; to watch out,irregular verb,2,14,会,False,,会L14,Ｂ：となりの人に注意したらどうですか。,2,14,会,65,False,advertir; tener cuidado
+1046,ちゅうがくせい,中学生,junior high school student,,2,19,会,False,,会L19,たくやくんはまだ中学生だから、 。,2,19,会,176,False,estudiante de secundaria
+1047,ちゅうごく,中国,China,,1,1,会,False,,"会L1, 会L2",中国に行っています。,1,7,会,172,True,China
+1048,ちゅうしゃ,注射,injection,,1,12,会,True,,会L12(e),,,,,,False,inyección
+1049,ちゅうもんする,注文する,to place an order,irregular verb,2,18,会,False,,会L18,,,,,,False,hacer un pedido
+1050,ちょうさ,調査,survey,,2,23,会,False,,会L23,調査によると、顔文字と絵文字とどちらのほうがよく使われますか。,2,23,読,345,False,investigación; encuesta
+1051,ちょうしょくつき,朝食付き,with breakfast,,2,15,会,True,,会L15(e),,,,,,False,con desayuno incluido
+1052,ちょうど,,exactly,,2,14,会,False,,会L14,ちょうどいいよ。,2,14,会,46,False,exactamente
+1053,ちょきんする,貯金する,to deposit money (in a bank),irregular verb,2,18,読,False,II,読L18-II,旅行したい生活のゆとりがほしい生活費サークルで使う洋服が買いたい貯金したい参考：「第55 回学生の消費生活に関する実態調査」,2,18,読,309,False,ahorrar dinero (en el banco)
+1054,チョコレート,,chocolate,,2,14,会,False,,会L14,チョコレートを十個ももらったんですよ。,2,14,会,47,False,chocolate
+1055,ちょっと,,a little,,1,3,会,False,,会L3,日曜日はちょっと・ “。,1,3,会,100,True,un poco
+1056,ツアー,,tour,,1,10,会,False,,会L10,じゃあ、ツアーの予約をお願いします。,1,10,会,231,True,tour; excursión
+1057,ついたち,一日,the first day of a month,,1,4,会,True,,会L4(e),ついたちふつかむいか,1,4,会,127,True,el día primero del mes
+1058,ツイン,,twin room,,2,15,会,True,,会L15(e),,,,,,False,habitación con dos camas
+1059,つうちょう,通帳,passbook,,2,13,会,True,,会L13(e),,,,,,False,libreta de ahorros
+1060,つうちょうきにゅう,通帳記入,passbook update,,2,13,会,True,,会L13(e),いらっしゃいませお預け入れお引き出し通帳記入お振込クレジットカード残高照会,2,13,会,45,False,actualización de la libreta
+1061,つかう,使う,to use,u-verb,1,6,会,False,,会L6,いろいろな人に会えるし、日本語も使えるし。,2,13,会,22,False,usar
+1062,つかまる,捕まる,to be arrested; to be caught,u-verb,2,21,会,False,,会L21,犯人が捕まったので、警察に来てほしいそうです。,2,21,会,207,False,ser arrestado; ser atrapado
+1063,つかれている,疲れている,to be tired,,1,8,読,False,II,読L8-II,みんなとても疲れていると思,1,8,読,332,True,estar cansado
+1064,つかれる,疲れる,to get tired,ru-verb,1,11,会,False,,会L11,疲れたから、 たくないです。,1,11,会,265,True,cansarse
+1065,つき,月,moon,,2,20,会,False,,会L20,人が月に住めると思いますか。,2,20,会,198,False,luna
+1066,つぎ,次,next,,1,6,会,False,,会L6,山下先生： ロバートさん、次のページを読んでください。,1,6,会,146,True,siguiente
+1067,つきあう,付き合う,to date (someone); to keep company,u-verb,2,14,読,False,II,"読L14-II, 会L15",どの人と付き合いたいですか。,2,15,会,88,False,salir con (alguien); acompañar
+1068,つぎに,次に,secondly,,1,8,読,False,II,読L8-II,次に「仕事の後、何をしますか」,1,8,読,332,True,en segundo lugar
+1069,つぎは～,次は～,"next (stop), ...",,1,10,会,True,,会L10(e),次は～に止まります。,1,10,会,253,True,"próxima (parada), ..."
+1070,つく,着く,to arrive,u-verb,2,13,読,False,III,"読L13-III, 会L15",先月、電車が三分遅く着いたんです。,2,13,読,280,False,llegar
+1071,つく,,(something) turns on,u-verb,2,18,会,False,,会L18,ジョン：　いいえ、ついていません。,2,18,会,136,False,(algo) se enciende
+1072,つくえ,机,desk,,1,2,会,True,,"会L2(e), 会L4",✕かばんはつくえのとなりです。,1,4,会,109,True,escritorio
+1073,つくる,作る,to make,u-verb,1,8,会,False,,会L8,ロバート： ええ、よく家で作ります。,1,8,会,186,True,hacer; fabricar
+1074,つける,,to turn on,ru-verb,1,6,会,False,,会L6,エアコンをつけたから、すぐなりますよ。,1,10,会,245,True,encender
+1075,つごうがわるい,都合が悪い,inconvenient; to have a scheduling conflict,,2,17,会,False,,会L17,Ａ：土曜日は都合が悪いって。,2,17,会,126,False,inconveniente; tener un conflicto de horario
+1076,つたえる,伝える,to convey message,ru-verb,2,20,会,False,,会L20,では、スミスから電話があったと伝えていただけませんか。,2,20,会,193,False,transmitir (un mensaje)
+1077,つづく,続く,to continue,u-verb,2,16,読,False,II,読L16-II,暑い日が続きます。,2,19,読,316,False,(algo) continúa
+1078,つづける,続ける,to continue,ru-verb,2,20,会,False,,会L20,一年後も日本語の勉強を続けていますか。,2,20,会,198,False,continuar (algo)
+1079,つつむ,包む,to wrap; to cover,u-verb,2,21,会,False,,会L21,,,,,,False,envolver; cubrir
+1080,つまらない,,boring,,1,5,会,False,,会L5,アントニオさんはつまらない1人です。,1,6,読,323,True,aburrido
+1081,つめたい,冷たい,cold (things/people),,1,10,会,False,,会L10,冷たいお茶／熱いお茶（好き）,1,10,会,240,True,frío (cosas/personas)
+1082,つよい,強い,strong,,2,17,会,False,,会L17,アントニオさんは孫悟空のように強いです。,2,22,会,237,False,fuerte
+1083,つり,,fishing,,1,11,会,False,,会L11,海でつりをしたり、ドライブをしたりしたいです。,1,11,会,266,True,pesca
+1084,つれていく,連れていく,to take (someone) to (a place),u-verb,2,16,会,False,,会L16,ななみさんはヤスミンさんを駅に連れていきました。,2,16,会,97,False,llevar (a alguien) a (un lugar)
+1085,つれてかえる,連れて帰る,to bring (a person) back,u-verb,1,12,読,False,II,読L12-II,,,,,,False,traer de vuelta (a alguien)
+1086,つれてくる,連れてくる,to bring (a person),irregular verb,1,6,会,False,,会L6,ともだちをつれてきてもいいですよ！,1,6,読,321,True,traer (a alguien)
+1087,て,手,hand; arm,,1,7,会,True,,会L7(e),着ているメアリーさんはTシャツを着ています。,1,7,会,172,True,mano; brazo
+1088,～で,,by (means of transportation); with (a tool),,1,10,会,False,,会L10,田中さんと山田さんとどっちのほうが年上ですか。,1,10,会,239,True,en (medio de transporte); con (herramienta)
+1089,ティーシャツ,Ｔシャツ,T-shirt,,1,2,会,False,,会L2,,,,,,False,camiseta
+1090,ていきけん,定期券,commuter’s pass,,1,10,会,True,,会L10(e),,,,,,False,abono de transporte
+1091,ていねいないいかた,ていねいな言い方,polite expression,,1,11,会,True,,会L11(e),,,,,,False,expresión cortés
+1092,～ていらっしゃる,,honorific expression for ～ている,u-verb,2,19,会,False,,会L19,社長はお子さんを会社に連れていらっしゃいました。,2,19,会,164,False,estar haciendo (forma honorífica de ～ている)
+1093,デート,,"date (romantic, not calendar)",,1,3,会,False,,会L3,◆ロバート：たけしさんのデートはどうでしたか。,1,5,会,129,True,cita (romántica)
+1094,～ておる,,extra-modest expression for ～ている,u-verb,2,20,会,False,,会L20,私は一年間日本語を勉強しております。,2,20,会,184,False,estar haciendo (forma muy humilde de ～ている)
+1095,でかける,出かける,to go out,ru-verb,1,5,会,False,,会L5,カルロスさんは土曜日に出かけられますか。,2,13,会,40,False,salir
+1096,てがみ,手紙,letter,,1,9,会,False,,会L9,×（あなたは）私から手紙をもらいましたか。,2,14,会,53,False,carta
+1097,できる,,to come into existence; to be made,ru-verb,2,14,会,False,,会L14,テストであまりできませんでした。,2,14,会,56,False,formarse; quedar hecho
+1098,できるだけ,,as much as possible,,1,12,会,False,,会L12,できるだけ英語を話さないほうがいいですよ。,1,12,会,286,True,lo más posible
+1099,できれば,,if possible,,2,20,会,False,,会L20,もうすぐ国に帰るので、できれば返品したいんですが。,2,20,会,180,False,si es posible
+1100,でぐち,出口,exit,,1,10,会,True,,会L10(e),,,,,,False,salida
+1101,～でござる,,extra-modest expression for です,u-verb,2,20,会,False,,会L20,～です ～でございます （～でござる）,2,20,会,184,False,ser (forma muy humilde de です)
+1102,デザート,,desert,,2,13,読,False,III,読L13-III,日本のコンビニにはいろいろなデザートがあります。,2,13,読,280,False,postre
+1103,～です,,I am ... .,,1,,G,False,,会G,これは 去年の誕生日に彼女がくれた 本です。,2,15,会,77,False,soy ...
+1104,てすうりょう,手数料,commission,,2,13,会,True,,会L13(e),,,,,,False,comisión
+1105,テスト,,test,,1,5,会,False,,会L5,あしたはテストがありますね。,1,5,会,143,True,prueba; examen
+1106,てつだう,手伝う,to help,u-verb,1,6,会,False,,会L6,ゆい： 何か手伝いましょうか。,1,8,会,186,True,ayudar
+1107,てつやする,徹夜する,to stay up all night,irregular verb,2,22,会,False,,会L22,,,,,,False,pasar la noche en vela
+1108,テニス,,tennis,,1,3,会,False,,会L3,メアリーさんはどこでテニスをしますか。,1,3,会,95,True,tenis
+1109,では,,well then (polite),,2,20,会,False,,会L20,三月から四月に日本では桜が咲きます。,2,20,会,203,False,"bueno, entonces (cortés)"
+1110,では、おげんきで,では、お元気で,Take care.,,1,5,読,False,II,読L5-II,,,,,,False,Cuídate. (despedida)
+1111,デパート,,department store,,1,7,会,False,,会L7,デパートにかばんを買いに行きました。,1,7,会,174,True,grandes almacenes
+1112,てぶくろ,手袋,gloves,,1,10,会,False,,会L10,メアリーさんは赤い手袋を買いました。,1,10,会,242,True,guantes
+1113,でも,,but,,1,3,会,False,,会L3,カフェでも本を読みました。,1,4,会,111,True,pero
+1114,てら,寺,temple,,1,4,会,False,,会L4,メアリーさんは金曜日にお寺に行きましたか。,1,4,会,121,True,templo
+1115,でる,出る,to appear; to attend; to exit,ru-verb,1,6,読,False,I,"読L6-I, 会L9",（ ）山下先生のうち：北口を出て、右へ十分ぐらいです。,1,6,読,320,True,aparecer; asistir; salir
+1116,テレビ,,TV,,1,3,会,False,,会L3,私はぜんぜんテレビを見ません。,1,3,会,91,True,televisión
+1117,てん,天,the heavens; the sky,,1,12,読,False,II,読L12-II,特に天ぷらや焼き鳥が好きです。,2,13,読,277,False,el cielo; los cielos
+1118,～てん,～点,... points,,1,11,会,False,,会L11,テストでO点を取る,1,11,会,268,True,... puntos
+1119,てんき,天気,weather,,1,5,会,False,,会L5,ロバート：いい天気ですね。,1,5,会,128,True,clima; tiempo
+1120,でんき,電気,electricity; light,,1,2,会,True,,"会L2(e), 会L6",電気を消します。,2,16,会,100,False,electricidad; luz
+1121,でんきこうがく,電気工学,electrical engineering,,2,19,読,False,III,読L19-III,パクさんは日本の大学院で電気工学を研究していらっしゃると聞きました。,2,19,読,319,False,ingeniería eléctrica
+1122,てんきよほう,天気予報,weather forecast,,1,8,会,False,,会L8,天気予報によると、台風が来るそうです。,2,17,会,119,False,pronóstico del tiempo
+1123,でんしゃ,電車,train,,1,6,会,False,,会L6,よく電車に乗りますか。,1,6,会,164,True,tren
+1124,てんじょう,天井,ceiling,,2,17,読,False,II,読L17-II,ある日、一人の髪が長い男が来て、虫めがねで天井の絵を見てみました。,2,17,読,303,False,techo (interior)
+1125,でんしレンジ,電子レンジ,microwave oven,,2,17,会,False,,会L17,使いやすい この電子レンジは使いやすいです。,2,20,会,190,False,horno de microondas
+1126,でんち,電池,battery,,2,15,会,False,,会L15,ゆいさんは電池を買っておきます。,2,15,会,83,False,pila; batería
+1127,てんてき,点滴,intravenous feeding,,1,12,会,True,,会L12(e),,,,,,False,suero intravenoso
+1128,てんぷら,天ぷら,tempura,,1,10,会,False,,会L10,すしや天ぷらをよく食べます。,1,11,会,268,True,tempura
+1129,てんらんかい,展覧会,art exhibition,,2,17,読,False,II,読L17-II,年、イギリスでヨーコの展覧会がありました。,2,17,読,303,False,exposición de arte
+1130,でんわ,電話,telephone,,1,1,会,False,,会L1,でんわばんごうはなんばんですか。,1,1,会,43,True,teléfono
+1131,でんわする,電話する,to call,irregular verb,1,6,会,False,,会L6,いいえ、 電話してはいけません。,1,6,会,161,True,llamar por teléfono
+1132,と,戸,door,,1,10,読,False,II,読L10-II,ところで、たけしさんはどこかに行きますか。,1,10,会,230,True,puerta (japonesa)
+1133,～と,,together with (a person); and,,1,4,会,False,,会L4,レストランはスーパーと病院の間です。,1,4,会,109,True,con (alguien); y
+1134,～ど,～度,... degrees (temperature),,1,8,会,False,,会L8,どのクラスがおもしろいですか。,1,8,会,195,True,... grados (temperatura)
+1135,ドア,,door,,1,2,会,True,,"会L2(e), 読L13-III",ドアが閉まります。,1,10,会,253,True,puerta
+1136,（～は）…といういみだ,（～は）…という意味だ,～ means that ...,,2,23,読,False,II,読L23-II,,,,,,False,～ significa que ...
+1137,ドイツ,,Germany,,2,20,会,False,,会L20,,,,,,False,Alemania
+1138,トイレ,,toilet; restroom,,1,2,会,False,,会L2,トイレはどこですか。,1,2,会,57,True,baño; inodoro
+1139,どう,,how,,1,8,会,False,,会L8,大学の食堂についてどう思いますか。,1,8,会,200,True,cómo
+1140,どうぐ,道具,tool,,2,16,読,False,II,読L16-II,あなたはドラえもんにどんな道具を出してもらいたいですか。,2,16,読,298,False,herramienta
+1141,どうしたらいい,,what should one do,,2,14,会,False,,会L14,どうしたらいいですか。,2,14,会,65,False,qué se debería hacer
+1142,どうして,,why,,1,4,会,False,,会L4,お客さん： えっ、どうしてですか。,1,4,会,102,True,por qué
+1143,どうしよう,,What should I/we do?,,2,18,会,False,,会L18,どうしよう。,2,18,会,136,False,¿Qué hago?
+1144,どうじょうする,同情する,to sympathize,irregular verb,2,23,会,False,,会L23,同情してあげません。,2,23,会,264,False,compadecerse
+1145,どうぞ,,Please.; Here it is.,,1,2,会,False,,会L2,メニューをどうぞ。,1,2,会,57,True,Adelante.; Aquí tiene.
+1146,どうぞよろしくおねがいします,どうぞよろしくお願いします,Thank you in advance.,,2,19,読,False,III,読L19-III,お忙しいと思いますが、どうぞよろしくお願いします。,2,19,読,319,False,"Mucho gusto. (gracias de antemano, muy cortés)"
+1147,どうですか,,How about ... ?; How is ... ?,,1,3,会,False,,会L3,たけし： じゃあ、日曜日はどうですか。,1,3,会,82,True,¿Qué tal ...?; ¿Cómo está ...?
+1148,どうぶつ,動物,animal,,2,20,会,False,,会L20,Ａ：二人の女の子がトトロという不思議な動物に会う話です。,2,20,会,199,False,animal
+1149,どうぶつえん,動物園,zoo,,1,10,会,False,,会L10,動物園でパンダの赤ちゃんが生まれました。,2,17,会,125,False,zoológico
+1150,どうも,,Thank you.,,1,2,会,False,,会L2,おばあさん：あ、どうもすみません。,1,6,会,147,True,Gracias.
+1151,どうやって,,how; by what means,,1,10,会,False,,会L10,どうやって北海道へ行きますか。,1,10,会,248,True,cómo; de qué manera
+1152,どうりょう,同僚,colleague,,2,21,会,False,,会L21,涼の同僚の黒木さんが彼女を探していると聞いた。,2,22,読,337,False,colega
+1153,とお,十,ten,,1,9,会,False,,会L9,お名前は何とおっしゃいますか。,2,20,会,192,False,diez (cosas)
+1154,とおい,遠い,far (away),,2,21,会,False,,会L21,友だち／遠い所に行かない,2,21,会,223,False,lejos
+1155,とおか,十日,ten days,,2,13,会,False,,会L13,なのかようかここのかとおかじゅういちにちじゅうににちじゅうさんにち,1,4,会,127,True,diez días
+1156,とおか,十日,the tenth day of a month,,1,4,会,True,,会L4(e),なのかようかここのかとおかじゅういちにちじゅうににちじゅうさんにち,1,4,会,127,True,el día diez del mes
+1157,とおる,通る,to go through; to pass,u-verb,2,15,読,False,II,読L15-II,お名前は何とおっしゃいますか。,2,20,会,192,False,pasar por; atravesar
+1158,～とか,,... for example,,2,22,会,False,,会L22,Ｂ：バイオリンとか、ピアノとか。,2,22,会,241,False,... por ejemplo
+1159,とき,時,when ... ; at the time of ...,,1,4,会,False,,会L4,子供の時、よくお母さんをき伝いましたか。,1,6,会,164,True,cuando ...; en el momento de ...
+1160,ときどき,時々,sometimes,,1,3,会,False,,会L3,メアリーさんはときどき朝ご飯を食べません。,1,3,会,88,True,a veces
+1161,とくに,特に,especially,,2,13,会,False,,会L13,特に夜はきれいで、いい写真が撮れます。,2,13,会,43,False,especialmente
+1162,とけい,時計,watch; clock,,1,2,会,False,,会L2,メアリー： じゃあ、そのとけいをください。,1,2,会,56,True,reloj
+1163,どこ,,where,,1,2,会,False,,会L2,ゆうびんきょくはどこですか。,1,2,会,62,True,dónde
+1164,どこでも,,anywhere,,2,16,読,False,II,読L16-II,このドアであなたの部屋からどこでも行きたい所に行けます。,2,16,読,296,False,en cualquier lugar
+1165,ところ,所,place,,1,8,会,False,,会L8,有名な所ですか。,1,8,会,200,True,lugar
+1166,ところが,,however; on the contrary,,2,21,読,False,II,読L21-II,ところが、きのう大変なことがありました。,2,21,読,332,False,sin embargo; al contrario
+1167,ところで,,by the way,,1,9,会,False,,会L9,ところで、もう昼ご飯を食べましたか。,1,9,会,210,True,por cierto
+1168,とし,年,year,,1,10,読,False,II,読L10-II,年8 月6 日、広島に世界で初めて原爆が落とされました。,2,15,読,289,False,año; edad
+1169,としうえ,年上,someone older,,1,10,会,False,,会L10,田中さんと山田さんとどっちのほうが年上ですか。,1,10,会,239,True,persona mayor (que uno)
+1170,としょかん,図書館,library,,1,2,会,False,,会L2,あれはとしょかんです。,1,2,会,70,True,biblioteca
+1171,どちら,,where (polite),,2,19,会,False,,会L19,どちらに住んでいますか。,2,19,会,171,False,dónde (cortés)
+1172,どちら,,which,,1,10,会,False,,会L10,田中さんと山田さんとどちらのほうが若いですか。,1,10,会,241,True,cuál (de dos)
+1173,とっきゅう,特急,super express,,1,10,会,True,,会L10(e),,,,,,False,tren súper expreso
+1174,とつぜん,突然,suddenly,,2,19,読,False,III,読L19-III,,,,,,False,de repente
+1175,どっち,,which,,1,10,会,False,,会L10,田中さんと鈴木さんとどっちのほうが若いですか。,1,10,会,239,True,cuál (de dos)
+1176,とても,,very,,1,5,会,False,,会L5,ここはとてもにぎやかな町です。,1,5,会,134,True,muy
+1177,となり,隣,next,,1,4,会,False,,会L4,✕かばんはつくえのとなりです。,1,4,会,109,True,al lado
+1178,とにかく,,anyhow; anyway,,2,21,会,False,,会L21,とにかく、警察に連絡したほうがいいですよ。,2,21,会,206,False,de todos modos
+1179,どの,,which ...,,1,2,会,False,,会L2,どのがくせいが3 にほんじんですか。,1,2,会,61,True,cuál ...
+1180,どのぐらい,,how much; how long,,1,10,会,False,,会L10,どのぐらいかかりますか。,1,10,会,248,True,cuánto; cuánto tiempo
+1181,とぶ,飛ぶ,to fly,u-verb,2,16,読,False,II,読L16-II,子供の時、﹁空を飛んでみたい﹂﹁違う世界に行ってみたい﹂と思いませんでしたか。,2,16,読,297,False,volar
+1182,トマト,,tomato,,1,8,会,False,,会L8,ロバート： じゃあ、トマトを切ってください。,1,8,会,186,True,tomate
+1183,とまる,泊まる,"to stay (at a hotel, etc.)",u-verb,1,10,会,False,,会L10,どこに泊まりますか。,1,10,会,248,True,"alojarse (en un hotel, etc.)"
+1184,とまる,止まる,to stop,u-verb,2,20,読,False,II,読L20-II,その時、猫が歩いてきて、えさが入った皿の前で止まりました。,2,20,読,325,False,detenerse
+1185,～ともうします,～と申します,my name is ...,,2,13,会,False,,会L13,ジョン： 私、ジョン・ワンと申します。,2,13,会,22,False,me llamo ... (humilde)
+1186,ともだち,友だち,friend,,1,1,会,False,,会L1,日本人の友だちがいます。,1,4,会,108,True,amigo
+1187,どようび,土曜日,Saturday,,1,3,会,False,,"会L3, 会L4(e)",じゃあ、 土曜日はどうですか。,1,3,会,100,True,sábado
+1188,ドライブ,,drive,,1,11,会,False,,会L11,海でつりをしたり、ドライブをしたりしたいです。,1,11,会,266,True,paseo en coche
+1189,とり,鳥,bird; poultry,,2,13,読,False,II,読L13-II,特に天ぷらや焼き鳥が好きです。,2,13,読,277,False,pájaro; ave de corral
+1190,とりにく,鶏肉,chicken,,1,8,会,True,,会L8(e),,,,,,False,pollo (carne)
+1191,とる,取る,to take (a class); to get (a grade),u-verb,1,7,読,False,II,"読L7-II, 会L11",来学期も日本語の授業を取りますか。,2,13,会,36,False,tomar (una clase); obtener (una nota)
+1192,とる,撮る,to take (a picture),u-verb,1,4,会,False,,会L4,先週、写真をたくさん撮りましたか。,1,4,会,124,True,tomar (una foto)
+1193,とる,,to take off,u-verb,1,10,読,False,II,読L10-II,今はたくさんの人がここに来て、ハチ公と写真をとります。,2,15,読,291,False,quitarse
+1194,どれ,,which one,,1,2,会,False,,会L2,みせのひと：どれですか。,1,2,会,57,True,cuál (de varios)
+1195,トレーナー,,sweatshirt,,2,14,会,False,,会L14,ヤスミンさんはカルロスさんにトレーナーをあげました。,2,14,会,62,False,sudadera
+1196,トロッコれっしゃ,トロッコ列車,small train usually for tourists,,2,15,読,False,II,読L15-II,嵯峨野からトロッコ列車が走っています。,2,15,読,291,False,trenecito turístico
+1197,どろぼう,泥棒,thief; burglar,,2,21,会,False,,会L21,たけしさんは どろぼうに かばんをとられました。,2,21,会,217,False,ladrón
+1198,とんかつ,,pork cutlet,,1,2,会,False,,会L2,とんかつはさかなじゃないですよ。,1,2,会,64,True,chuleta de cerdo empanizada
+1199,どんな,,what kind of ...,,1,5,会,False,,会L5,けん： ロバートさんはどんなスポーツが好きですか。,1,5,会,128,True,qué tipo de ...
+1200,ないか,内科,physician,,1,12,会,True,,会L12(e),メアリー：　うん、小さいかもしれないから着てみて。,2,14,会,46,False,médico internista
+1201,なおす,直す,to correct; to fix,u-verb,2,16,会,False,,会L16,作文を直す友だちホストファミリー先生かぜをひいたんです。,2,16,会,108,False,corregir; arreglar
+1202,なか,中,inside,,1,4,会,False,,会L4,この中にお酒が入っていますか。,1,8,会,209,True,dentro
+1203,ながい,長い,long,,1,7,会,False,,会L7,トムさんの髪は長いです。,1,7,会,172,True,largo
+1204,ながいあいだ,長い間,long time,,2,21,読,False,II,読L21-II,外国で勉強するのは長い間の夢でした。,2,21,読,331,False,mucho tiempo
+1205,なかがいい,仲がいい,be on good/close terms; to get along well,,2,19,会,False,,会L19,たけしさんとメアリーさんは仲がいいから、 。,2,19,会,176,False,llevarse bien
+1206,なく,泣く,to cry,u-verb,1,12,読,False,II,"読L12-II, 会L13",なければなりません、なきゃなりません。,1,12,会,279,True,llorar
+1207,なくす,,to lose,u-verb,1,12,会,False,,会L12,ファイルをなくしたんですが。,2,16,会,92,False,perder (algo)
+1208,なくなる,,to be lost; to disappear,u-verb,2,23,会,False,,会L23,お母さん：　メアリーがいなくなるとさびしくなるね。,2,23,会,250,False,perderse; desaparecer
+1209,なぐる,殴る,to strike; to hit; to punch,u-verb,2,21,会,False,,会L21,Ｂ：知らない人になぐられたんです。,2,21,会,218,False,golpear; pegar
+1210,なさる,,honorific expression for する,u-verb,2,19,会,False,,会L19,心配なさらないでください。,2,19,会,165,False,hacer (forma honorífica de する)
+1211,なす,,eggplant,,1,8,会,True,,会L8(e),Ｂ：それは少なすぎますよ。,2,18,会,156,False,berenjena
+1212,なぜ,,why,,2,19,会,False,,会L19,なぜ日本語を勉強しているんですか。,2,19,会,171,False,por qué
+1213,なつ,夏,summer,,1,8,会,False,,会L8,夏によく雨が降りますか。,1,8,会,200,True,verano
+1214,なつかしい,,to miss; to long for,,2,19,読,False,II,読L19-II,ジャンさんは何がなつかしいですか。,2,19,読,316,False,echar de menos; añorar
+1215,〜など,,and so forth,,1,12,読,False,II,読L12-II,だから、ゴルフなどのスポーツが一年中楽しめます。,2,15,読,290,False,etcétera
+1216,ななつ,七つ,seven,,1,9,会,False,,会L9,,,,,,False,siete (cosas)
+1217,ななふん,七分,seven minutes,,1,1,会,True,,会L1(e),しちじ 7 ななふん 17 じゅうななふん,1,1,会,55,True,siete minutos
+1218,なに/なん,何,what,,1,1,会,False,,会L1,なんねんせいですか。,1,1,会,36,True,qué
+1219,なにか,何か,something,,1,8,会,False,,会L8,パーティーに何か持っていきますか。,1,8,会,205,True,algo
+1220,なにも ＋ negative,何も,not ... anything,,1,7,会,False,,会L7,ゆい： 別に何もしていません。,1,7,会,167,True,nada (con negación)
+1221,なのか,七日,seven days,,2,13,会,False,,会L13,なのかようかここのかとおかじゅういちにちじゅうににちじゅうさんにち,1,4,会,127,True,siete días
+1222,なのか,七日,the seventh day of a month,,1,4,会,True,,会L4(e),なのかようかここのかとおかじゅういちにちじゅうににちじゅうさんにち,1,4,会,127,True,el día siete del mes
+1223,なべ,,pot,,2,13,読,False,II,読L13-II,なべの中に野菜や肉がたくさんありました。,2,13,読,277,False,olla
+1224,なまえ,名前,name,,1,1,会,False,,会L1,（）メアリーさんのホストファミリーの名前は山田だ。,1,9,読,338,True,nombre
+1225,なまえをつける,名前をつける,to name,ru-verb,2,17,読,False,II,読L17-II,雲を数えて名前をつけなさいこの詩は、読んだ人が雲を数えて名前をつけた時に完成します。,2,17,読,303,False,ponerle nombre
+1226,なまけもの,怠け者,lazy person,,2,19,会,False,,会L19,けんさんは怠け者だから、 。,2,19,会,176,False,perezoso (persona)
+1227,なやみ,悩み,worry,,2,14,読,False,II,"読L14-II, 会L19",あなたの友だちはどんな悩みがありますか。,2,14,読,283,False,preocupación
+1228,ならう,習う,to learn,u-verb,1,11,会,False,,会L11,何を習いたいですか。,1,11,会,265,True,aprender (de alguien)
+1229,なる,,to become,u-verb,1,10,会,False,,会L10,日本語が一なりましたね。,1,10,会,245,True,llegar a ser; convertirse
+1230,なれる,慣れる,to get used to ...,ru-verb,2,17,会,False,,会L17,もう仕事に慣れましたか。,2,17,会,114,False,acostumbrarse a ...
+1231,なん/なに,何,what,,1,1,会,False,,会L1,なんねんせいですか。,1,1,会,36,True,qué
+1232,なんだか,,somehow,,2,22,読,False,II,読L22-II,なんだか落ち込んでしまった。,2,22,読,338,False,de algún modo
+1233,なんでも,,anything; everything,,2,13,読,False,II,読L13-II,私はめずらしい物に興味があるので、おいしそうな食べ物は、なんでも食べてみます。,2,13,読,277,False,cualquier cosa; todo
+1234,なんども,何度も,many times,,2,17,読,False,II,"読L17-II, 会L22",ヨーコは『グレープフルーツ』の中である言葉を何度も使っています。,2,17,読,304,False,muchas veces
+1235,にあう,似合う,to look good (on somebody),u-verb,2,14,会,False,,会L14,ジョン：　よく似合っていますよ。,2,14,会,47,False,quedarle bien (a alguien)
+1236,にかげつまえ,二か月前,two months ago,,1,4,会,True,,会L4(e),（二週間前） （二か月前）,1,4,会,127,True,hace dos meses
+1237,にがつ,二月,February,,1,4,会,True,,会L4(e),,,,,,False,febrero
+1238,にぎやか（な）,,lively,,1,5,会,False,,会L5,いいえ、にぎやかじゃなかったです。,1,5,会,134,True,animado; bullicioso
+1239,にく,肉,meat,,1,2,会,False,,会L2,私は野菜は好きですが、肉はきらいです。,1,5,会,135,True,carne
+1240,～にくらべて,～に比べて,compared with ...,,2,17,会,False,,会L17,,,,,,False,en comparación con ...
+1241,にげる,逃げる,to run away; to escape,ru-verb,2,22,読,False,II,読L22-II,ずっと言わなきゃいけないと思っていたんだけど、勇気がなくて今まで逃げていた。,2,22,読,338,False,huir; escapar
+1242,にこにこする,,to smile,irregular verb,2,20,読,False,II,読L20-II,男は猫を抱き、にこにこしながら主人に言いました。,2,20,読,325,False,sonreír
+1243,にさんにち,二三日,for two to three days,,1,12,会,False,,会L12,医者： 二三日、運動しないほうがいいでしょう。,1,12,会,272,True,durante dos o tres días
+1244,にし,西,west,,1,6,会,True,,会L6(e),西コンサートホール,1,6,読,321,True,oeste
+1245,にじ,二時,two o’clock,,1,1,会,True,,会L1(e),じゅうにじはんです。,1,1,会,41,True,las dos en punto
+1246,にじっぷん,二十分,twenty minutes,,1,1,会,True,,会L1(e),,,,,,False,veinte minutos
+1247,にじはん,二時半,half past two,,1,1,会,False,,会L1,じゅうにじはんです。,1,1,会,41,True,las dos y media
+1248,にしゅうかんまえ,二週間前,two weeks ago,,1,4,会,True,,会L4(e),（二週間前） （二か月前）,1,4,会,127,True,hace dos semanas
+1249,にじゅうよっか,二十四日,the twenty- fourth day of a month,,1,4,会,True,,会L4(e),,,,,,False,el día veinticuatro del mes
+1250,にじゅっぷん,二十分,twenty minutes,,1,1,会,True,,会L1(e),,,,,,False,veinte minutos
+1251,にちようび,日曜日,Sunday,,1,3,会,False,,"会L3, 会L4(e)",たけし： じゃあ、日曜日はどうですか。,1,3,会,82,True,domingo
+1252,～について,,about ... ; concerning ...,,1,8,会,False,,会L8,大学の食堂についてどう思いますか。,1,8,会,200,True,sobre ...; acerca de ...
+1253,にっき,日記,diary,,1,9,読,False,II,"読L9-II, 会L18",ソラさんは日記を書きました。,1,9,読,336,True,diario (cuaderno)
+1254,にふん,二分,two minutes,,1,1,会,True,,会L1(e),,,,,,False,dos minutos
+1255,にほん,日本,Japan,,1,1,会,False,,会L1,メアリーさんのせんこうはにほんごです。,1,1,会,50,True,Japón
+1256,にほんご,日本語,Japanese language,,1,1,会,False,,会L1,メアリーさんのせんこうはにほんごです。,1,1,会,50,True,idioma japonés
+1257,にほんじん,日本人,Japanese people,,1,1,会,False,,会L1,たけし： いいえ、にほんじんです。,1,1,会,36,True,japonés (persona)
+1258,にもつ,荷物,baggage,,1,6,会,False,,会L6,じゃあ、荷物を持ちましょうか。,1,6,会,147,True,equipaje
+1259,ニヤニヤする,,to grin,irregular verb,2,13,読,False,II,読L13-II,みんなはニヤニヤして、何も言いません。,2,13,読,277,False,sonreír con picardía
+1260,にゅういんする,入院する,to be hospitalized,irregular verb,2,21,読,False,II,読L21-II,また、ある友だちは急に重い病気になって入院しなければいけませんでした。,2,21,読,331,False,ser hospitalizado
+1261,ニュース,,news,,2,17,会,False,,会L17,Ａ： ニュースによると、長野で大きい地震があったそうですよ。,2,17,会,125,False,noticias
+1262,～によると,,according to ...,,2,17,会,False,,会L17,天気予報によると、台風が来るそうです。,2,17,会,119,False,según ...
+1263,にわ,庭,garden,,2,15,会,False,,会L15,,,,,,False,jardín
+1264,～にん,～人,[counter for people],,1,7,会,False,,会L7,女の人はジーンズをはいていますか。,1,7,会,178,True,(contador de personas)
+1265,にんきがある,人気がある,to be popular,u-verb,1,9,会,False,,会L9,あなたの国では、どんなスポーツが人気がありますか。,1,9,会,227,True,ser popular
+1266,にんじん,,carrot,,1,8,会,True,,会L8(e),いちごすいかにんじんたまねぎ,1,8,会,209,True,zanahoria
+1267,ぬいぐるみ,,"stuffed animal (e.g., teddy bear)",,2,14,会,False,,会L14,亜美さんはぬいぐるみがほしくないでしょう。,2,14,会,50,False,peluche
+1268,ぬぐ,脱ぐ,to take off (clothes),u-verb,2,17,会,False,,会L17,日本ではうちの中で靴を脱がなければいけません。,2,17,会,134,False,quitarse (ropa)
+1269,ぬすむ,盗む,to steal; to rob,u-verb,2,21,会,False,,会L21,どろぼうに入られて指輪を盗まれました。,2,21,会,225,False,robar
+1270,ねがい,願い,wish,,1,12,読,False,II,読L12-II,どうして私たちは七タの日にたんざくに願いを書きますか。,1,12,読,356,True,deseo
+1271,ネクタイ,,necktie,,2,14,会,False,,会L14,,,,,,False,corbata
+1272,ねこ,猫,cat,,1,4,会,False,,会L4,あなたの家に猫がいますか。,1,4,会,115,True,gato
+1273,ねだん,値段,price,,2,20,読,False,II,読L20-II,江戸でそれを高い値段で売っていました。,2,20,読,325,False,precio
+1274,ねつがある,熱がある,to have a fever,u-verb,1,12,会,False,,会L12,,,,,,False,tener fiebre
+1275,ねむい,眠い,sleepy,,1,10,会,False,,会L10,眠いです。,2,16,会,110,False,tener sueño
+1276,ねる,寝る,to sleep; to go to sleep,ru-verb,1,3,会,False,,会L3,十一時ごろ／+一時ごろに寝ます。,1,3,会,89,True,dormir; acostarse
+1277,～ねん,～年,... years,,1,10,会,False,,会L10,年8 月6 日、広島に世界で初めて原爆が落とされました。,2,15,読,289,False,... años
+1278,～ねんかん,～年間,for ... years,,2,14,読,False,II,読L14-II,六年間（ろくねんかん） （☞,2,14,読,283,False,durante ... años
+1279,～ねんせい,～年生,... year student,,1,1,会,False,,会L1,メアリーさんはさんねんせいですか。,1,1,会,48,True,estudiante de ... año
+1280,ノート,,notebook,,1,2,会,False,,会L2,後でソラさんのノートを借りてもいいですか。,1,6,会,146,True,cuaderno
+1281,のこす,残す,to leave; to preserve,u-verb,2,15,読,False,II,読L15-II,原爆を忘れてはいけないと思い、原爆ドームを残しました。,2,15,読,289,False,dejar; conservar
+1282,～のしょうかいで,～の紹介で,through the introduction of,,2,19,読,False,III,読L19-III,友人のモハメッドさんの紹介でメールを書いています。,2,19,読,319,False,por recomendación de
+1283,～のために,,for ...,,2,19,読,False,III,読L19-III,大学院に入る前に、日本語の試験を受けなければいけないと聞きましたが、パクさんは試験のためにどんな勉強をなさいましたか。,2,19,読,319,False,para ...
+1284,～のための,,for the sake of ...,,2,17,読,False,II,読L17-II,ジョンが死んでからも、オノ・ヨーコは芸術の分野でいろいろな作品を発表し、平和のための活動をしています。,2,17,読,304,False,para el bien de ...
+1285,のど,,throat,,1,12,会,False,,会L12,下のa–d のどの写真だと思いますか。,2,13,読,277,False,garganta
+1286,のどがかわく,のどが渇く,to become thirsty,u-verb,1,12,会,False,,会L12,のどがかわきました／ジュースが飲みたいです,1,12,会,287,True,tener sed
+1287,のぼる,登る,to climb,u-verb,1,11,会,False,,会L11,富士山に登ったことがあります。,1,11,会,260,True,escalar; subir
+1288,のみもの,飲み物,drink,,1,5,会,False,,会L5,どんな飲み物が好きですか。,1,5,会,143,True,bebida
+1289,のむ,飲む,to drink,u-verb,1,3,会,False,,会L3,メアリーさんはうちでコーヒーを飲みますか。,1,3,会,95,True,beber
+1290,～のようなもの,,something like ...,,2,16,読,False,II,読L16-II,﹂ドラえもんはポケットからパンのようなものを出して、のび太くんにあげました。,2,16,読,297,False,algo como ...
+1291,のりおくれる,乗り遅れる,"to miss (a train, bus, etc.)",ru-verb,2,16,会,False,,会L16,実は、朝寝坊して、電車に乗り遅れたんです。,2,16,会,92,False,"perder (el tren, autobús, etc.)"
+1292,のりかえ,乗り換え,transfer,,1,10,会,True,,会L10(e),,,,,,False,transbordo
+1293,のる,乗る,to ride; to board,u-verb,1,5,会,False,,会L5,バスに乗って、会社に行きます。,1,6,会,152,True,subirse (a un vehículo); montar
+1294,は,歯,tooth,,1,7,会,True,,"会L7(e), 会L12",知っている山下先生は女を知っています。,1,7,会,172,True,diente
+1295,～は…といういみだ,～は…という意味だ,～ means that ...,,2,23,読,False,II,読L23-II,,,,,,False,～ significa que ...
+1296,ばあい,場合,case,,2,14,読,False,II,読L14-II,でも、あなたの場合はもっと大変そうなので、お医者さんに行って相談してみたらどうですか。,2,14,読,284,False,caso
+1297,パーティー,,party,,1,8,会,False,,会L8,パーティーに行きましたが、何も食べませんでした。,1,8,会,204,True,fiesta
+1298,パートナー,,partner,,2,14,会,False,,会L14,パートナーに何をしてもらいたいですか。,2,16,会,107,False,pareja; socio
+1299,バーベキュー,,barbecue,,1,8,会,False,,会L8,ゆい：たけしさん、あしたみんなでバーベキューをしませんか。,1,8,会,186,True,barbacoa; asado
+1300,パーマ,,perm,,2,17,会,True,,会L17(e),スーパーマンみたいですね。,2,17,会,130,False,permanente (pelo)
+1301,パーマをかける,,to have one’s hair permed,ru-verb,2,17,会,True,,会L17(e),パーマをかける,2,17,会,135,False,hacerse la permanente
+1302,はい,,yes,,1,1,会,False,,会L1,それは／そのTシャツはいくらですか。,1,2,会,72,True,sí
+1303,はいいろ,灰色,gray,,1,9,会,True,,会L9(e),こんいろはいいろ,1,9,会,229,True,gris
+1304,はいく,俳句,haiku,,2,17,読,False,II,読L17-II,ヨーコの詩は短くて、俳句みたいです。,2,17,読,303,False,haiku
+1305,バイク,,motorcycle,,2,13,会,False,,会L13,ロバートさんはバイクに乗れますか。,2,13,会,40,False,moto
+1306,ばいてん,売店,shop; stand,,1,10,会,True,,会L10(e),ばんせんばいてん,1,10,会,252,True,puesto; quiosco
+1307,はいゆう,俳優,actor; actress,,1,11,会,False,,会L11,,,,,,False,actor; actriz
+1308,はいる,入る,to enter,u-verb,1,6,会,False,,会L6,サークルに入っていますか。,1,7,会,183,True,entrar
+1309,ばかにする,,to insult; to make a fool of ...,irregular verb,2,21,会,False,,会L21,友だちがばかにする,2,21,会,218,False,burlarse de ...
+1310,はく,,to put on (items below your waist),u-verb,1,7,会,False,,会L7,日本語の先生は今日何を着ていますか／はいていますか。,1,7,会,183,True,ponerse (ropa de la cintura para abajo)
+1311,はく,吐く,to throw up,u-verb,1,12,会,True,,会L12(e),メアリー：はい、ありがとうございました。,1,12,会,273,True,vomitar
+1312,～はく,～泊,... nights,,2,15,会,True,,会L15(e),冬休みに旅館に泊まろうと思っています。,2,15,会,87,False,... noches
+1313,はこぶ,運ぶ,to carry,u-verb,2,22,会,False,,会L22,(2) 荷物を運ぶ(3) 部屋を片付ける,2,22,会,238,False,transportar; llevar
+1314,はし,,chopsticks,,1,8,会,False,,会L8,はしでご飯を食べます。,1,10,会,238,True,palillos
+1315,はしご,,ladders,,2,17,読,False,II,読L17-II,見に来た人は、はしごの上で虫めがねを使って天井にある絵を見るのです。,2,17,読,303,False,escalera de mano
+1316,はじまる,始まる,(something) begins,u-verb,1,9,会,False,,会L9,かぶきはお三時に始まって、四時に終わりました。,1,9,会,222,True,(algo) comienza
+1317,はじめて,初めて,for the first time,,1,12,会,False,,会L12,あしたは初めてのデートです。,1,12,会,288,True,por primera vez
+1318,はじめは,初めは,at first,,2,18,読,False,III,読L18-III,初めはあまり行きたくなかったんです。,2,18,読,310,False,al principio
+1319,はじめまして,,How do you do ?,,1,,G,False,,会G,はじめまして、まえかわあおいです。,1,1,読,299,True,Mucho gusto. (al conocerse por primera vez)
+1320,はじめる,始める,to begin,ru-verb,1,8,会,False,,会L8,ロバート： 始めましょうか。,1,8,会,186,True,comenzar (algo)
+1321,ばしょ,場所,place,,2,15,読,False,II,"読L15-II, 会L23",渋谷は若者のファッションで有名な場所で、おしゃれな店やカフェがたくさんあります。,2,15,読,291,False,lugar
+1322,はしる,走る,to run,u-verb,1,11,会,False,,会L11,公園を走ります。,2,16,会,101,False,correr
+1323,バス,,bus,,1,5,会,False,,会L5,バスに乗って、会社に行きます。,1,6,会,152,True,autobús
+1324,はずかしい,恥ずかしい,embarrassing; to feel embarrassed,,2,18,会,False,,会L18,Ａ：私は、恥ずかしいと顔が赤くなるんです。,2,18,会,152,False,vergonzoso; sentir vergüenza
+1325,はずかしがりや,恥ずかしがり屋,shy person,,2,19,会,False,,会L19,れいさんは恥ずかしがり屋だから、 。,2,19,会,176,False,persona tímida
+1326,バスてい,バス停,bus stop,,1,4,会,False,,会L4,病院カフェバス停,1,4,会,117,True,parada de autobús
+1327,パソコン,,personal computer,,1,6,会,False,,会L6,パソコンを持っていますか。,1,7,会,181,True,computadora personal
+1328,はたけ,畑,farm,,1,12,読,False,II,読L12-II,メアリーさんはたけしさんに何をもらいましたか。,2,14,会,63,False,campo de cultivo
+1329,はたらく,働く,to work,u-verb,1,7,会,False,,会L7,お父さん／お母さんはどこで働いていますか。,1,7,会,183,True,trabajar
+1330,はたをおる,はたを織る,to weave,u-verb,1,12,読,False,II,読L12-II,,,,,,False,tejer en telar
+1331,はちがつ,八月,August,,1,4,会,True,,会L4(e),,,,,,False,agosto
+1332,はちじ,八時,eight o’clock,,1,1,会,True,,会L1(e),八時にだいがくへいきます。,1,3,読,307,True,las ocho en punto
+1333,はちふん,八分,eight minutes,,1,1,会,True,,会L1(e),くじはちふんじゅうはちふん,1,1,会,55,True,ocho minutos
+1334,ばつ,,× (wrong),,1,11,会,True,,会L11(e),,,,,,False,× (incorrecto)
+1335,はつおん,発音,pronunciation,,1,11,会,True,,会L11(e),,,,,,False,pronunciación
+1336,はつか,二十日,the twentieth day of a month,,1,4,会,True,,会L4(e),,,,,,False,el día veinte del mes
+1337,はっしん,発疹,rash,,1,12,会,True,,会L12(e),発疹があります。,1,12,会,293,True,sarpullido
+1338,はっぴょうする,発表する,to make a presentation; to make public,irregular verb,2,15,会,False,,会L15,日本語で発表します。,2,15,会,84,False,hacer una presentación; hacer público
+1339,はっぷん,八分,eight minutes,,1,1,会,True,,会L1(e),ごぜんくじ じゅうはっぷん,1,1,会,55,True,ocho minutos
+1340,はな,花,flower,,1,4,会,False,,会L4,花を買います。,1,6,会,162,True,flor
+1341,はな,鼻,nose,,1,7,会,True,,会L7(e),でも今はなりました。,1,10,会,245,True,nariz
+1342,はなし,話,story; talk,,1,8,読,False,II,"読L8-II, 会L19",ウデイさんは新聞で何の話を読みましたか。,1,8,読,333,True,historia; charla
+1343,はなしをする,話をする,to have a talk,irregular verb,1,9,読,False,II,"読L9-II, 会L19",晩ご飯の後、いろいろな話をした。,1,9,読,337,True,tener una conversación
+1344,はなす,話す,to speak; to talk,u-verb,1,3,会,False,,会L3,いいえ、 話しません。,1,3,会,96,True,hablar
+1345,バナナ,,banana,,2,18,会,False,,会L18,,,,,,False,plátano; banana
+1346,はなみず,鼻水,runny nose,,1,12,会,True,,会L12(e),鼻水が出ます。,1,12,会,293,True,moqueo; nariz que gotea
+1347,はなれる,離れる,(something/someone) separates; parts from,ru-verb,2,23,会,False,,会L23,今は離れている,2,23,会,263,False,separarse; alejarse de
+1348,はは,母,(my) mother,,1,7,会,False,,会L7,お父さん／お母さんはどこで働いていますか。,1,7,会,183,True,(mi) madre
+1349,はやい,早い,early,,1,3,会,False,,会L3,早いですね。,1,3,会,82,True,temprano
+1350,はやい,速い,fast,,1,7,会,False,,会L7,新幹線とバスとどちらのほうが速いですか。,1,10,会,239,True,rápido
+1351,はやく,早く/速く,(do something) early; fast,,1,10,会,False,,会L10,早く起きすぎました。,1,12,会,278,True,(hacer algo) temprano; rápido
+1352,はらう,払う,to pay,u-verb,1,12,会,False,,会L12,〇〇で払えますか。,2,15,会,91,False,pagar
+1353,ハラルフード,,halal,,1,8,会,True,,会L8(e),これはハラルフードですか。,1,8,会,209,True,comida halal
+1354,はる,春,spring,,1,10,会,False,,会L10,,,,,,False,primavera
+1355,はる,貼る,to post; to stick,u-verb,2,21,会,False,,会L21,あの人はっていますか。,1,7,会,178,True,pegar (un cartel)
+1356,はれ,晴れ,sunny weather,,1,8,会,False,,会L8,あしたは晴れです。,1,8,会,201,True,tiempo soleado
+1357,はれる,晴れる,to become sunny,ru-verb,2,19,会,False,,会L19,晴れるまで、カフェでコーヒーを飲みながら、待ちます。,2,23,会,258,False,despejarse (el cielo)
+1358,バレンタインデー,,Valentine’s Day,,2,14,会,False,,会L14,バレンタインデーに何かあげたことがありますか。,2,14,会,63,False,Día de San Valentín
+1359,はん,半,half,,1,1,会,False,,会L1,わたしはシラ・半ムです。,1,1,会,41,True,media (hora); mitad
+1360,パン,,bread,,1,4,会,False,,会L4,パンダが見られます。,2,17,会,127,False,pan
+1361,～ばん,～番,number ...,,1,1,会,False,,"会L1, 会L11(e)",でんわばんごうはなんばんですか。,1,1,会,43,True,número ...
+1362,ばんぐみ,番組,broadcast program,,2,16,読,False,II,読L16-II,七三年にはテレビ番組になり、今も毎週続いています。,2,16,読,297,False,programa (de TV/radio)
+1363,ばんごう,番号,number,,1,1,会,False,,会L1,でんわばんごうはなんばんですか。,1,1,会,43,True,número
+1364,ばんごはん,晩ご飯,dinner,,1,3,会,False,,会L3,お母さん： 晩ご飯は？,1,3,会,82,True,cena
+1365,～ばんせん,～番線,track number ...,,1,10,会,True,,会L10(e),ばんせんばいてん,1,10,会,252,True,andén número ...
+1366,パンダ,,panda,,2,17,会,False,,会L17,動物園でパンダの赤ちゃんが生まれました。,2,17,会,125,False,panda
+1367,はんたいする,反対する,to oppose; to object to,irregular verb,2,22,会,False,,会L22,親に反対される,2,23,会,263,False,oponerse a
+1368,バンド,,band,,1,11,読,False,II,読L11-II,いっしょにバンドをやりませんか。,1,11,読,349,True,banda (de música)
+1369,はんにん,犯人,criminal,,2,21,会,False,,会L21,犯人が捕まったので、警察に来てほしいそうです。,2,21,会,207,False,culpable; delincuente
+1370,ハンバーガー,,hamburger,,1,3,会,False,,会L3,五時にマクドナルドでハンバーガーを食べます。,1,3,会,98,True,hamburguesa
+1371,ひ,日,day,,2,15,読,False,II,"読L15-II, 会L16",年8 月6 日、広島に世界で初めて原爆が落とされました。,2,15,読,289,False,día
+1372,ピアノ,,piano,,1,9,会,False,,会L9,ピアノを弾きますか。,1,9,会,227,True,piano
+1373,ヒーター,,heater,,2,17,会,False,,会L17,ヒーターをつけたほうがいいですよ。,2,17,会,127,False,calefactor
+1374,ピーナッツ,,peanut,,1,8,会,True,,会L8(e),ピーナッツアレルギーがあります。,1,8,会,209,True,cacahuate; maní
+1375,ビール,,beer,,1,11,会,False,,会L11,日本のビールを飲んだことがありますか。,1,11,会,268,True,cerveza
+1376,ひがし,東,east,,1,6,会,True,,会L6(e),ひだりがわみぎがわひがし,1,6,会,165,True,este (punto cardinal)
+1377,～ひき,～匹,[counter for smaller animals],,2,14,会,False,,"会L14, 会L14(e)",冬になるとかぜをひきました。,2,18,会,143,False,(contador de animales pequeños)
+1378,ひきだし,引き出し,withdrawal,,2,13,会,True,,会L13(e),いらっしゃいませお預け入れお引き出し通帳記入お振込クレジットカード残高照会,2,13,会,45,False,retiro (de dinero)
+1379,ひく,弾く,to play (a string instrument or piano),u-verb,1,9,会,False,,会L9,ギターを弾くのが上手ですか。,1,9,会,227,True,tocar (instrumento de cuerda o piano)
+1380,ひげ,,beard,,2,17,会,False,,会L17,たけしさんはひげをそらないで、会社に行きました。,2,20,会,196,False,barba
+1381,ひげをそる,,to shave one’s beard,u-verb,2,17,会,False,,会L17,たけしさんはひげをそらないで、会社に行きました。,2,20,会,196,False,afeitarse la barba
+1382,ひこうき,飛行機,airplane,,1,10,会,False,,会L10,飛行機がきらい私は子供の時から飛行機がきらいです。,2,14,読,284,False,avión
+1383,ピザ,,pizza,,1,6,読,False,III,"読L6-III, 会L9",ピザパスタアイスクリーム,1,6,読,323,True,pizza
+1384,ひさしぶり,久しぶり,it has been a long time,,1,11,会,False,,会L11,たけしさん、久しぶりですね。,2,17,会,114,False,cuánto tiempo sin vernos
+1385,ビジネス,,business,,1,1,会,False,,"会L1, 会L2",メアリーさんの せんこうはビジネスですか。,1,1,会,51,True,negocios
+1386,びじゅつかん,美術館,art museum,,1,11,会,False,,会L11,ジョンさんは、美術館に行ったり、表ったりしました。,1,11,会,266,True,museo de arte
+1387,ひだり,左,left,,1,4,会,False,,会L4,（ ）大学：北口を出て、左へ十分ぐらい行ってください。,1,6,読,320,True,izquierda
+1388,ひだりがわ,左側,left side,,1,6,会,True,,会L6(e),ひだりがわみぎがわひがし,1,6,会,165,True,lado izquierdo
+1389,ひっかく,,to scratch,u-verb,2,20,読,False,II,読L20-II,皿はもらえないし、猫はひっかくし、最悪です。,2,20,読,326,False,arañar
+1390,びっくりする,,to be surprised,irregular verb,1,10,読,False,II,"読L10-II, 会L21",みなさん、日本に来て何にびっくりしましたか。,2,13,読,280,False,sorprenderse
+1391,ひっこし,引っ越し,moving,,2,18,読,False,III,読L18-III,時々、引っ越しなどの力仕事もする。,2,18,読,310,False,mudanza
+1392,ひっこす,引っ越す,to move (to another place to live),u-verb,2,19,会,False,,会L19,Ａ：きのう引っ越すはずだったけど……,2,19,会,177,False,mudarse (de casa)
+1393,ひと,人,person,,1,4,会,False,,会L4,知らない人： あそこにホテルがありますね。,1,4,会,102,True,persona
+1394,ひどい,,awful,,2,21,会,False,,会L21,Ａ：それはひどいですね。,2,21,会,218,False,terrible; cruel
+1395,ひとつ,一つ,one,,1,9,会,False,,会L9,たけし：それから、お茶を一つとコーヒーを一つ。,1,9,会,211,True,uno (cosa)
+1396,ひとつめ,一つ目,first,,1,6,会,True,,会L6(e),三つ目の魚を一つ目の信号を,1,6,会,165,True,el primero
+1397,ひとびと,人々,people,,1,12,読,False,II,読L12-II,,,,,,False,la gente
+1398,ひとり,一人,one person,,1,7,会,False,,会L7,子供が一人います。,1,7,会,166,True,una persona
+1399,ひとりぐらし,一人暮らし,living alone,,2,22,会,False,,会L22,両親は一人暮らしをさせてくれませんでした。,2,22,会,241,False,vivir solo
+1400,ひとりで,一人で,alone,,1,4,会,False,,会L4,土曜日は一人でおてらへいきました。,1,4,読,311,True,solo (sin compañía)
+1401,ひふか,皮膚科,dermatologist,,1,12,会,True,,会L12(e),,,,,,False,dermatólogo
+1402,ひま（な）,暇,not busy; free (time),,1,5,会,False,,会L5,いいえ、ひまじゃないです。,1,5,会,132,True,desocupado; tiempo libre
+1403,ひみつ,秘密,secret,,2,16,読,False,II,"読L16-II, 会L17",友だちは秘密がたくさんあるんです。,2,17,会,130,False,secreto
+1404,びよういん,美容院,beauty parlor,,1,10,会,False,,会L10,ええ、きのう、美容院に行きました。,1,10,会,245,True,salón de belleza
+1405,びょういん,病院,hospital,,1,4,会,False,,会L4,レストランはスーパーと病院の間です。,1,4,会,109,True,hospital
+1406,びょうき,病気,illness; sickness,,1,9,会,False,,"会L9, 会L12(e)",病気でした。,1,9,会,222,True,enfermedad
+1407,ひょうじょう,表情,expression,,2,23,読,False,II,読L23-II,また、日本語では目で表情を表すものが多いですが、英語では口で表情を表すものが多いです。,2,23,読,344,False,expresión (facial)
+1408,ひる,昼,noon,,1,9,読,False,II,読L9-II,昼ごろメアリーの家へ行った。,1,9,読,336,True,mediodía
+1409,ひるごはん,昼ご飯,lunch,,1,3,会,False,,会L3,うちで昼ご飯を食べます。,1,3,会,89,True,almuerzo
+1410,ひるねをする,昼寝をする,to take a nap,irregular verb,2,21,会,False,,会L21,,,,,,False,echar una siesta
+1411,ひろい,広い,wide; spacious,,1,12,会,False,,会L12,嵯峨野は広いので、足が疲れるかもしれません。,2,15,読,290,False,amplio; espacioso
+1412,ひろう,拾う,to pick up (something),u-verb,2,22,会,False,,会L22,,,,,,False,recoger (algo del suelo)
+1413,ピンク,,pink,,1,9,会,True,,会L9(e),,,,,,False,rosa (color)
+1414,びんぼう（な）,貧乏,poor,,2,22,会,False,,会L22,お母さんのうちは貧乏だったから、大学に行かせてくれなかったのよ。,2,22,会,228,False,pobre
+1415,ファイル,,(file) folder; portfolio; file,,2,16,会,False,,会L16,ジョンさん、ファイルはありましたか。,2,16,会,93,False,carpeta; archivo
+1416,ファッション,,fashion,,2,15,読,False,II,読L15-II,日本の若者のファッションに興味があります。,2,15,読,292,False,moda
+1417,ふあん（な）,不安,anxious; worried,,2,13,読,False,II,"読L13-II, 会L18",私はちょっと不安になりました。,2,13,読,277,False,ansioso; preocupado
+1418,フィリピン,,Philippines,,1,1,会,False,,会L1,,,,,,False,Filipinas
+1419,ブーツ,,boots,,2,17,会,False,,会L17,ブーツぬいぐるみ猫,2,17,会,130,False,botas
+1420,プール,,swimming pool,,2,15,会,False,,会L15,クアラルンプール,1,2,読,302,True,piscina
+1421,ぶか,部下,subordinate,,2,22,会,False,,会L22,あなたが部長だったら、部下に何をさせますか。,2,22,会,239,False,subordinado
+1422,ふく,服,clothes,,1,12,会,False,,会L12,かわいい服ですね。,1,12,会,283,True,ropa
+1423,ふくしゅう,復習,review of a lesson,,2,22,会,False,,会L22,復習すれば大丈夫ですよ。,2,22,会,244,False,repaso de una lección
+1424,ふくろ,袋,bag; sack; plastic/paper bag,,1,8,会,True,,"会L8(e), 会L23",袋をお願いします。,1,8,会,209,True,bolsa
+1425,ふしぎ（な）,不思議,mysterious,,2,20,会,False,,会L20,Ａ：二人の女の子がトトロという不思議な動物に会う話です。,2,20,会,199,False,misterioso
+1426,ふたつ,二つ,two,,1,9,会,False,,会L9,お弁当を二つください。,1,9,会,211,True,dos (cosas)
+1427,ふたつめ,二つ目,second,,1,6,会,True,,会L6(e),,,,,,False,el segundo
+1428,ぶたにく,豚肉,pork,,1,8,会,True,,会L8(e),,,,,,False,carne de cerdo
+1429,ふたり,二人,two people,,1,7,会,False,,会L7,あの二人、大丈夫かなあ。,2,17,会,115,False,dos personas
+1430,ふたりずつ,二人ずつ,two people each,,1,11,会,True,,会L11(e),,,,,,False,de dos en dos (personas)
+1431,ぶちょう,部長,department manager,,2,19,会,False,,会L19,部長は疲れていらっしゃるみたいです。,2,19,会,165,False,jefe de departamento
+1432,ふつう,普通,local (train),,1,10,会,True,,会L10(e),,,,,,False,(tren) local
+1433,ふつか,二日,the second day of a month,,1,4,会,True,,会L4(e),ついたちふつかむいか,1,4,会,127,True,el día dos del mes
+1434,ふつか,二日,two days,,2,13,会,False,,会L13,ついたちふつかむいか,1,4,会,127,True,dos días
+1435,ぶっか,物価,consumer prices,,2,13,会,False,,会L13,物価が安いし、この町の生活は楽です。,2,13,会,28,False,precios al consumidor
+1436,ふつかかん,二日間,for two days,,2,22,読,False,II,読L22-II,それで、ぼくが代わりに二日間東京を案内してあげたんだ。,2,22,読,338,False,durante dos días
+1437,ふつかよい,二日酔い,hangover,,1,12,会,False,,会L12,,,,,,False,resaca
+1438,ぶどう,,grape,,1,8,会,True,,会L8(e),,,,,,False,uva
+1439,ふとっています,太っています,to be on the heavy side,,1,7,会,False,,会L7,っているトムさんはちょっと太っています。,1,7,会,172,True,estar algo gordo
+1440,ふとる,太る,to gain weight; overweight,u-verb,1,7,会,False,,会L7,っているトムさんはちょっと太っています。,1,7,会,172,True,engordar
+1441,ふね,船,ship; boat,,1,10,会,False,,会L10,,,,,,False,barco
+1442,ふべん（な）,不便,inconvenient,,2,21,読,False,II,読L21-II,バスはよく遅れるし、一時間に一台しか来ないから、とても不便です。,2,21,読,332,False,inconveniente; poco práctico
+1443,ふむ,踏む,to step on,u-verb,2,21,会,False,,会L21,メアリー：　あの時は足を踏まれて、痛かった。,2,23,会,250,False,pisar
+1444,ふゆ,冬,winter,,1,8,会,False,,会L8,冬は寒いですか。,1,8,会,200,True,invierno
+1445,ふりこみ,振込,bank transfer,,2,13,会,True,,会L13(e),いらっしゃいませお預け入れお引き出し通帳記入お振込クレジットカード残高照会,2,13,会,45,False,transferencia bancaria
+1446,プリン,,pudding,,2,13,読,False,III,読L13-III,コンビニのプリンを食べたことがありますか。,2,13,読,280,False,flan; pudín
+1447,ふる,,to turn down (somebody); to reject; to jilt,u-verb,2,21,会,False,,会L21,(11) 子供の時ふるさわるいじめる怒る,2,21,会,218,False,rechazar (a alguien); dar calabazas
+1448,ふる（あめ/ゆきが）,降る（雨/雪が）,(rain/snow) falls,u-verb,1,8,会,False,,会L8,,,,,,False,caer (lluvia/nieve)
+1449,ふるい,古い,old (thing),,1,5,会,False,,会L5,このかさは古いから、 _かさをかいます。,1,9,読,336,True,viejo (cosa)
+1450,プレゼント,,present,,1,12,会,False,,会L12,一番うれしくなかったプレゼントは何ですか。,2,14,会,63,False,regalo
+1451,ふろ,風呂,bath,,1,8,会,False,,会L8,毎日、 お風呂に入る？,1,8,会,198,True,baño (bañera)
+1452,ブロー,,blow-dry,,2,17,会,True,,会L17(e),,,,,,False,secado con secador
+1453,プロジェクト,,project,,2,22,会,False,,会L22,次のプロジェクトの計画を立てる,2,22,会,242,False,proyecto
+1454,ふろにはいる,風呂に入る,to take a bath,u-verb,1,8,会,False,,会L8,毎日、 お風呂に入る？,1,8,会,198,True,bañarse
+1455,プロポーズする,,to propose marriage,irregular verb,2,14,会,False,,会L14,,,,,,False,pedir matrimonio
+1456,フロント,,receptionist; front desk,,2,15,会,True,,会L15(e),,,,,,False,recepción (de hotel)
+1457,ぶんか,文化,culture,,1,11,読,False,II,"読L11-II, 会L16",ヤスミン大学院で日本の文化について研究したいんです。,2,16,会,109,False,cultura
+1458,ぶんがく,文学,literature,,1,1,会,False,,"会L1, 読L7-II",りーさんのせんこうはぶんがくですね。,1,2,会,64,True,literatura
+1459,ぶんぽう,文法,grammar,,1,11,会,True,,"会L11(e), 会L13",文法がわかりません。,2,13,会,36,False,gramática
+1460,ぶんや,分野,field; realm,,2,17,読,False,II,読L17-II,ジョンが死んでからも、オノ・ヨーコは芸術の分野でいろいろな作品を発表し、平和のための活動をしています。,2,17,読,304,False,campo; área (de estudio)
+1461,へいじつ,平日,weekday,,1,11,読,False,II,読L11-II,週末はバイトがあるから、いつも平日に一人で映画を,1,11,読,349,True,día laborable
+1462,へいわ,平和,peace,,2,15,読,False,II,読L15-II,ここに来た人は、平和の意味について考えます。,2,15,読,290,False,paz
+1463,へいわきねんしりょうかん,平和記念資料館,Peace Memorial Museum,,2,15,読,False,II,読L15-II,平和記念資料館で何ができますか。,2,15,読,291,False,Museo Memorial de la Paz
+1464,ページ,,page,,1,6,会,False,,会L6,山下先生： ロバートさん、次のページを読んでください。,1,6,会,146,True,página
+1465,ベージュ,,beige,,1,9,会,True,,会L9(e),,,,,,False,beige
+1466,へた（な）,下手,clumsy; poor at ...,,1,8,会,False,,会L8,たけしさんは英語を話してが下手です。,1,8,会,195,True,torpe; malo en ...
+1467,ペット,,pet,,2,15,会,False,,会L15,ペットを飼っていますか。,2,19,会,171,False,mascota
+1468,ヘッドホン,,headphones,,2,20,会,False,,会L20,ヘッドホンを見せていただけますか。,2,20,会,180,False,auriculares
+1469,べつに ＋ negative,別に,nothing in particular,,1,7,会,False,,会L7,ゆい： 別に何もしていません。,1,7,会,167,True,nada en particular
+1470,へや,部屋,room,,1,5,会,False,,会L5,でも、私の部屋はきれいじゃないです。,1,5,会,139,True,habitación
+1471,ぺらぺら（な）,,fluent,,2,22,会,False,,会L22,日本に留学したことがないのに、日本語がぺらぺらです。,2,22,会,245,False,con fluidez
+1472,ペン,,pen,,1,2,会,False,,会L2,いいえ、わたしのペンじゃないです。,1,2,会,75,True,bolígrafo
+1473,へん（な）,変,strange; unusual,,2,21,会,False,,会L21,ちょっと変だと思うでしょ。,2,22,会,228,False,raro; extraño
+1474,べんきょうする,勉強する,to study,irregular verb,1,3,会,False,,会L3,三時に図書館で日本語を勉強します。,1,3,会,100,True,estudiar
+1475,べんごし,弁護士,lawyer,,1,1,会,False,,"会L1, 会L13",弁護士になれる,2,17,会,127,False,abogado
+1476,へんじ,返事,reply,,1,11,読,False,II,"読L11-II, 会L16",よかったら、お返事ください。,1,11,読,350,True,respuesta
+1477,べんとう,弁当,boxed lunch,,1,9,会,False,,会L9,旅行に行ったから・お弁当を買います。,1,9,会,225,True,almuerzo en caja (bentō)
+1478,べんぴ,便秘,constipation,,1,12,会,True,,会L12(e),,,,,,False,estreñimiento
+1479,へんぴんする,返品する,to return (merchandise),irregular verb,2,20,会,False,,会L20,もうすぐ国に帰るので、できれば返品したいんですが。,2,20,会,180,False,devolver (mercancía)
+1480,べんり（な）,便利,convenient,,1,7,会,False,,会L7,このアプリは便利ですよ。,2,13,会,39,False,conveniente; práctico
+1481,ほうげん,方言,dialect,,1,11,会,True,,会L11(e),,,,,,False,dialecto
+1482,ぼうし,帽子,hat; cap,,1,2,会,False,,会L2,（）これはわたしのぼうしじゃないです。,1,2,読,303,True,sombrero; gorra
+1483,ほ（う）っておく,放っておく,to leave (someone/something) alone; to neglect,u-verb,2,22,会,False,,会L22,もう十七なんだから、少しほっておいてよ。,2,22,会,228,False,dejar en paz; descuidar
+1484,～ほうめん,～方面,serving ... areas,,1,10,会,True,,会L10(e),,,,,,False,con servicio a la zona de ...
+1485,ホーム,,platform,,1,10,会,True,,"会L10(e), 読L22-II",ホームシックです。,2,16,会,111,False,andén
+1486,ホームシック,,homesickness,,1,12,会,False,,会L12,ホームシックです。,2,16,会,111,False,nostalgia del hogar
+1487,ホームステイ,,homestay; living with a local family,,1,8,会,False,,会L8,ホームステイをしています。,1,8,会,201,True,estancia con una familia local
+1488,ボール,,ball,,2,22,会,False,,会L22,,,,,,False,pelota
+1489,ほかに,,anything else,,1,11,会,True,,会L11(e),,,,,,False,algo más
+1490,ほかの,,other,,2,16,会,False,,会L16,そして、ほかのお寺も案内してくれました。,2,16,会,113,False,otro
+1491,ぼく,僕,I (used by men),,1,5,会,False,,会L5,ぼくも海が好きです。,1,5,会,129,True,yo (usado por hombres)
+1492,ポケット,,pocket,,2,16,読,False,II,読L16-II,ドラえもんはポケットの中に何を持っていますか。,2,16,読,297,False,bolsillo
+1493,ほけん,保険,insurance,,2,15,会,False,,会L15,ソラ （保険に入る）,2,15,会,83,False,seguro
+1494,ほけんしょう,保険証,health insurance certificate,,1,12,会,True,,会L12(e),,,,,,False,tarjeta del seguro médico
+1495,ほけんにはいる,保険に入る,to buy insurance,u-verb,2,15,会,False,,会L15,ソラ （保険に入る）,2,15,会,83,False,contratar un seguro
+1496,ほしい,欲しい,to want,,2,14,会,False,,会L14,Ａ：車とパソコンと、どちらがほしいですか。,2,14,会,58,False,querer (tener algo)
+1497,ぼしゅう,募集,recruitment,,2,13,会,False,,会L13,アルバイト募集の広告を見たんですが。,2,13,会,22,False,reclutamiento
+1498,～ぼしゅう,～募集,looking for ...,,1,11,読,False,II,読L11-II,あなたは友だちやメンバーを募集したことがありますか。,1,11,読,348,True,se busca ...
+1499,ポスター,,poster,,2,21,会,False,,会L21,ポスターを描く佐藤吉田太田川口,2,22,会,240,False,póster; cartel
+1500,ホストファミリー,,host family,,1,9,読,False,II,"読L9-II, 会L11",リーのホストファミリーの山本さんに会った。,1,9,読,337,True,familia anfitriona
+1501,ポップコーン,,popcorn,,2,18,会,False,,会L18,,,,,,False,palomitas de maíz
+1502,ホテル,,hotel,,1,4,会,False,,会L4,知らない人： あそこにホテルがありますね。,1,4,会,102,True,hotel
+1503,ほめる,,to praise; to say nice things,ru-verb,2,21,会,False,,会L21,もっと学生をほめる,2,21,会,223,False,elogiar
+1504,ホラー,,horror,,1,11,読,False,II,読L11-II,将来はホラー映画を作りたいです。,1,11,読,349,True,(género de) terror
+1505,ボランティア,,volunteer,,1,11,読,False,II,"読L11-II, 会L15",が大好きな人、ボランティアを始めませんか。,1,11,読,349,True,voluntario
+1506,ホワイトデー,,“White Day” (yet another gift-giving day),,2,14,会,False,,会L14,たけし：　でも、ロバートさんはホワイトデーが大変ですよ。,2,14,会,47,False,White Day (otro día de regalos)
+1507,ほん,本,book,,1,2,会,False,,"会L2, 会L2(e)",図書館で本を読みます。,1,3,会,89,True,libro
+1508,～ほん,～本,[counter for long objects],,2,14,会,False,,"会L14, 会L14(e)",私は日本語の本を一冊しか持っていません。,2,14,会,55,False,(contador de objetos largos)
+1509,ぼんおどり,盆踊り,Bon dance (Japanese traditional dance),,2,23,会,False,,会L23,「盆踊りみたいだ」,2,23,会,250,False,baile Bon (danza tradicional)
+1510,ほんとうですか,本当ですか,Really?,,1,6,会,False,,会L6,本当ですか。,1,6,会,146,True,¿De verdad?
+1511,ほんとうに,本当に,really,,2,14,読,False,II,"読L14-II, 会L18",アドバイス私も飛行機に乗るのが好きじゃないので、あなたの悩みが本当によくわかります。,2,14,読,284,False,realmente
+1512,ほんとうは,本当は,in fact; originally,,2,19,会,False,,会L19,と言ったけど、本当は大阪で夏菜さんに会っていたんだ。,2,22,読,338,False,en realidad; originalmente
+1513,ほんや,本屋,bookstore,,1,4,会,False,,会L4,（b）きのう、本屋に行きました。,1,4,会,122,True,librería
+1514,ほんやくする,翻訳する,to translate,irregular verb,2,22,会,False,,会L22,部下に書類を翻訳させます。,2,22,会,239,False,traducir
+1515,まあまあ,,okay; so-so,,1,11,会,False,,会L11,ゆい： まあまあでした。,1,11,会,254,True,más o menos; regular
+1516,～まい,～枚,[counter for flat objects],,1,5,会,False,,"会L5, 会L14(e)",まいにちカフェでコーヒーを飲みます。,1,5,読,315,True,(contador de objetos planos)
+1517,まいあさ,毎朝,every morning,,2,19,会,False,,会L19,,,,,,False,todas las mañanas
+1518,まいしゅう,毎週,every week,,1,8,会,False,,会L8,毎週、部屋を掃除する？,1,8,会,199,True,cada semana
+1519,まいつき,毎月,every month,,2,18,読,False,III,読L18-III,毎月、両親が七万円送ってくれる。,2,18,読,310,False,cada mes
+1520,まいにち,毎日,every day,,1,3,会,False,,会L3,わたしはまいにち七時におきます。,1,3,読,307,True,todos los días
+1521,まいばん,毎晩,every night,,1,3,会,False,,会L3,毎晩テレビを見ます。,1,3,会,90,True,todas las noches
+1522,まいる,参る,extra-modest expression for いく and くる,u-verb,2,20,会,False,,会L20,× 先生はあした学校に参りますか。,2,20,会,185,False,ir/venir (forma muy humilde de いく y くる)
+1523,まえ,前,before ...,,2,17,会,False,,会L17,日本に来る前に、一学期日本語を勉強しました。,2,17,会,123,False,antes de ...
+1524,まえ,前,front,,1,4,会,False,,会L4,私はモスバーガーの前でメアリーさんを待ちました。,1,4,会,109,True,delante
+1525,まがる,曲がる,to turn (right/left),u-verb,1,6,会,True,,"会L6(e), 会L20",左に曲がる右に曲がる,1,6,会,165,True,girar (a la derecha/izquierda)
+1526,まける,負ける,to lose (a match),ru-verb,2,22,会,False,,会L22,,,,,,False,perder (un partido)
+1527,まことに,誠に,really (very polite),,2,20,会,False,,会L20,まことに申し訳ございませんでした。,2,20,会,180,False,verdaderamente (muy cortés)
+1528,まじめ（な）,,serious; sober; diligent,,1,12,読,False,II,"読L12-II, 会L19",ソラさんはまじめだから、 。,2,19,会,176,False,serio; formal; aplicado
+1529,まず,,first of all,,1,8,読,False,II,"読L8-II, 会L18",まず、「仕事のストレスがありますか」,1,8,読,332,True,primero que nada
+1530,まずい,,(food is) terrible,,2,23,会,False,,会L23,,,,,,False,(comida) horrible
+1531,また,,again,,2,20,会,False,,会L20,では、またあしたうかがいます。,2,20,会,195,False,otra vez
+1532,また,,in addition,,2,16,読,False,II,読L16-II,また、ドラえもんは弱い子供の味方です。,2,16,読,296,False,además
+1533,まだ,,still,,2,19,会,False,,会L19,この時間ならまだ起きているはずだよ。,2,19,会,161,False,todavía
+1534,まだ ＋ negative,,not ... yet,,1,8,会,False,,会L8,ゆ い： あっ、まだ飲まないでください。,1,8,会,186,True,todavía no
+1535,またせる,待たせる,to keep (someone) waiting,ru-verb,2,20,会,False,,会L20,,,,,,False,hacer esperar (a alguien)
+1536,まち,町,town; city,,1,4,会,False,,会L4,あなたの町に日本のレストランがありますか。,1,4,会,115,True,pueblo; ciudad
+1537,まちあわせをする,待ち合わせをする,to meet up,irregular verb,2,15,読,False,II,読L15-II,駅を出てハチ公の前で友だちと待ち合わせをします。,2,15,読,291,False,quedar para encontrarse
+1538,まちがい,間違い,mistake,,2,19,会,False,,会L19,宿題の間違いを直す,2,19,会,173,False,error
+1539,まちがえる,間違える,to make a mistake,ru-verb,2,21,会,False,,会L21,を間違えたんです。,2,21,会,218,False,equivocarse
+1540,まちどおしい,待ち遠しい,to wait eagerly for ...,,2,22,読,False,II,読L22-II,今から待ち遠しい。,2,22,読,337,False,esperar con impaciencia
+1541,まつ,待つ,to wait,u-verb,1,4,会,False,,会L4,私はモスバーガーの前でメアリーさんを待ちました。,1,4,会,109,True,esperar
+1542,まっすぐ,,straight,,1,6,読,False,I,"会L6(e), 読L6-I",（）こうえん：西口をまっすぐ十五分ぐらい行ってください。,1,6,読,320,True,recto; derecho
+1543,まつり,祭り,festival,,1,11,会,False,,会L11,お祭りに行く（はい）,1,11,会,264,True,festival
+1544,～まで,,to (a place/a time),,1,9,会,False,,会L9,お三時から四時までです。,1,9,会,210,True,hasta (un lugar/una hora)
+1545,～までに,,by (time/date),,1,12,読,False,II,"読L12-II, 会L18",いつまでに宿題を出さなければいけませんか。,2,18,会,147,False,para (antes de una hora/fecha)
+1546,まど,窓,window,,1,2,会,True,,"会L2(e), 会L6",窓を開しけましょうか。,1,6,会,163,True,ventana
+1547,まにあう,間に合う,to be in time,u-verb,2,22,会,False,,会L22,レポートの締め切りに間に合わないんです。,2,22,会,244,False,llegar a tiempo
+1548,マフラー,,winter scarf,,2,14,会,False,,会L14,私は 姉に／姉から マフラーをもらいました。,2,14,会,53,False,bufanda
+1549,まゆげ,眉毛,eyebrow,,1,7,会,True,,会L7(e),まゆげ（眉毛）,1,7,会,185,True,ceja
+1550,まる,,○ (correct),,1,11,会,True,,会L11(e),来週から試験が始まる。,2,18,読,310,False,○ (correcto)
+1551,まんが,漫画,comic book,,2,14,会,False,,会L14,Ｂ：日本のまんがが大好きですから。,2,14,会,66,False,cómic; manga
+1552,まんがか,漫画家,cartoonist,,1,11,会,False,,会L11,,,,,,False,dibujante de manga
+1553,まんじゅう,,sweet bun,,1,4,読,False,III,読L4-III,みせでおまんじゅうをかいました。,1,4,読,311,True,bollo dulce (manjū)
+1554,マンション,,larger apartment building; condominium,,2,13,会,False,,会L13,大学の近くのワンルームマンションに住んでいる。,2,18,読,310,False,edificio de apartamentos grande; condominio
+1555,みえる,見える,to be visible,ru-verb,2,15,会,False,,会L15,部屋の窓から海が見えます。,2,15,会,79,False,verse; ser visible
+1556,みがく,磨く,to brush (teeth); to polish,u-verb,2,13,会,False,,会L13,部屋を掃除する毎晩会社の文句を聞く靴を磨く,2,23,会,261,False,cepillarse (los dientes); pulir
+1557,みかた,味方,person on one’s side,,2,16,読,False,II,読L16-II,また、ドラえもんは弱い子供の味方です。,2,16,読,296,False,aliado (persona de tu lado)
+1558,みかん,,mandarin orange,,1,8,会,True,,"会L8(e), 会L14",りんごとみかんとさくらんぼの中で、どれがいちばん好きですか。,1,10,会,235,True,mandarina
+1559,みぎ,右,right,,1,4,会,False,,会L4,（ ）山下先生のうち：北口を出て、右へ十分ぐらいです。,1,6,読,320,True,derecha
+1560,みぎがわ,右側,right side,,1,6,会,True,,会L6(e),郵便局は右側にありますよ。,1,6,会,165,True,lado derecho
+1561,みじかい,短い,short (length),,1,7,会,False,,会L7,山田さんと鈴木さんとどっちのほうが髪が短いですか。,1,10,会,239,True,corto (longitud)
+1562,みず,水,water,,1,3,会,False,,会L3,でも、たくさん水が入ります。,2,20,会,200,False,agua
+1563,みずいろ,水色,light blue,,1,9,会,True,,会L9(e),,,,,,False,celeste
+1564,みずうみ,湖,lake,,1,11,会,False,,会L11,Ａ：湖の近くに別荘,2,23,会,265,False,lago
+1565,みずぎ,水着,swimwear,,2,13,読,False,III,読L13-III,でも近くのコンビニで水着が買えました。,2,13,読,280,False,traje de baño
+1566,みせ,店,shop; store,,1,4,読,False,III,"読L4-III, 会L13",みせでおまんじゅうをかいました。,1,4,読,311,True,tienda
+1567,みせる,見せる,to show,ru-verb,2,16,会,False,,会L16,私は先生に地図を見せてさしあげました。,2,20,会,186,False,mostrar
+1568,～みたいなX,,X like ...,,2,20,会,False,,会L20,,,,,,False,X como ...
+1569,みち,道,way; road; directions,,2,16,会,False,,会L16,美術館に行きたいけど、道がわからないんです。,2,16,会,104,False,camino; calle; indicaciones
+1570,みちにまよう,道に迷う,to become lost; to lose one’s way,u-verb,2,16,会,False,,会L16,道に迷ったんです。,2,16,会,113,False,perderse (en el camino)
+1571,みっか,三日,the third day of a month,,1,4,会,True,,会L4(e),一か月に三日か四日、アルバイトをします。,2,13,会,32,False,el día tres del mes
+1572,みっか,三日,three days,,2,13,会,False,,会L13,一か月に三日か四日、アルバイトをします。,2,13,会,32,False,tres días
+1573,みつかる,見つかる,to be found,u-verb,2,16,会,False,,会L16,いいアルバイトが見つかるといいですね。,2,16,会,99,False,ser encontrado; aparecer
+1574,みつける,見つける,to find,ru-verb,2,21,会,False,,会L21,留学生がアルバイトを見つけるのはむずかしいでしょうか。,2,19,読,319,False,encontrar
+1575,みっつ,三つ,three,,1,9,会,False,,会L9,三つ書いてください。,2,16,読,297,False,tres (cosas)
+1576,みっつめ,三つ目,third,,1,6,会,True,,会L6(e),三つ目の魚を一つ目の信号を,1,6,会,165,True,el tercero
+1577,みどり,緑,green,,1,9,会,True,,"会L9(e), 読L15-II",この神社は海の近くにあるので、天気がいい日は、海の青い色と神社の赤い色、そして山の緑がとてもきれいです。,2,15,読,290,False,verde
+1578,みなさま,みな様,everyone (polite expression of みなさん),,2,19,読,False,II,読L19-II,,,,,,False,todos ustedes (forma cortés de みなさん)
+1579,みなさん,皆さん,everyone; all of you,,1,6,読,False,III,"読L6-III, 会L14",みなさん、日本に来て何にびっくりしましたか。,2,13,読,280,False,todos; todos ustedes
+1580,みなみ,南,south,,1,6,会,True,,"会L6(e), 読L15-II",,,,,,False,sur
+1581,みぶり,身ぶり,gesture,,2,20,読,False,II,読L20-II,落語家は一人でいろいろな声や身ぶりを使って、おもしろい話をします。,2,20,読,325,False,gesto
+1582,～みまん,～未満,less than ...,,2,18,読,False,II,読L18-II,,,,,,False,menos de ...
+1583,みみ,耳,ear,,1,7,会,True,,会L7(e),たけしさんの犬はぬいぐるみみたいにかわいいです。,2,22,会,237,False,oreja
+1584,みやげ,土産,souvenir,,1,5,会,False,,会L5,これ、おみやげです。,1,5,会,129,True,recuerdo (regalo de viaje)
+1585,みらい,未来,future,,2,16,読,False,II,読L16-II,ドラえもんは未来から来たロボットです。,2,16,読,297,False,futuro
+1586,みる,見る,to see; to look at; to watch,ru-verb,1,3,会,False,,会L3,私はぜんぜんテレビを見ません。,1,3,会,91,True,ver; mirar
+1587,みんな,,all,,1,7,読,False,II,"読L7-II, 会L9",みんなはニヤニヤして、何も言いません。,2,13,読,277,False,todos
+1588,みんなで,,all (of the people) together,,1,8,会,False,,会L8,ゆい：たけしさん、あしたみんなでバーベキューをしませんか。,1,8,会,186,True,todos juntos
+1589,むいか,六日,six days,,2,13,会,False,,会L13,ついたちふつかむいか,1,4,会,127,True,seis días
+1590,むいか,六日,the sixth day of a month,,1,4,会,True,,会L4(e),ついたちふつかむいか,1,4,会,127,True,el día seis del mes
+1591,むかえにいく,迎えに行く,to go to pick up,u-verb,2,16,会,False,,会L16,迎えに行けない,2,16,会,112,False,ir a recoger (a alguien)
+1592,むかえにくる,迎えに来る,to come to pick up,irregular verb,2,16,会,False,,会L16,木村くん、迎えに来てくれてありがとう。,2,19,会,160,False,venir a recoger (a alguien)
+1593,むかし,昔,old days; past,,2,21,会,False,,会L21,私は お父さんに 昔の話をしてほしくないです。,2,21,会,215,False,antiguamente; el pasado
+1594,むかしむかし,昔々,once upon a time,,1,10,読,False,II,読L10-II,,,,,,False,érase una vez
+1595,むこう,向こう,the other side; over there,,1,12,読,False,II,読L12-II,ドアの向こうにはその場所があるのです。,2,16,読,296,False,el otro lado; allá
+1596,むし,虫,insect,,2,18,会,False,,会L18,虫が入ります。,2,18,会,151,False,insecto
+1597,むしば,虫歯,bad tooth,,1,12,会,True,,会L12(e),,,,,,False,caries
+1598,むしめがね,虫めがね,magnifying glass,,2,17,読,False,II,読L17-II,ある日、一人の髪が長い男が来て、虫めがねで天井の絵を見てみました。,2,17,読,303,False,lupa
+1599,むずかしい,難しい,difficult,,1,5,会,False,,会L5,いいえ、ぜんぜん難しくなかったです。,1,5,会,134,True,difícil
+1600,むすめ,娘,daughter,,1,12,読,False,II,読L12-II,,,,,,False,hija
+1601,むだづかい,無駄遣い,waste (money),,2,22,会,False,,会L22,無駄遣いしない,2,22,会,243,False,derroche (de dinero)
+1602,むっつ,六つ,six,,1,9,会,False,,会L9,（）おじいさんは新しいかさを六つ持っていた。,1,10,読,344,True,seis (cosas)
+1603,むね,胸,breast,,1,7,会,True,,会L7(e),,,,,,False,pecho
+1604,むらさき,紫,purple,,1,9,会,True,,会L9(e),,,,,,False,morado
+1605,むり（な）,無理,impossible,,2,18,会,False,,会L18,「無理でございます。,2,20,読,325,False,imposible
+1606,め,目,eye,,1,7,会,False,,"会L7, 会L7(e)",男の人は目が小さいですか。,1,7,会,178,True,ojo
+1607,～め,～目,-th,,2,15,会,False,,会L15,原爆が世界で初めて落とされた所はどこですか。,2,15,読,291,False,-ésimo (ordinal)
+1608,～めい,～名,... person(s),,2,15,会,True,,会L15(e),説明（せつめい）,2,22,読,336,False,... persona(s)
+1609,～めいさま,～名様,party of ... people,,2,19,会,False,,会L19,,,,,,False,grupo de ... personas (cortés)
+1610,めいしん,迷信,superstition,,2,21,読,False,II,読L21-II,あなたの国にはどんな迷信がありますか。,2,21,読,331,False,superstición
+1611,メール,,e-mail,,1,9,会,False,,会L9,ソラさんはメアリーさんのホストファミリーにメールを書きました。,1,9,読,338,True,correo electrónico
+1612,めがね,眼鏡,glasses,,1,7,会,False,,会L7,高校の時はめがねをかけていました。,1,7,会,166,True,gafas; lentes
+1613,メキシコ,,Mexico,,1,5,読,False,II,読L5-II,私はメキシコ人の留学生です。,1,11,読,350,True,México
+1614,めしあがる,召し上がる,honorific expression for たべる and のむ,u-verb,2,19,会,False,,会L19,山下先生はコーヒーを召し上がります。,2,19,会,170,False,comer/beber (forma honorífica)
+1615,めずらしい,,rare,,2,13,読,False,II,読L13-II,日本にはめずらしい食べ物がたくさんあります。,2,13,読,277,False,raro; poco común
+1616,めちゃくちゃ（な）,,messy; disorganized,,2,21,会,False,,会L21,ドアのかぎが壊され、部屋がめちゃくちゃになっていたのです。,2,21,読,332,False,desordenado; caótico
+1617,メッセージ,,message; text,,2,22,読,False,II,"読L22-II, 会L23",夜、涼にメッセージを送ったけど、返事がなかった。,2,22,読,337,False,mensaje
+1618,めったに～ない,,seldom,,2,21,読,False,II,読L21-II,,,,,,False,casi nunca
+1619,メニュー,,menu,,1,2,会,False,,会L2,メニューをどうぞ。,1,2,会,57,True,menú
+1620,めまいがする,,to feel dizzy,,1,12,会,True,,会L12(e),,,,,,False,marearse
+1621,めんきょ,免許,license,,2,22,会,False,,会L22,車の免許を取る（はい）,2,22,会,241,False,licencia
+1622,めんせつ,面接,interview,,2,23,会,False,,会L23,,,,,,False,entrevista
+1623,もう,,already,,1,9,会,False,,会L9,（2）A：もう『ワンピース』を見ましたか。,1,9,会,225,True,ya
+1624,もう～ない,,not any longer,,2,13,読,False,II,読L13-II,,,,,,False,ya no
+1625,もういちど,もう一度,one more time,,2,15,会,False,,会L15,もういちどいってください。,1,2,会,81,True,una vez más
+1626,もうしこみ,申し込み,application,,2,19,読,False,III,読L19-III,また、日本は生活費が高いそうなので、奨学金の申し込みをしたいのですが、どうしたらいいでしょうか。,2,19,読,319,False,solicitud
+1627,もうしわけありません,申し訳ありません,You have my apologies.,,2,19,読,False,III,"読L19-III, 会L20",質問が多くなってしまって、申し訳ありません。,2,19,読,319,False,Le pido mis disculpas.
+1628,もうす,申す,extra-modest expression for いう,u-verb,2,20,会,False,,会L20,まことに申し訳ございませんでした。,2,20,会,180,False,decir (forma muy humilde de いう)
+1629,もうすぐ,,very soon; in a few moments/ days,,1,12,会,False,,会L12,Ａ：もうすぐ、メアリーさんの誕生日ですよ。,2,14,会,59,False,muy pronto
+1630,もうすこし,もう少し,a little more,,2,22,会,False,,会L22,もう少し自由があったかな。,2,22,会,228,False,un poco más
+1631,もくてき,目的,object; purpose,,2,18,読,False,II,読L18-II,女子学生のアルバイトの目的で一番多いのは何ですか。,2,18,読,309,False,objetivo; propósito
+1632,もくようび,木曜日,Thursday,,1,4,会,False,,"会L4, 会L4(e)",木曜日に中国語のクラスがありますか。,1,4,会,116,True,jueves
+1633,もじ,文字,letter; character,,2,17,読,False,II,読L17-II,文字だけでは表せない気持ちがもっとわかるかもしれません。,2,23,読,345,False,letra; carácter
+1634,もし～たら,,if ...,,2,19,読,False,III,読L19-III,,,,,,False,si ...
+1635,もしもし,,Hello? (used on the phone),,1,4,会,False,,会L4,たけし：もしもし、メアリーさん。,1,4,会,103,True,¿Bueno?; ¿Aló? (al teléfono)
+1636,もち,,rice cake,,1,10,読,False,II,読L10-II,Ｂ： はい、もちろんしてあげます。,2,16,会,106,False,pastel de arroz (mochi)
+1637,もちろん,,of course,,1,7,会,False,,会L7,ロバート：もちろん。,1,7,会,167,True,por supuesto
+1638,もつ,持つ,to carry; to hold,u-verb,1,6,会,False,,会L6,山下先生： 教科書を持ってきてくださいね。,1,6,会,146,True,llevar; sostener
+1639,もっていく,持っていく,to take (a thing),u-verb,1,8,会,False,,会L8,パーティーに何か持っていきますか。,1,8,会,205,True,llevar (una cosa)
+1640,もってくる,持ってくる,to bring (a thing),irregular verb,1,6,会,False,,会L6,山下先生： 教科書を持ってきてくださいね。,1,6,会,146,True,traer (una cosa)
+1641,もっと,,more,,1,11,会,False,,会L11,高校の時、もっとたかったです。,1,11,会,265,True,más
+1642,もてる,,to be popular (in terms of romantic interest),ru-verb,2,19,会,False,,会L19,石田さんは女の人にもてますか。,2,19,会,175,False,ser popular (en el amor)
+1643,もどってくる,戻ってくる,(something/ someone) comes back,irregular verb,2,23,会,False,,会L23,メアリー：　でも、来年大学を卒業したら、また日本に戻ってきますから。,2,23,会,250,False,(algo/alguien) regresa
+1644,もどる,戻る,to return; to come/go back,u-verb,2,16,読,False,II,"読L16-II, 会L20",﹁アンキパン﹂の話に戻りましょう。,2,16,読,296,False,volver; regresar
+1645,もの,物,thing (concrete object),,1,12,会,False,,会L12,よくまい物を食べますか。,1,12,会,286,True,cosa (objeto concreto)
+1646,ものすごく,,extremely,,2,23,会,False,,会L23,ぼくが約束の場所を間違えて、後で、ものすごく怒られたり。,2,23,会,250,False,extremadamente
+1647,もも,,peach,,1,8,会,True,,会L8(e),チョコレートを十個ももらったんですよ。,2,14,会,47,False,durazno; melocotón
+1648,もらう,,to get (from somebody),u-verb,1,9,会,False,,会L9,だれに何をもらいましたか。,1,9,会,227,True,recibir (de alguien)
+1649,もんく,文句,complaint,,2,21,会,False,,会L21,文句を言うのをやめなさい。,2,22,会,234,False,queja
+1650,もんくをいう,文句を言う,to complain,u-verb,2,21,会,False,,会L21,文句を言うのをやめなさい。,2,22,会,234,False,quejarse
+1651,～や,～屋,... shop,,2,20,会,False,,会L20,にしき屋という店がどこにあるか教えていただけませんか。,2,20,会,180,False,tienda de ...
+1652,やきゅう,野球,baseball,,1,10,会,False,,会L10,Ｂ：ええ、野球なら見ます。,2,13,会,40,False,béisbol
+1653,やく,焼く,to bake; to burn; to grill,u-verb,2,21,会,False,,会L21,特に天ぷらや焼き鳥が好きです。,2,13,読,277,False,hornear; quemar; asar
+1654,やくす,訳す,to translate,u-verb,2,16,会,False,,会L16,日本語に訳してみましょう。,2,17,読,305,False,traducir
+1655,やくそく,約束,promise; appointment,,2,13,会,False,,会L13,約束を守りません。,2,13,会,36,False,promesa; cita
+1656,やくそくをまもる,約束を守る,to keep a promise,u-verb,2,13,会,False,,会L13,約束を守りません。,2,13,会,36,False,cumplir una promesa
+1657,やけどをする,,to burn oneself,,1,12,会,True,,会L12(e),,,,,,False,quemarse
+1658,やさい,野菜,vegetable,,1,2,会,False,,会L2,私は野菜は好きですが、肉はきらいです。,1,5,会,135,True,verdura
+1659,やさしい,,easy (problem); kind (person),,1,5,会,False,,会L5,先生はやさしいですか。,1,5,会,139,True,fácil (problema); amable (persona)
+1660,やすい,安い,inexpensive; cheap (thing),,1,5,会,False,,会L5,新幹線とバスとどちらのほうが安いですか。,1,10,会,239,True,barato
+1661,やすみ,休み,holiday; day off; absence,,1,5,会,False,,会L5,休みに沖縄に行きました。,1,5,会,141,True,vacaciones; día libre; ausencia
+1662,やすむ,休む,to be absent (from); to rest,u-verb,1,6,会,False,,会L6,きのうクラスを休みました。,1,6,会,161,True,faltar (a); descansar
+1663,やせています,,to be thin,,1,7,会,False,,会L7,やせている私の弟はとてもやせています。,1,7,会,172,True,estar delgado
+1664,やせる,,to lose weight,ru-verb,1,7,会,False,,会L7,やせている私の弟はとてもやせています。,1,7,会,172,True,adelgazar
+1665,やちん,家賃,rent,,2,18,会,False,,会L18,家賃は一か月五万円だ。,2,18,読,310,False,alquiler; renta
+1666,やった！,,I did it!,,2,20,読,False,II,読L20-II,「やった！,2,20,読,326,False,¡Lo logré!
+1667,やっつ,八つ,eight,,1,9,会,False,,会L9,,,,,,False,ocho (cosas)
+1668,やっぱり,,after all,,2,13,読,False,II,"読L13-II, 会L17",でも、やっぱり、もうかめを食べたくないです。,2,13,読,278,False,después de todo; tal como pensaba
+1669,やま,山,mountain,,1,5,読,False,II,"読L5-II, 会L11",きれいな山と川の近くです。,1,6,読,321,True,montaña
+1670,やまみち,山道,mountain road,,1,10,読,False,II,読L10-II,山道（やまみち）,1,10,読,344,True,camino de montaña
+1671,やめる,,to quit,ru-verb,1,11,会,False,,会L11,やめてください。,1,11,会,271,True,dejar (de hacer algo); renunciar
+1672,やる,,to do; to perform,u-verb,1,5,会,False,,会L5,あした一緒にやりましょうか。,1,5,会,128,True,hacer
+1673,やる,,"to give (to pets, plants, younger siblings, etc.)",u-verb,2,21,会,False,,会L21,日本人の友だちに話したら、「厄年だから、やっぱり悪いことが起こったんだよ。,2,21,読,332,False,"dar (a mascotas, plantas, hermanos menores, etc.)"
+1674,ゆ,湯,hot water,,2,17,会,False,,会L17,たけしさんがお湯を沸かしました。,2,18,会,140,False,agua caliente
+1675,ゆうがた,夕方,evening,,2,18,会,False,,会L18,夕方になると忙しくなるから、頼むよ。,2,18,会,136,False,atardecer; tarde
+1676,ゆうき,勇気,courage,,2,22,読,False,II,読L22-II,ずっと言わなきゃいけないと思っていたんだけど、勇気がなくて今まで逃げていた。,2,22,読,338,False,valor; coraje
+1677,ゆうしょうする,優勝する,to win a championship,irregular verb,2,23,会,False,,会L23,,,,,,False,ganar un campeonato
+1678,ゆうしょく,夕食,dinner,,2,23,会,False,,会L23,犬の世話をするお弁当を作る夕食をおごるアイロンをかける,2,23,会,260,False,cena
+1679,ゆうじん,友人,friend,,2,19,読,False,III,読L19-III,友人のモハメッドさんの紹介でメールを書いています。,2,19,読,319,False,amigo
+1680,ゆうびんきょく,郵便局,post office,,1,2,会,False,,会L2,（ゆうびんきょくは）あそこです。,1,2,会,62,True,oficina de correos
+1681,ゆうめい（な）,有名,famous,,1,8,会,False,,会L8,有名な所ですか。,1,8,会,200,True,famoso
+1682,ゆうめいじん,有名人,celebrity,,1,10,会,False,,会L10,有名人に会ったことがありますか。,2,13,会,40,False,celebridad
+1683,ゆき,雪,snow,,1,8,会,False,,"読L10-II, 会L8",ときどき雪が降ります。,1,8,会,201,True,nieve
+1684,ゆっくり,,slowly; leisurely; unhurriedly,,1,6,会,False,,会L6,（ホストファミリー）ゆっくり話してくれませんか。,2,16,会,107,False,despacio; con calma
+1685,ゆび,指,finger,,1,7,会,True,,会L7(e),,,,,,False,dedo
+1686,ゆびわ,指輪,ring,,2,14,会,False,,会L14,メアリーさんに指輪をあげましたか。,2,14,会,59,False,anillo
+1687,ゆめ,夢,dream,,1,11,会,False,,会L11,あなたの将来の夢は何ですか。,1,11,会,263,True,sueño
+1688,ようか,八日,eight days,,2,13,会,False,,会L13,Ａ：土曜日にパーティーをしようか。,2,15,会,84,False,ocho días
+1689,ようか,八日,the eighth day of a month,,1,4,会,True,,会L4(e),なのかようかここのかとおかじゅういちにちじゅうににちじゅうさんにち,1,4,会,127,True,el día ocho del mes
+1690,ようこそ,,Welcome.,,2,19,会,False,,会L19,,,,,,False,Bienvenido.
+1691,ようじ,用事,business to take care of,,1,12,会,False,,会L12,夏菜さんが東京に来た時、黒木は急に用事ができて、来られなくなってしまった。,2,22,読,338,False,asunto pendiente
+1692,ようふく,洋服,clothes,,2,18,読,False,II,読L18-II,旅行したい生活のゆとりがほしい生活費サークルで使う洋服が買いたい貯金したい参考：「第55 回学生の消費生活に関する実態調査」,2,18,読,309,False,ropa (occidental)
+1693,ヨーロッパ,,Europe,,2,22,会,False,,会L22,ヨーロッパに行ったことがありますか。,1,11,会,260,True,Europa
+1694,よかったら,,if you like,,1,7,会,False,,会L7,よかったら飲みに楽ませんか。,1,7,会,167,True,si quieres
+1695,よきん,預金,savings,,2,13,会,True,,会L13(e),,,,,,False,ahorros
+1696,よく,,often; much,,1,3,会,False,,会L3,はい、よく読みます。,1,3,会,99,True,a menudo; mucho
+1697,よく,,well,,2,14,会,False,,会L14,ジョン：　よく似合っていますよ。,2,14,会,47,False,bien
+1698,よこ,横,side; horizontal,,2,23,読,False,II,読L23-II,日本語の顔文字は顔が縦になっていますが、英語の顔文字は横になっています。,2,23,読,344,False,lado; horizontal
+1699,よごす,汚す,to make dirty,u-verb,2,18,会,False,,会L18,好きな服を汚したことがありますか。,2,18,会,147,False,ensuciar
+1700,よごれる,汚れる,to become dirty,ru-verb,2,18,会,False,,会L18,あっ、スカートが汚れてしまいましたね。,2,18,会,136,False,ensuciarse
+1701,よじ,四時,four o’clock,,1,1,会,True,,会L1(e),かぶきはお三時に始まって、四時に終わりました。,1,9,会,222,True,las cuatro en punto
+1702,よしゅう,予習,preparation of a lesson,,2,22,会,False,,会L22,,,,,,False,preparación de una lección
+1703,よっか,四日,four days,,2,13,会,False,,会L13,一か月に三日か四日、アルバイトをします。,2,13,会,32,False,cuatro días
+1704,よっか,四日,the fourth day of a month,,1,4,会,True,,会L4(e),一か月に三日か四日、アルバイトをします。,2,13,会,32,False,el día cuatro del mes
+1705,よっつ,四つ,four,,1,9,会,False,,会L9,,,,,,False,cuatro (cosas)
+1706,よてい,予定,schedule; plan,,2,15,会,False,,会L15,メアリー：　たけしくん、今度の休み、予定ある？,2,15,会,70,False,plan; agenda
+1707,よぶ,呼ぶ,to call (one’s name); to invite,u-verb,2,19,会,False,,会L19,お決まりになりましたらお呼びください。,2,19,会,160,False,llamar (por su nombre); invitar
+1708,よむ,読む,to read,u-verb,1,3,会,False,,会L3,メアリーさんは図書館で雑誌を読みますか。,1,3,会,95,True,leer
+1709,よやく,予約,reservation,,1,10,会,False,,会L10,じゃあ、ツアーの予約をお願いします。,1,10,会,231,True,reserva
+1710,よやくする,予約する,to reserve,irregular verb,2,15,会,False,,会L15,インターネットで旅館を予約しておきます。,2,15,会,84,False,reservar
+1711,よる,夜,night,,1,5,読,False,II,"読L5-II, 会L6",あしたの夜、何をしますか。,1,6,会,159,True,noche
+1712,よる,寄る,to stop by,u-verb,2,19,会,False,,会L19,ちょっとうちに寄らない？,2,19,会,161,False,pasar por (un lugar)
+1713,よろしかったら,,if it is okay (polite),,2,20,会,False,,会L20,よろしかったら、交換いたしますが。,2,20,会,180,False,si le parece bien (cortés)
+1714,よろしくおつたえください,よろしくお伝えください,Please give my best regards (to ... ).,,2,19,会,False,,会L19,奥様によろしくお伝えください。,2,19,会,161,False,Dele mis saludos (a ...).
+1715,よろしくおねがいします,よろしくお願いします,Nice to meet you.,,1,,G,False,,会G,お忙しいと思いますが、どうぞよろしくお願いします。,2,19,読,319,False,Mucho gusto. (encantado; cuento con usted)
+1716,よわい,弱い,weak,,2,16,読,False,II,読L16-II,また、ドラえもんは弱い子供の味方です。,2,16,読,296,False,débil
+1717,よんぷん,四分,four minutes,,1,1,会,True,,会L1(e),よじ 4よんぷん 14 じゅうよんぷん,1,1,会,55,True,cuatro minutos
+1718,らいがっき,来学期,next semester,,1,11,会,False,,会L11,来学期、何がしたいですか。,1,11,会,265,True,el próximo semestre
+1719,らいげつ,来月,next month,,1,4,会,True,,"会L4(e), 会L8",来月もひまじゃないです。,1,8,会,201,True,el próximo mes
+1720,らいしゅう,来週,next week,,1,4,会,True,,"会L4(e), 会L6",来週、カラオケに行く？,1,8,会,199,True,la próxima semana
+1721,らいねん,来年,next year,,1,4,会,True,,"会L4(e), 会L6",来年も日本語を勉強しますか。,1,10,会,244,True,el próximo año
+1722,らく（な）,楽,easy; comfortable,,2,22,会,False,,会L22,がんばっておけば、いい大学に入れて、後で楽になるんだから。,2,22,会,228,False,fácil; cómodo
+1723,らくご,落語,comic monologue,,2,20,読,False,II,読L20-II,落語は今から三百年以上前の江戸時代に始まりました。,2,20,読,325,False,monólogo cómico (rakugo)
+1724,らくごか,落語家,comic storyteller,,2,20,読,False,II,読L20-II,このおもしろい話を落語と言い、落語をする人を落語家と言います。,2,20,読,325,False,narrador de rakugo
+1725,ラジオ,,radio,,2,14,会,False,,会L14,インターネットで日本のラジオ番組が聞けます。,2,15,会,79,False,radio
+1726,りこんする,離婚する,to get a divorce,irregular verb,2,17,会,False,,会L17,離婚する すごい 秘密,2,17,会,134,False,divorciarse
+1727,りそう,理想,ideal,,2,23,会,False,,会L23,雨が降りそうです。,2,13,会,29,False,ideal
+1728,りゅうがくする,留学する,to study abroad,irregular verb,1,11,会,False,,会L11,留学したいと思っています。,1,11,会,258,True,estudiar en el extranjero
+1729,りゅうがくせい,留学生,international student,,1,1,会,False,,会L1,あのう、りゅうがくせいですか。,1,1,会,36,True,estudiante internacional
+1730,りょう,両,a unit of currency used in the Edo period,,2,20,読,False,II,読L20-II,お母さんのりょうりはとてもおいしかったです。,1,9,読,338,True,ryō (moneda del período Edo)
+1731,りょう,寮,dormitory,,1,9,読,False,II,"読L9-II, 会L17",お母さんのりょうりはとてもおいしかったです。,1,9,読,338,True,residencia estudiantil
+1732,りょうがえ,両替,money exchange,,2,13,会,True,,会L13(e),一万円札を千円札十枚に両替できますか。,2,13,会,45,False,cambio de divisas
+1733,りょうしん,両親,parents,,2,14,会,False,,会L14,両親が（私に）新しい車をくれるかもしれません。,2,14,会,53,False,padres
+1734,りょうり,料理,cooking; dish,,1,6,読,False,III,"読L6-III, 会L10",（ ） ソラさんはお母さんの料理が好きだ。,1,9,読,338,True,cocina; plato (comida)
+1735,りょうりする,料理する,to cook,irregular verb,1,8,会,False,,会L8,ロバートさんは料理するのが好きですか。,1,8,会,186,True,cocinar
+1736,りょかん,旅館,Japanese inn,,2,15,会,False,,会L15,インターネットで旅館を予約しておきます。,2,15,会,84,False,posada japonesa (ryokan)
+1737,りょこう,旅行,travel,,1,5,会,False,,会L5,たけし： ロバートさん、旅行は楽しかったですか。,1,5,会,129,True,viaje
+1738,りょこうがいしゃ,旅行会社,travel agency,,2,17,会,False,,会L17,卒業したら、旅行会社に就職するつもりです。,2,17,会,127,False,agencia de viajes
+1739,りょこうする,旅行する,to travel,irregular verb,1,10,会,False,,会L10,今度の休みに旅行しますか。,1,10,会,244,True,viajar
+1740,りれきしょ,履歴書,résumé,,2,14,会,False,,会L14,,,,,,False,currículum
+1741,りんご,,apple,,1,8,会,True,,"会L8(e), 会L10",りんごとみかんとさくらんぼの中で、どれがいちばん好きですか。,1,10,会,235,True,manzana
+1742,ルームメイト,,roommate,,1,11,会,False,,会L11,人とルームメイトになりたくないです。,2,15,会,86,False,compañero de cuarto
+1743,るす,留守,absence; not at home,,2,21,会,False,,会L21,ジョンさん、留守の間に警察から電話がありましたよ。,2,21,会,207,False,ausencia; no estar en casa
+1744,るすばん,留守番,looking after a house during someone’s absence,,2,23,会,False,,会L23,まで、留守番をしなければいけません。,2,23,会,267,False,cuidar la casa en ausencia de alguien
+1745,れい,例,example,,1,11,会,True,,会L11(e),例えば、﹁どこでもドア﹂。,2,16,読,296,False,ejemplo
+1746,れいぞうこ,冷蔵庫,refrigerator,,2,18,会,False,,会L18,Ａ：実は冷蔵庫の食べ物を全部食べちゃった。,2,18,会,150,False,refrigerador
+1747,れきし,歴史,history,,1,1,会,False,,"会L1, 会L2",せんこうはれきしです。,1,1,読,299,True,historia
+1748,レストラン,,restaurant,,1,4,会,False,,会L4,あなたの町に日本のレストランがありますか。,1,4,会,115,True,restaurante
+1749,レポート,,(term) paper,,1,4,会,False,,会L4,メアリーさんは土曜日にレポートを書きましたか。,1,4,会,121,True,trabajo escrito; informe
+1750,れんしゅう,練習,exercise,,1,11,会,True,,会L11(e),日本語を練習する（はい）,1,11,会,264,True,ejercicio; práctica
+1751,れんしゅうする,練習する,to practice,irregular verb,1,10,会,False,,会L10,日本語を練習する（はい）,1,11,会,264,True,practicar
+1752,レントゲン,,X-ray,,1,12,会,True,,会L12(e),,,,,,False,radiografía
+1753,れんらくする,連絡する,to contact,irregular verb,2,21,会,False,,会L21,とにかく、警察に連絡したほうがいいですよ。,2,21,会,206,False,contactar
+1754,ろうそく,,candle,,2,18,会,False,,会L18,,,,,,False,vela
+1755,ろくがつ,六月,June,,1,4,会,True,,会L4(e),私は今年の六月に大学を卒業いたしました。,2,20,会,184,False,junio
+1756,ろくじ,六時,six o’clock,,1,1,会,True,,会L1(e),六時ごろ家に帰ります。,1,3,会,100,True,las seis en punto
+1757,ろっぷん,六分,six minutes,,1,1,会,True,,会L1(e),ろくじ 6 ろっぷん 16 じゅうろっぷん,1,1,会,55,True,seis minutos
+1758,ロボット,,robot,,2,16,読,False,II,読L16-II,ドラえもんは未来から来たロボットです。,2,16,読,297,False,robot
+1759,ワイン,,wine,,1,6,読,False,III,読L6-III,ワインビールステーキ,1,6,読,323,True,vino
+1760,わかい,若い,young,,1,9,会,False,,会L9,若い時、マイケル・ジャクソンが好きでした。,1,9,会,222,True,joven
+1761,わかもの,若者,young people,,2,15,読,False,II,読L15-II,日本の若者のファッションに興味があります。,2,15,読,292,False,los jóvenes
+1762,わかる,,to understand,u-verb,1,4,会,False,,会L4,メアリー： わかりません。,1,4,会,102,True,entender
+1763,わかれる,別れる,to break up; to separate,ru-verb,1,12,会,False,,会L12,どうして彼と別れたんですか。,1,12,会,277,True,romper (una relación); separarse
+1764,わすれる,忘れる,to forget; to leave behind,ru-verb,1,6,会,False,,会L6,ロバート： 先生、教科書を忘れました。,1,6,会,146,True,olvidar; dejar olvidado
+1765,わたくし,私,I (formal),,2,13,会,False,,会L13,ジョン： 私、ジョン・ワンと申します。,2,13,会,22,False,yo (formal)
+1766,わたし,私,I,,1,1,会,False,,会L1,わたしはシラ・半ムです。,1,1,会,41,True,yo
+1767,わたしたち,私たち,we,,1,12,読,False,II,"読L12-II, 会L14",どうして私たちは七タの日にたんざくに願いを書きますか。,1,12,読,356,True,nosotros
+1768,わたす,渡す,to give; to hand,u-verb,2,20,読,False,II,読L20-II,「どうしてその皿を渡したくないんだ。,2,20,読,326,False,entregar; dar
+1769,わたる,渡る,to cross,u-verb,1,6,会,True,,"会L6(e), 読L15-II",,,,,,False,cruzar
+1770,わらう,笑う,to laugh,u-verb,2,16,会,False,,会L16,時、笑ってはいけません。,2,16,会,112,False,reír
+1771,わりびきけん,割引券,discount coupon,,2,15,会,False,,会L15,それから、これ、美術館の割引券ですが、よかったらどうぞ。,2,15,会,71,False,cupón de descuento
+1772,わるい,悪い,bad,,1,12,会,False,,会L12,気分が悪いです。,1,12,会,294,True,malo
+1773,わるぐちをいう,悪口を言う,to talk behind someone’s back,u-verb,2,23,会,False,,会L23,,,,,,False,hablar mal de alguien a sus espaldas
+1774,ワンルームマンション,,studio apartment,,2,18,読,False,III,読L18-III,大学の近くのワンルームマンションに住んでいる。,2,18,読,310,False,estudio (apartamento de un ambiente)
