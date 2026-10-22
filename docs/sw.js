@@ -1,5 +1,5 @@
 // Service worker: funciona sin conexión. Sube VERSION al publicar cambios.
-const VERSION = 'genki-srs-v1';
+const VERSION = 'genki-srs-v2';
 const ASSETS = ['./', 'index.html', 'styles.css', 'app.js', 'data.js', 'manifest.webmanifest', 'icons/icon-180.png', 'icons/icon-192.png', 'icons/icon-512.png'];
 self.addEventListener('install', (e) => {
   e.waitUntil(caches.open(VERSION).then((c) => c.addAll(ASSETS)).then(() => self.skipWaiting()));

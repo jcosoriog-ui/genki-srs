@@ -57,7 +57,9 @@ Extracción (requiere PyMuPDF y macOS Vision): `extract.py` → `ocr.swift` → 
 - Sin dependencias ni build: `index.html`, `styles.css`, `app.js`, `data.js` (generado por `build_app_data.py`), `sw.js` (offline), `manifest.webmanifest`, `icons/`.
 - **Al publicar cambios, sube `VERSION` en `docs/sw.js`** o los iPhone seguirán con la versión en caché.
 - Progreso en `localStorage` (clave `genki-srs-v1`), con exportar/importar en Ajustes.
-- SRS (`app.js`): etapas 0–9; intervalos 4 h, 8 h, 1 d, 2 d, 1 sem, 2 sem, 1 mes, 4 meses; etapa 9 = dominada (sale de la rotación). Fallo → −2 etapas y se repite en la misma sesión. Etapas 0–1: opción múltiple (4); etapa 2: inversa (español→japonés); ≥3: recuerdo activo con autoevaluación (Otra vez/Bien/Fácil).
-- Lecciones: la siguiente se desbloquea cuando el 80% de la actual llega a etapa ≥5 («consolidada»). Saludos (G) van con la L1; las «Useful Expressions» (e) están desactivadas por defecto.
+- SRS (`app.js`): etapas 0–9; intervalos 4 h, 8 h, 1 d, 2 d, 1 sem, 2 sem, 1 mes, 4 meses; etapa 9 = dominada (sale de la rotación). Fallo → −2 etapas y se repite en la misma sesión. Etapas 0–1: opción múltiple (4); etapa 2: inversa (español→japonés, solo vocabulario); ≥3: recuerdo activo con autoevaluación (Otra vez/Bien/Fácil).
+- Qué estudiar (`state.study`): tipo `vocab` / `kanji` / `mix` y cualquier conjunto de lecciones 1–23 (kanji: L3–L23). No hay bloqueo de lecciones; la «lección sugerida» es la primera con <80% en etapa ≥5. Saludos (G) van con la L1; las «Useful Expressions» (e) están desactivadas por defecto.
+- Sesión sin límite diario: repasos pendientes de la selección → bloques de 5 nuevas (presentación y luego examen) → práctica extra (10 tarjetas, las menos consolidadas primero; acertar no cambia intervalos, fallar sí). Termina cuando el usuario pulsa «Terminar».
+- Tarjeta de kanji: compuestos de la tabla del libro, palabras del vocabulario que contienen el kanji (`VOCAB_BY_KANJI`) y oración del libro, con el kanji resaltado. Tarjeta de vocabulario: desglose de sus kanji de Genki.
 - Probar en local: `python3 -m http.server 8765 --directory docs`.
 
