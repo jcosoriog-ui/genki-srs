@@ -4,6 +4,8 @@ Proyecto para construir una app de estudio de japonés basada en **GENKI I y II 
 Las fuentes son los PDF en
 `~/Library/CloudStorage/OneDrive-Personal/03. Recursos/Japones/Sayaka-san の日本語/Genki/`.
 
+**Antes de cambiar la app, lee [DISENO.md](DISENO.md)**: decisiones tomadas con el usuario, diseño del SRS, limitaciones y pendientes. Actualízalo al cerrar cada sesión de trabajo.
+
 ## Datos (`data/`)
 
 Cada tabla existe en JSON (fuente principal para la app) y en CSV (para revisar en Excel/Numbers).
